@@ -4,7 +4,7 @@ bio:                'PhD Student'
 description:        "A passion for science and discovery."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo2square.png'
+logo:               'assets/img/meingh.jpg'
 background:         'assets/img/vadim-gromov-8XFcmzA4WO8-unsplash.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
