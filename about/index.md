@@ -8,5 +8,4 @@ comments: false
     
 
 ## About me
-* PhD student
-* Naturalist
+* PhD student in [Gent Lab](https://gentlab.github.io)
