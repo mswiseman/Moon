@@ -4,7 +4,7 @@ bio:                'PhD Student'
 description:        "A passion for science and discovery."
 reading_time:       true
 words_per_minute:   200
-logo:               'mswiseman/assets/main/logosquare.png'
+logo:               'assets/img/logosquare.png'
 background:         'mswiseman/assets/main/fullsizeoutput_2a1.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
