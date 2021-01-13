@@ -8,6 +8,7 @@ comments: false
 
 Abbreviated *Curriculum vitae* for Michele Wiseman
 =====
+<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_6795.JPG" width = "500">
 * Current Rank: PhD student
 * Email: michele.wiseman@oregonstate.edu
 
@@ -70,11 +71,10 @@ On a Personal Note
 * I appreciate civil debates with those who hold differing opinions.
 * I make evidence-based decisions in my professional and personal life.
 * I'm drawn to `coding` and robotics to reduce repetitive work. 
-* I a fierce advocate of using biotechnology to reduce our reliance on synthetic inputs.
+* I a fierce advocate for using biotechnology to reduce our reliance on synthetic inputs.
 * I am a [maker](https://en.wikipedia.org/wiki/Maker_culture). I make things to beautify my surroundings and to simplify tasks.
 * I enjoy fixing and problem solving. 
 * I enjoy exploring the natural world -- especially looking for new and exciting fungi with my dog, Moose. 
-
 
 
 
