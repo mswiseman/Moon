@@ -40,7 +40,35 @@ An Introduction to Powdery Mildew. Authored by Dave H. Gent, Briana Claassen, an
 [![The Hop Powdery Mildew Risk Index](https://img.youtube.com/vi/DlaKNCMELB4/maxresdefault.jpg)](https://www.youtube.com/watch?v=DlaKNCMELB4)
 The Hop Powdery Mildew Risk Index. Authored by Dave H. Gent, Briana Claassen, and Michele S. Wiseman
 
+Biological Sequence Data Contributions
+---------
+* Contributer to over 4200 GenBank sequences
 
+Departmental Service
+---------------------
+* OSU Faculty Research Assistant Search Committee Member. 2016, 2017, and 2019.
+* Promega On-Site Manager for Oregon State University. 2017 - 2020.
+* Faculty Research Assistant Department Representative. 2017 - 2020.
+* OSU Plant Clinic Student Hiring Committee. 2014-2018.
+* Discovery Days Volunteer. 2011.
+
+Public Service
+----------------
+* Volunteer, COVID Response Collective. 2020 - Current.
+* Fungal Foray Leader, various local groups. 2012, 2018 - 2020.
+* Santiam Fire Community Response Team and Host. 2020.
+* Facilitator, Out-N-About Youth Group. 2019 - Current.
+* Election canvasser. 2018, 2020-21.
+* "Expert" for OSU Ask-An-Expert, 2014 - 2015.
+* Coach and referee, Rolling Hills Roller Derby and Willamette Roller Derby. 2013-2015.
+* Volunteer, Humane Society of the Palouse. 2013.
+* Volunteer, Chintimini Wildlife Center. 2010-2011.
+
+On A Personal Note
+----------
+* My thirst for knowledge is deep and usually determines how I delegate my time. 
+* I don't enjoy repetitive work; thus, to miminize these tasks, I have turned to code. Thus, I'm becoming more and more computationally proficiant and am prone think like an engineer. 
+* Outside of my professional life, I enjoy exploring the natural world -- especially looking for new and exciting fungi with my dog, Moose. 
 
 
 
