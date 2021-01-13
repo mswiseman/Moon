@@ -71,7 +71,7 @@ On a Personal Note
 * I make evidence-based decisions in my professional and personal life.
 * I'm drawn to `coding` and robotics to reduce repetitive work. 
 * I a fierce advocate of using biotechnology to reduce our reliance on synthetic inputs.
-* I am a [maker](https://en.wikipedia.org/wiki/Maker_culture). I make things to beautify my surrounding and make tasks easier.
+* I am a [maker](https://en.wikipedia.org/wiki/Maker_culture). I make things to beautify my surroundings and to simplify tasks.
 * I enjoy fixing and problem solving. 
 * I enjoy exploring the natural world -- especially looking for new and exciting fungi with my dog, Moose. 
 
