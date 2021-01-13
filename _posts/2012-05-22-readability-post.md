@@ -43,7 +43,7 @@ So, trying to get that *obscure research subject* proposal funded? Aside from a 
 
 Putting my money where my mouth is...
 -------------------------------------
-![My recent Wikipedia contributions](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/Screen%20Shot%202021-01-12%20at%205.11.35%20PM.png "My Wiki Contributions"){:class="img-responsive"}
+![My recent Wikipedia contributions](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/Screen%20Shot%202021-01-12%20at%205.11.35%20PM.png&s=300 "My Wiki Contributions")
 
 I found little or erroraneous information when I went looking for the research topics we cover in the [Gent Lab](https://gentlab.github.io). So, I've taken to correcting these errors and have started expanding on some of our more obscure research. I have more to do; however, as I have always said about writing, it's best to start by just putting words down and then build from there. 
 
