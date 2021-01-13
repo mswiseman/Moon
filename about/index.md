@@ -6,6 +6,23 @@ date: 2021-01-12
 comments: false
 ---
     
-
 ## About me
-* PhD student in [Gent Lab](https://gentlab.github.io)
+* Curiousity driven
+* Nature enthusiast
+* Maker and designer
+
+Abbreviated *Curriculum vitae*
+=====
+Current Rank: PhD student
+Email: michele.wiseman@oregonstate.edu
+
+Education
+----
+* PhD *in progress*, Oregon State University, 2021 - current
+* MSc in Plant Pathology, Washington State University, 2013
+* BSc in Biology, Oregon State University, 2011
+
+
+
+
+
