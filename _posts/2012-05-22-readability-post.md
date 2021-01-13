@@ -28,8 +28,8 @@ Bottom line: **If there is a Wikipedia page for your search, it is usually your 
 
 From the [ShortWave](https://www.npr.org/podcasts/510351/short-wave) transcript:
 
->KWONG: Wikipedia sees 300 billion page views every day on average and has the power to influence the direction of scientific research.
-WADE: So if a research topic or a particular kind of emerging interdisciplinary area is well written about and well documented on Wikipedia, that will grow and blossom. People will be attracted to and read that. You know, chemists who read  pages about cool new chiral molecules will further develop those chiral  molecules because they'll have read this kind of introduction.
+>EMILY KWONG: Wikipedia sees 300 billion page views every day on average and has the power to influence the direction of scientific research.
+>JESS WADE: So if a research topic or a particular kind of emerging interdisciplinary area is well written about and well documented on Wikipedia, that will grow and blossom. People will be attracted to and read that. You know, chemists who read  pages about cool new chiral molecules will further develop those chiral  molecules because they'll have read this kind of introduction.
 
 So, trying to get that *obscure research subject* proposal funded? Aside from a proposal, put together a Wiki page, expand a current one, simply the language, etc. to make the information more accessable. 
 
