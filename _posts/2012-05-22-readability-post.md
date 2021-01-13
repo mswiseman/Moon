@@ -29,7 +29,7 @@ Bottom line: **If there is a Wikipedia page for your search, it is usually your 
 From the [ShortWave](https://www.npr.org/podcasts/510351/short-wave) transcript:
 
 >**EMILY KWONG**: Wikipedia sees *300 billion page views every day* on average and has the power to influence the direction of scientific research.
->**JESS WADE**: So *if* a research topic or a particular kind of emerging interdisciplinary area is *well written about and well documented on Wikipedia*, that will **grow and blossom**. People will be attracted to and read that. You know, chemists who read  pages about cool new chiral molecules will further develop those chiral  molecules because they'll have read this kind of introduction.
+>**JESS WADE**: So *if* a research topic or a particular kind of emerging interdisciplinary area is *well written about and well documented on Wikipedia*, that will **grow and blossom**. People will be attracted to and read that.
 
 So, trying to get that *obscure research subject* proposal funded? Aside from a proposal, put together a Wiki page, expand a current one, simply the language, etc. to make the information more accessable. 
 
@@ -37,7 +37,7 @@ Putting my money where my mouth is...
 -------------------------------------
 <img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/Screen%20Shot%202021-01-12%20at%205.11.35%20PM.png" width=300 align=center>
 
-I found little or erroraneous information when I went looking for the research topics we cover in the [Gent Lab](https://gentlab.github.io). So, I've taken to correcting these errors and have started expanding on some of our more obscure research. I have more to do; however, as I have always said about writing, it's best to start by just putting words down and then build from there. 
+I found little or erroraneous information when I went looking for the research topics we cover in the [Gent Lab](https://gentlab.github.io). So, I made some corrections and have expanded on some articles. I have more to do; however, as I have always said about writing, it's best to start by just putting words down and then build from there. 
 
 Make some Wikipedia pages and go promote your science!
 -----------
