@@ -29,7 +29,16 @@ Research Foci
 ------------
 While pursuing my PhD in Botany and Plant Pathology at Oregon State University, I intend to focus my research on genetic mechanisms controlling plant susceptibility/resistance to disease. My primary focus will be examining differential expression of the *mlo* gene family in response to powdery mildew infection in hop. Secondary foci include examination of *s*-gene networks, functional studies of *mlo* susceptibility genes, development of susceptibility/resistance markers, and continued collaborative and/or hop grower-directed applied pathology research.
 
-Published Peer-Reviewed Manuscripts
+[Published Peer-Reviewed Manuscripts on Google Scholar](https://scholar.google.com/citations?user=0h0Sw8YAAAAJ&hl=en)
+---------------------
+
+Multimedia Content Contributer
+-----
+![An Introduction to Powdery Mildew](https://www.youtube.com/watch?v=ZaMs03Z2b0Y)
+* Gent DH, Claassen B, and MS Wiseman
+
+![The Hop Powdery Mildew Risk Index](https://www.youtube.com/watch?v=DlaKNCMELB4)
+* Gent DH, Claassen B, and MS Wiseman
 
 
 
