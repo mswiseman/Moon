@@ -35,10 +35,10 @@ While pursuing my PhD in Botany and Plant Pathology at Oregon State University, 
 Multimedia Content Contributer
 -----
 [![An Introduction to Powdery Mildew](https://img.youtube.com/vi/ZaMs03Z2b0Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZaMs03Z2b0Y)
-* Gent DH, Claassen B, and MS Wiseman
+An Introduction to Powdery Mildew. Authored by Dave H. Gent, Briana Claassen, and Michele S. Wiseman
 
 [![The Hop Powdery Mildew Risk Index](https://img.youtube.com/vi/DlaKNCMELB4/maxresdefault.jpg)](https://www.youtube.com/watch?v=DlaKNCMELB4)
-* Gent DH, Claassen B, and MS Wiseman
+The Hop Powdery Mildew Risk Index. Authored by Dave H. Gent, Briana Claassen, and Michele S. Wiseman
 
 
 
