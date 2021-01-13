@@ -24,7 +24,7 @@ This feat is absolutely incredible and undeniabily helps uplift female and POC s
 
 **Wikipedia**
 
-Bottom line: **If there is a Wikipedia page, it will usually be your top result.** This isn't unique to just biographical searches, it also applies to other important topics, such as *your research subject*. Why do care?
+Bottom line: **if there is a Wikipedia page, it will usually be your top result.** This isn't unique to just biographical searches, it also applies to other important topics, such as *your research subject*. Why should you care?
 
 The Importance of Making your Research Accessible to the Public
 ------
