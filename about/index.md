@@ -8,7 +8,6 @@ comments: false
 
 Abbreviated *Curriculum vitae* for Michele Wiseman
 =====
-<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_6795.JPG" width = "500">
 * Current Rank: PhD student
 * Email: michele.wiseman@oregonstate.edu
 
@@ -76,8 +75,5 @@ On a Personal Note
 * I enjoy fixing and problem solving. 
 * I enjoy exploring the natural world -- especially looking for new and exciting fungi with my dog, Moose. 
 
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_6795.JPG" width = "500">
+Here's me, sharing my love of fungi with the public.
