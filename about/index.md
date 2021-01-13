@@ -6,7 +6,7 @@ date: 2021-01-12
 comments: false
 ---
 
-Abbreviated *Curriculum vitae*
+Abbreviated *Curriculum vitae* for Michele Wiseman
 =====
 * Current Rank: PhD student
 * Email: michele.wiseman@oregonstate.edu
@@ -67,9 +67,11 @@ Public Service
 On a Personal Note
 ----------
 * My thirst for knowledge often delegates my time. 
-* I'm drawn to `coding` and robotics to reduce repitive work. 
+* I appreciate civil debates with those who hold differing opinions.
+* I make evidence-based decisions in my professional and personal life.
+* I'm drawn to `coding` and robotics to reduce repetitive work. 
 * I a fierce advocate of using biotechnology to reduce our reliance on synthetic inputs.
-* I am a maker. I make things to beautify my surrounding and make tasks easier.
+* I am a [maker](https://en.wikipedia.org/wiki/Maker_culture). I make things to beautify my surrounding and make tasks easier.
 * I enjoy fixing and problem solving. 
 * I enjoy exploring the natural world -- especially looking for new and exciting fungi with my dog, Moose. 
 
