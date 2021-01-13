@@ -64,11 +64,16 @@ Public Service
 * Volunteer, Humane Society of the Palouse. 2013.
 * Volunteer, Chintimini Wildlife Center. 2010-2011.
 
-On A Personal Note
+On a Personal Note
 ----------
-* My thirst for knowledge is deep and usually determines how I delegate my time. 
-* I don't enjoy repetitive work; thus, to miminize these tasks, I have turned to code. Thus, I'm becoming more and more computationally proficiant and am prone think like an engineer. 
-* Outside of my professional life, I enjoy exploring the natural world -- especially looking for new and exciting fungi with my dog, Moose. 
+* My thirst for knowledge often delegates my time. 
+* I'm drawn to `coding` and robotics to reduce repitive work. 
+* I a fierce advocate of using biotechnology to reduce our reliance on synthetic inputs.
+* I am a maker. I make things to beautify my surrounding and make tasks easier.
+* I enjoy fixing and problem solving. 
+* I enjoy exploring the natural world -- especially looking for new and exciting fungi with my dog, Moose. 
+
+
 
 
 
