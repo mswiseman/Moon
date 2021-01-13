@@ -7,7 +7,7 @@ tags: [science communication, wikipedia]
 comments: false
 ---
 On Science Communication
-------------------------
+=======================
 Replications are a critical consideration when making statistical interferences.  As such, much of my time in the wet lab involves engaging in a repetitive task, such as setting up repeat qPCR runs to examine run-to-run variance. During these repititive tasks I take a systematic and sequential approach:
 
 1. Type a step-wise plan
@@ -22,16 +22,21 @@ One of my favorite podcasts, [ShortWave](https://www.npr.org/podcasts/510351/sho
 
 This feat is absolutely incredible and undeniabily helps uplift female and POC scientists by making their scientific achievements more accessible to the public. Go ahead and google `Rosalind Franklin`. What pops up first? 
 
-**Wikipedia. **
+**Wikipedia**
 
 Bottom line: **If there is a Wikipedia page for your search, it is usually your top search result.** This isn't unique to just biographical searches, it also applies to other important topics, such as *your research subject*. Once again, why do we care?
 
 From the [ShortWave](https://www.npr.org/podcasts/510351/short-wave) transcript:
 
 ```
-KWONG: Wikipedia sees 300 billion page views every day on average and has the power to influence the direction of scientific research.
+KWONG: Wikipedia sees 300 billion page views every day on average and has 
+the power to influence the direction of scientific research.
 
-WADE: So if a research topic or a particular kind of emerging interdisciplinary area is well written about and well documented on Wikipedia, that will grow and blossom. People will be attracted to and read that. You know, chemists who read pages about cool new chiral molecules will further develop those chiral molecules because they'll have read this kind of introduction.
+WADE: So if a research topic or a particular kind of emerging interdisciplinary
+area is well written about and well documented on Wikipedia, that will grow and
+blossom. People will be attracted to and read that. You know, chemists who read 
+pages about cool new chiral molecules will further develop those chiral 
+molecules because they'll have read this kind of introduction.
 ```
 
 So, trying to get that *obscure research subject* proposal funded? Aside from a proposal, put together a Wiki page, expand a current one, simply the language, etc. to make the information more accessable. 
