@@ -6,7 +6,8 @@ excerpt: "Making complex information accessible"
 tags: [science communication, wikipedia]
 comments: false
 ---
-
+On Science Communication
+------------------------
 Replications are a critical consideration when making statistical interferences.  As such, much of my time in the wet lab involves engaging in a repetitive task, such as setting up repeat qPCR runs to examine run-to-run variance. During these repititive tasks I take a systematic and sequential approach:
 
 1. Type a step-wise plan
@@ -21,7 +22,7 @@ One of my favorite podcasts, [ShortWave](https://www.npr.org/podcasts/510351/sho
 
 This feat is absolutely incredible and undeniabily helps uplift female and POC scientists by making their scientific achievements more accessible to the public. Go ahead and google `Rosalind Franklin`. What pops up first? 
 
-Wikipedia. 
+**Wikipedia. **
 
 Bottom line: **If there is a Wikipedia page for your search, it is usually your top search result.** This isn't unique to just biographical searches, it also applies to other important topics, such as *your research subject*. Once again, why do we care?
 
@@ -35,9 +36,10 @@ WADE: So if a research topic or a particular kind of emerging interdisciplinary 
 
 So, trying to get that *obscure research subject* proposal funded? Aside from a proposal, put together a Wiki page, expand a current one, simply the language, etc. to make the information more accessable. 
 
-#Putting my money where my mouth is...
-![My recent Wikipedia contributions](assets/img/Screen%20Shot%202021-01-12%20at%205.11.35%20PM.png)
+Putting my money where my mouth is...
+-------------------------------------
+![My recent Wikipedia contributions](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/Screen%20Shot%202021-01-12%20at%205.11.35%20PM.png "My Wiki Contributions")
 
-I found little or erroraneous information when I went looking for the research topics we cover in the [Gent Lab](https://gentlab.github.io). So, I've taken to correcting these errors and have started expanding on some of our more obscure research. 
+I found little or erroraneous information when I went looking for the research topics we cover in the [Gent Lab](https://gentlab.github.io). So, I've taken to correcting these errors and have started expanding on some of our more obscure research. I have more to do; however, as I have always said about writing, it's best to start by just putting words down and then build from there. 
 
 #Make a WikiPage and go promote your science!
