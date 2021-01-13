@@ -42,4 +42,5 @@ Putting my money where my mouth is...
 
 I found little or erroraneous information when I went looking for the research topics we cover in the [Gent Lab](https://gentlab.github.io). So, I've taken to correcting these errors and have started expanding on some of our more obscure research. I have more to do; however, as I have always said about writing, it's best to start by just putting words down and then build from there. 
 
-#Make a WikiPage and go promote your science!
+Make a WikiPage and go promote your science!
+============================================
