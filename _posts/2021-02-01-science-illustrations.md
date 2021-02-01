@@ -83,6 +83,3 @@ Of course, there are others can can be use alone or in conjuction with powerpoin
 Concluding Thoughts?
 --------------
 With the wide-selection of high quality tools available to more-easily make high quality figures, we should not be settling for basic powerpoint figures (unless you're really good at powerpoint). Regardless of who you choose, check out the different ways you can make your figures pop so we can all collectively do a better job at communicating science. 
-
-<p align="center">
-<img src="https://github.com/mswiseman/mswiseman.github.io/blob/master/assets/img/Plant%20Gene%20Expression.png" width=500><br><i>Figure 6. Another figure I made with Biorender for a talk about my research.</i></p>
