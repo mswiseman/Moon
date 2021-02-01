@@ -30,6 +30,5 @@ Nonetheless, I've learned to work with what I had (including my limited artistic
 
 Powerpoint is obviously a powerful and intuitive tool, but I also wanted to introduce another tool I've discovered recently: **Biorender**. 
 
-<img src="https://static.biorender.com/category/gif/cell-structures.gif" width=300 align=center>
-*Figure 3. GIF by Biorender.*
+<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/cell-structures.gif" width=300 align=center>*Figure 3. GIF by Biorender.*
 
