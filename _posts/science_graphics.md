@@ -24,7 +24,7 @@ Most researchers use powerpoint to make figures and infographics because it allo
 Nonetheless, I've learned to work with what I had (including my limited artistic abilities :smirk:) and have assembled some pretty eye catching work over the years. See below.
 
 <img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/mlo.jpg" width=300 align=center>
-*Figure 2. My recent poster on my PhD research.*
+*Figure 2. My recent poster on my PhD research.*<br><br>
 
 
 Alas, powerpoint is obviously a powerful and intuitive tool; however, I also want to introduce another tool I've discovered recently: **Biorender**. 
