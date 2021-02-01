@@ -38,10 +38,18 @@ Biorender is an online powerpoint-like tool that utilizes vector-based imaging, 
 
 Like powerpoint, you get the same great features that make creating infographics and figures easy such as shape grouping, group resizing, various alignment options, etc. On top of all that, you also get access to pre-made high-quality vector icons... incredible! Suddenly I'm is making material that looks like it came from an actual artist. 
 
-<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/mlo-snippet.png" width=300 align=center>*Figure 5. Part of a recent pathway I put together using Biorender*<br><br>  
+<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/mlosnippet.png" width=300 align=center>*Figure 5. Part of the mlo pathway I put together using Biorender*<br><br>  
 
 Biorender solves all of the issues I've encountered with powerpoint. There's only one version and it's updated for everyone in real-time, so there are no version issues. The large files created by Biorender are stored on their cloud, so you don't need to find an appropriate server to host your files. All of Biorender's shapes and images are vector-based, so you can make them as large as you'd like and not experience any pixelation. Finally, you don't need any artistic abilities because the web-app comes pre-loaded with all kinds of high-quality shapes and images. 
 
+
+
 The Catch?
 -------------
-If you're just planning on using Biorender in the classroom, it's free! Unfortunately, like many good things in life, Biorender comes at a steep cost if you're planning on publishing the graphics or figures you make using their web-app. For an individual, Biorender costs between **$35-39 a month** (:scream: that's my electricity bill alone!). For a lab group of five (or less), Biorender costs **$99-129/month**. Regardless, if you take into account the cost of hiring a graphic designer or the time you would put-in making comparable graphics, I think it's worth it on a month-to-month basis. Fortunately, they offer a free trial for you to check it out yourself... just remember to cancel in time...:grimacing:. 
+If you're just planning on using Biorender in the classroom, it's free! Unfortunately, like many good things in life, Biorender comes at a steep cost if you're planning on publishing the graphics or figures you make using their web-app. 
+
+For an individual, Biorender costs between **$35-39 a month** (:scream: that's my electricity bill alone!). 
+
+For a lab group of five (or less), Biorender costs **$99-129/month**. 
+
+Regardless, if you take into account the cost of hiring a graphic designer or the time you would put-in making comparable graphics, I think it's worth it on a month-to-month basis. Fortunately, they offer a free trial for you to check it out yourself... just remember to cancel in time...:grimacing:. 
