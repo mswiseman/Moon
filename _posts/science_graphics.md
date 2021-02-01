@@ -21,7 +21,7 @@ Most researchers use powerpoint to make figures and infographics because it allo
 2. Large file sizes often hinder collaboration unless stored on large-file compatible cloud storage system
 3. Shapes used to make infographics are not vector-based and thus do not scale well
 
-Nonetheless, I've learned to work with what I had (including my limited artistic abilities) and have assembled some pretty eye catching work over the years. See below.
+Nonetheless, I've learned to work with what I had (including my limited artistic abilities :smirk:) and have assembled some pretty eye catching work over the years. See below.
 
 <img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/mlo.jpg" width=300 align=center>
 *Figure 2. My recent poster on my PhD research.*
