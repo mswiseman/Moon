@@ -31,13 +31,13 @@ Alas, powerpoint is obviously a powerful and intuitive tool; however, I also wan
 
 Biorender
 ----------
-Biorender is an online powerpoint-like tool that utilizes vector-based imaging, allows for cloud collaboration, **and** has thousands of pre-made scientific images, pre-made templates, and more! So, to put it bluntly, Biorender is the scientists' version of online powerpoint... but on steroids. 
+Biorender is an online powerpoint-like tool that utilizes vector-based imaging, allows for cloud collaboration, **and** has thousands of pre-made scientific images, pre-made templates, and more! So, to put it bluntly, Biorender is the scientists' version of online adobe illustrator... but on steroids. 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/cell-structures.gif" width=300"><br><i>Figure 3. GIF by Biorender.</i>
     </p>
 
-Like powerpoint, you get the same great features that make creating infographics and figures easy such as shape grouping, group resizing, various alignment options, etc. On top of all that, you also get access to pre-made high-quality vector icons... incredible!
+Like powerpoint (and illustrator), you get the same great features that make creating infographics and figures easy such as shape grouping, group resizing, various alignment options, etc. On top of all that, you also get access to pre-made high-quality vector icons... incredible!
 
 <p align="center">
     <img src="https://public.biorender.com/images/biorender-share-science-figure-pathway.png" width=300 align=center><br><i>Figure 4. Image by Biorender.</i></p>
