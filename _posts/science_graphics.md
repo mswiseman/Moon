@@ -17,17 +17,16 @@ How are these graphics made?
 ------------
 Most researchers use powerpoint to make figures and infographics because it allows you to group shapes and replicate them with simple copy-paste. Further, resizing these group objects is simply done by just clicking the group and dragging the corners. For a great post on using powerpoint to create visually appealing infographics, see [here](https://www.copypress.com/kb/infographics/how-to-make-infographics-with-powerpoint-2/). Like others, I have heavily relied on powerpoint for making figures in papers, making infographics, and, of course, putting together presentations. While I've had pretty good success with powerpoint, I have noticed some shortcomings of powerpoint for creation of beautiful graphics including:
 
--Compatibility issues between different versions
--Large file sizes often hinder collaboration unless stored on large-file compatible cloud storage system
--Shapes used to make infographics are not vector-based and thus do not scale well
--Admittedly, powerpoint doesn't help much with my artistic abilities... ha, ha.
+1. Compatibility issues between different versions
+2. Large file sizes often hinder collaboration unless stored on large-file compatible cloud storage system
+3. Shapes used to make infographics are not vector-based and thus do not scale well
 
-Nonetheless, I've learned to work with what I had (including my limited artistic abilities) and have assembled some pretty eye catching work over the years. 
+Nonetheless, I've learned to work with what I had (including my limited artistic abilities) and have assembled some pretty eye catching work over the years. See below.
 
 <img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/mlo.jpg" width=300 align=center>
 *Figure 2. My recent poster on my PhD research.*
 
-Powerpoint is obviously a powerful and intuitive tool, but I also wanted to introduce another tool I've discovered recently: **Biorender**. 
+Alas, powerpoint is obviously a powerful and intuitive tool; however, I also want to introduce another tool I've discovered recently: **Biorender**. 
 
 <img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/cell-structures.gif" width=300 align=center>*Figure 3. GIF by Biorender.*
 
