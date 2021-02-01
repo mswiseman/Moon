@@ -56,16 +56,27 @@ Regardless, if you take into account the cost of hiring a graphic designer or th
 
 Others?
 --------------
-Of course, there are others that also come with their pros and cons:
+Of course, there are others can can be use alone or in conjuction with powerpoint that also come with their pros and cons:
 
-[Gimp](https://www.gimp.org/)
-*Free
-*Steep learning curve for some
+* [Gimp](https://www.gimp.org/)
+** Free, open-source
+** Steep learning curve for some
+** Vector or rastor-based
 
-[Illustrator](https://www.adobe.com/products/illustrator.html)
-*Expensive
-*Easy to use
-*Vector-based
+* [Illustrator](https://www.adobe.com/products/illustrator.html)
+** Expensive monthly fee
+** Easy to use, most popular with designers
+** Vector or rastor-based
+
+* [Canva](https://www.canva.com/)
+** Free-ish, but most cool features require payment
+** Lots of templates, images, icons available
+** Best for simple designs
+** Easy to use
+
+Concluding Thoughts?
+--------------
+With the wide-selection of high quality tools available to more-easily make high quality figures, we should not be settling for basic powerpoint figures (unless you're really good at powerpoint). Regardless of who you choose, check the different ways you can make your figures pop so we can all collectively do a better job at communicating science. 
 
 
 
