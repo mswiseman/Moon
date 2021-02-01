@@ -58,7 +58,7 @@ For an individual, Biorender costs between **$35-39 a month** (:scream: that's m
 
 For a lab group of five (or less), Biorender costs **$99-129/month**. 
 
-Regardless, if you take into account the cost of hiring a graphic designer or the time you would put-in making comparable publication-quality graphics, I think it's worth it at the very least on a month-to-month basis. Fortunately, they offer a (free trial)[https://biorender.com/] for you to check it out yourself... if it doesn't work out for you, just remember to cancel in time...:grimacing:. 
+Regardless, if you take into account the cost of hiring a graphic designer or the time you would put-in making comparable publication-quality graphics, I think it's worth it at the very least on a month-to-month basis. Fortunately, they offer a [free trial](https://biorender.com/) for you to check it out yourself... if it doesn't work out for you, just remember to cancel in time...:grimacing:. 
 
 Others?
 --------------
