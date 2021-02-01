@@ -58,21 +58,21 @@ Others?
 --------------
 Of course, there are others can can be use alone or in conjuction with powerpoint that also come with their pros and cons:
 
-* [Gimp](https://www.gimp.org/)
-** Free, open-source
-** Steep learning curve for some
-** Vector or rastor-based
+[Gimp](https://www.gimp.org/)
+* Free, open-source
+* Steep learning curve for some
+* Vector or rastor-based
 
-* [Illustrator](https://www.adobe.com/products/illustrator.html)
-** Expensive monthly fee
-** Easy to use, most popular with designers
-** Vector or rastor-based
+[Illustrator](https://www.adobe.com/products/illustrator.html)
+* Expensive monthly fee
+* Easy to use, most popular with designers
+* Vector or rastor-based
 
-* [Canva](https://www.canva.com/)
-** Free-ish, but most cool features require payment
-** Lots of templates, images, icons available
-** Best for simple designs
-** Easy to use
+[Canva](https://www.canva.com/)
+* Free-ish, but most cool features require payment
+* Lots of templates, images, icons available
+* Best for simple designs
+* Easy to use
 
 Concluding Thoughts?
 --------------
