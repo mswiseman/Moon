@@ -6,6 +6,15 @@ excerpt: "Making complex information accessible part 2"
 tags: [science communication, biorender, powerpoint, graphics, infographics]
 comments: false
 ---
+
+div {
+display: flex;
+justify-content: center;
+}
+img {
+width: 300px;
+}
+
 On Science Communication, Part Two
 =======================
 In part two of my science communication series, I'll talk about different options of communicating science graphically. It's hard to overstate the importance of making visually appealing infographics and figures that break down complex subjects into digestible parts. 
