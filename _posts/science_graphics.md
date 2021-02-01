@@ -10,8 +10,7 @@ On Science Communication
 =======================
 In part two of my science communication series, I'll talk about different options of communicating science graphically. It's hard to overstate the importance of making visually appealing infographics and figures that break down complex subjects into digestible parts. 
 
-<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/whyinfograph_snobmonkey.png" width=300 align=center>
-*Figure 1. Infographic by creators at Snobmonkey.*
+<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/whyinfograph_snobmonkey.png" width=300 align=center> *Figure 1. Infographic by creators at Snobmonkey.*
 
 How are these graphics made?
 ------------
@@ -23,8 +22,7 @@ Most researchers use powerpoint to make figures and infographics because it allo
 
 Nonetheless, I've learned to work with what I had (including my limited artistic abilities :smirk:) and have assembled some pretty eye catching work over the years. See below.
 
-<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/mlo.jpg" width=300 align=center>
-*Figure 2. My recent poster on my PhD research.*<br><br>
+<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/mlo.jpg" width=300 align=center> *Figure 2. My recent poster on my PhD research.*<br><br>
 
 
 Alas, powerpoint is obviously a powerful and intuitive tool; however, I also want to introduce another tool I've discovered recently: [Biorender](http://www.biorender.com/). Note: this is not a paid endorsement. 
