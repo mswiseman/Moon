@@ -31,21 +31,23 @@ Alas, powerpoint is obviously a powerful and intuitive tool; however, I also wan
 
 Biorender
 ----------
+Biorender is an online powerpoint-like tool that utilizes vector-based imaging, allows for cloud collaboration, **and** has thousands of pre-made scientific images, pre-made templates, and more! So, to put it bluntly, Biorender is the scientists' version of online powerpoint... but on steroids. 
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/cell-structures.gif" width=300"><br><i>Figure 3. GIF by Biorender.</i>
     </p>
 
-Biorender is an online powerpoint-like tool that utilizes vector-based imaging, allows for cloud collaboration, **and** has thousands of pre-made scientific images, pre-made templates, and more! So, to put it bluntly, Biorender is the scientists' version of online powerpoint... but on steroids. 
+Like powerpoint, you get the same great features that make creating infographics and figures easy such as shape grouping, group resizing, various alignment options, etc. On top of all that, you also get access to pre-made high-quality vector icons... incredible!
 
 <p align="center">
     <img src="https://public.biorender.com/images/biorender-share-science-figure-pathway.png" width=300 align=center><br><i>Figure 4. Image by Biorender.</i></p>
 
-Like powerpoint, you get the same great features that make creating infographics and figures easy such as shape grouping, group resizing, various alignment options, etc. On top of all that, you also get access to pre-made high-quality vector icons... incredible! Suddenly I'm is making material that looks like it came from an actual artist. 
+Suddenly I'm is making material that looks like it came from an actual artist. 
 
 <p align="center"><img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/mlosnippet.png" width=300><br><i>Figure 5. Part of the mlo pathway I put together using Biorender</i><br><br>
     </p>
 
-Biorender solves all of the issues I've encountered with powerpoint. There's only one version and it's updated for everyone in real-time, so there are no version issues. The large files created by Biorender are stored on their cloud, so you don't need to find an appropriate server to host your files. All of Biorender's shapes and images are vector-based, so you can make them as large as you'd like and not experience any pixelation. Finally, you don't need any artistic abilities because the web-app comes pre-loaded with all kinds of high-quality shapes and images. 
+Alas, Biorender solves all of the issues I've encountered with powerpoint. There's only one version and it's updated for everyone in real-time, so there are no version issues. The large files created by Biorender are stored on their cloud, so you don't need to find an appropriate server to host your files. All of Biorender's shapes and images are vector-based, so you can make them as large as you'd like and not experience any pixelation. Finally, you don't need any artistic abilities because the web-app comes pre-loaded with all kinds of high-quality shapes and images. 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/Data%20Processing%20Flow%20Chart.png" width=300><br><i>Figure 6. A flow chart I made for a recent presentation using one of their templates</i><br><br> 
