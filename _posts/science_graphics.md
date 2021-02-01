@@ -26,6 +26,7 @@ Nonetheless, I've learned to work with what I had (including my limited artistic
 <img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/mlo.jpg" width=300 align=center>
 *Figure 2. My recent poster on my PhD research.*
 
+
 Alas, powerpoint is obviously a powerful and intuitive tool; however, I also want to introduce another tool I've discovered recently: **Biorender**. 
 
 <img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/cell-structures.gif" width=300 align=center>*Figure 3. GIF by Biorender.*
