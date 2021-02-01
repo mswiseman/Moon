@@ -10,7 +10,7 @@ On Science Communication, Part Two
 =======================
 In part two of my science communication series, I'll talk about different options of communicating science graphically. It's hard to overstate the importance of making visually appealing infographics and figures that break down complex subjects into digestible parts. 
 
-<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/whyinfograph_snobmonkey.png" width=300 align="center"> <br>*Figure 1. Infographic by creators at Snobmonkey.*
+<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/whyinfograph_snobmonkey.png" width=300 class="center"> <br>*Figure 1. Infographic by creators at Snobmonkey.*
 
 How are These Graphics Made?
 ------------
