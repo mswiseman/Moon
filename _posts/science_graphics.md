@@ -27,7 +27,10 @@ Nonetheless, I've learned to work with what I had (including my limited artistic
 *Figure 2. My recent poster on my PhD research.*<br><br>
 
 
-Alas, powerpoint is obviously a powerful and intuitive tool; however, I also want to introduce another tool I've discovered recently: **Biorender**. 
+Alas, powerpoint is obviously a powerful and intuitive tool; however, I also want to introduce another tool I've discovered recently: [Biorender](http://www.biorender.com/). Note: this is not a paid endorsement. 
 
 <img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/cell-structures.gif" width=300 align=center>*Figure 3. GIF by Biorender.*
+
+Biorender is an online powerpoint-like tool that utilizes vector-based imaging, allows for cloud collaboration, **and** has thousands of pre-made scientific images, pre-made templates, and more! So, to put it bluntly, Biorender is the scientists' version of online powerpoint... but on steroids. Like powerpoint, you get the same great features that make creating infographics and figures easy such as shape grouping, group resizing, various alignment options, etc. On top of all that, you also get access to pre-made high-quality vector icons... incredible! Suddenly I'm is making material that looks like it came from an actual artist. 
+
 
