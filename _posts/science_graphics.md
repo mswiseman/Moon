@@ -21,9 +21,9 @@ Most researchers use powerpoint to make figures and infographics because it allo
 3. Shapes used to make infographics are not vector-based and thus do not scale well
 
 Nonetheless, I've learned to work with what I had (including my limited artistic abilities :smirk:) and have assembled some pretty eye catching work over the years. See below.
-
-<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/mlo.jpg" width=300 align="center"> <br>*Figure 2. My recent poster on my PhD research.*<br><br>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/mlo.jpg" width=300"> <br>*Figure 2. My recent poster on my PhD research.*<br><br>
+</p>
 
 Alas, powerpoint is obviously a powerful and intuitive tool; however, I also want to introduce another tool I've discovered recently: [Biorender](http://www.biorender.com/). Note: this is not a paid endorsement. 
 
