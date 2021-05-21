@@ -13,13 +13,14 @@ tag:
 comments: true
 ---
 ## DIY Hardware in the Plant Sciences
----
+
 This page is to serve as a resource for anyone looking DIY open-source hardware and software resources, focusing on hardware relevant to plant sciences. 
 
 ## Peer-Reviewed Resources
-HardwareX
----
-<img src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif" width=300 align=center>
+* HardwareX
+{% capture images %}
+https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif
+{% endcapture %}
 HardwareX is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. 
 
 {% capture images %}
