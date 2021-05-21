@@ -82,7 +82,7 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
     * [Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)
     * [Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board) 
 * [Smoothieware](https://smoothieware.org/)
-    * [Compatible boards]()
+    * Compatible with all RepRap boards
 
 ### Stepper drivers
 
@@ -98,6 +98,7 @@ Technically speaking, mini-computers (aka microprocessors) are not microcontroll
 
 ## Insightful links
 * (A review of Raspberry Pi usage in scientific research)[https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/]
+* (Smoothieware vs. Marlin: Which Firmware is Better)[https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better]
 
 ## Questions or comments? 
 
