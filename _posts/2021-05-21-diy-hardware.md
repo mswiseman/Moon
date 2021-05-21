@@ -14,16 +14,19 @@ comments: true
 ---
 # DIY Hardware in the Plant Sciences
 
-I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research primarily involves plant sciences and plant pathology; as such, resources found here will initially be focused on hardware and software potentially or currenlty relevant to research in the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. 
+I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research primarily involves plant sciences and plant pathology; as such, resources found here will initially be focused on hardware and software potentially or currenlty relevant to research in the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. I am not an engineer, so I've tried to tread light in areas in which my terminology and/or understanding may not be accurate or thorough. Regardless, I hope you won't discouraged by any initial difficulties as there are many resources available and people who want to see you succeed. I am not an engineer. I'm just a passionate person who has worked to overcome knowledge gaps and frustrations by seeking help when I need it. Nobody is all-knowing and everyone has to start somewhere. Let's create a collaborative diy hardware and software movement for the plant sciences together.
 
-* [Peer-reviewed scientific resources](https://github.com/mswiseman/mswiseman.github.io/blob/master/_posts/2021-05-21-diy-hardware.md#peer-reviewed-scienfic-resources)
-* [Selected publications](https://github.com/mswiseman/mswiseman.github.io/blob/master/_posts/2021-05-21-diy-hardware.md#selected-publications)
+Here are some resources to start:
+
+* [Peer-reviewed scientific resources](#peer-reviewed-scienfic-resources)
+* [Selected publications](#selected-publications)
 * [Hardware documentation](#hardware-documentation)
-    * [Microcontrollers]([#microcontrollers)
-    * Stepper drivers
-    * Environmental sensors
-* Exceptional YouTube tutorials 
-* Recommendations on where to purchase components 
+    * [Microcontrollers](#microcontrollers)
+    * [Stepper drivers](#stepper-drivers)
+    * [Environmental sensors](#environmental-sensors)
+* [Exceptional YouTube tutorials](#youtube-tutorials)
+* [Recommendations on where to purchase components](#purchasing-recommendations)
+* [Local resources for Oregon State University](#local-resources)
 
 ## Peer-reviewed scienfic resources
 <img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts that enable easier reproducibility. <br clear="left"/><br><br>
