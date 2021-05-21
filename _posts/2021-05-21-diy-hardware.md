@@ -34,7 +34,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
     * [Microcontrollers](#microcontrollers)
     * [Stepper drivers](#stepper-drivers)
     * [Environmental sensors](#environmental-sensors)
-    * [Microprocessors](#mini-computers)
+    * [Microprocessors/Mini-Computers](#mini-computers)
 * [Exceptional YouTube tutorials](#youtube-tutorials)
 * [Recommendations on where to purchase components](#purchasing-recommendations)
 * [Local resources for Oregon State University](#local-resources)
