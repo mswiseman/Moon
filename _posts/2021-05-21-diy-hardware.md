@@ -18,7 +18,7 @@ I hope this website can be a resource for anyone looking into DIY open-source ha
 
 * [Peer-reviewed scientific resources](https://github.com/mswiseman/mswiseman.github.io/blob/master/_posts/2021-05-21-diy-hardware.md#peer-reviewed-scienfic-resources)
 * [Selected publications](https://github.com/mswiseman/mswiseman.github.io/blob/master/_posts/2021-05-21-diy-hardware.md#selected-publications)
-* [Hardware documentation](hardware-documentation)
+* [Hardware documentation](#hardware-documentation)
     * [Microcontrollers]([#microcontrollers)
     * Stepper drivers
     * Environmental sensors
