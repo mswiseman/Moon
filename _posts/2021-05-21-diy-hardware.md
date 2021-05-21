@@ -58,7 +58,7 @@ I've included direct links to the documentation of hardware commonly used in DIY
 
 ### Microcontrollers
 
-Microcontrollers are the brains of hardware - they tell the other components what to do. They are best suited for singular repetitive tasks (such as activating a motor). There are many types of microcontrollers and each has pros and cons. I recommend choosing a microcontroller not only based on your power and accessory needs, but as based on the reputation and available documentation. Speaking from experience: you will save yourself a lot of frustration if you work with a microcontroller that has thorough documentation (like the Arduino series). 
+Microcontrollers are the brains of hardware - they tell the other components what to do. They are best suited for singular repetitive tasks (such as activating a motor). I recommend choosing a microcontroller not only based on your power and accessory needs, but as based on the reputation and available documentation. Speaking from experience: you will save yourself a lot of frustration if you work with a microcontroller that has thorough documentation (like the Arduino series). 
 
 #### CNC
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
@@ -77,8 +77,12 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 ### Microcontroller firmware
 
 * [Marlin](https://marlinfw.org/)
+    ** [All compatible boards](https://marlinfw.org/docs/hardware/boards.html)
 * [RepRap](https://reprap.org/wiki/RepRap)
+    ** [Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)
+    ** [Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board) 
 * [Smoothieware](https://smoothieware.org/)
+    ** [Compatible boards]()
 
 ### Stepper drivers
 
