@@ -35,6 +35,7 @@ I hope this website can be a resource for anyone looking into DIY open-source ha
 * [Exceptional YouTube tutorials](#youtube-tutorials)
 * [Recommendations on where to purchase components](#purchasing-recommendations)
 * [Local resources for Oregon State University](#local-resources)
+* [Insightful links](#insightful-links)
 
 ## Peer-reviewed scienfic resources
 <img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts that enable easier reproducibility. <br clear="left"/><br><br>
@@ -57,140 +58,43 @@ I've included direct links to the documentation of hardware commonly used in DIY
 
 ### Microcontrollers
 
-Microcontrollers are the brains of hardware - they tell the other components what to do. There are many types of microcontrollers and each has pros and cons. I recommend choosing a microcontroller not only based on your power and accessory needs, but as based on the reputation and available documentation. You will save yourself a lot of frustration if you work with a microcontroller that has thorough documentation (like the Arduino series). 
+Microcontrollers are the brains of hardware - they tell the other components what to do. There are many types of microcontrollers and each has pros and cons. I recommend choosing a microcontroller not only based on your power and accessory needs, but as based on the reputation and available documentation. Speaking from experience: you will save yourself a lot of frustration if you work with a microcontroller that has thorough documentation (like the Arduino series). 
 
-* [Arduino Uno (8-bit)]https://store.arduino.cc/usa/arduino-uno-rev3
+Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
+* [Arduino Uno (8-bit)](https://store.arduino.cc/usa/arduino-uno-rev3)
 * [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano)
 * [Arduino Mega (8-bit)](https://store.arduino.cc/usa/mega-2560-r3)
 * [Arduino Due (32-bit)](https://store.arduino.cc/usa/due)
 * [Duet2 (32-bit)](https://www.duet3d.com/DuetWifi)
+* [Due5x (32-bit)[]
+* [Smoothieboard (32-bit)][http://smoothieware.org/]
+
+Wearable-friendly
+* [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
+* []()
+
+
+* [Raspberry Pi)[https://www.raspberrypi.org/]
+* 
+* 
+* 
+* 
 
 ### Microcontroller firmware
 
-* 
+* Marlin
 * RepRap
+* Smoothieware
+* 
 
 ### Stepper drivers
 
 ### Environmental sensors
 
 
-{% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
-	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+## Insightful links
+* (A review of Raspberry Pi usage in scientific research)[https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/]
 
----
-
-{% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509718/61b09a20-01d6-11e6-8da1-4202ae4d83cd.png
-	https://cloud.githubusercontent.com/assets/754514/14509715/61aa9d00-01d6-11e6-81a6-c6837edf2e84.png
-{% endcapture %}
-{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
-      
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
-
-## Site Setup
-A quick checklist of the files you’ll want to edit to get up and running.    
-
-### Site Wide Configuration
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
-
-#### title
-
-The title of your site... shocker!
-
-Example `title: My Awesome Site`
-
-#### bio
-
-The description to show on your homepage.
-
-#### description
-
-The description to use for meta tags and navigation menu.
-
-#### url
-
-Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
-
-Examples:
-
-{% highlight yaml %}
-url: http://taylantatli.me/Moon
-url: http://localhost:4000
-url: //cooldude.github.io
-url:
-{% endhighlight %}
-
-#### reading_time
-
-Set true to show reading time for posts. And set `words_per_minute`, default is 200.
-
-#### logo
-Your site's logo. It will show on homepage and navigation menu. Also used for twitter meta tags.
-
-#### background
-Image for background. If you don't set it, color will be used as a background.
-
-#### Google Analytics and Webmaster Tools
-
-Google Analytics UA and Webmaster Tool verification tags can be entered in `_config.yml`. For more information on obtaining these meta tags check [Google Webmaster Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownership) support.
-
-#### MathJax
-It's enabled. But if you don't want to use it. Set it false in  `_config.yml`.
-
-#### Disqus Comments
-Set your disqus shortname in `_config.yml` to use comments.
-
----
-
-### Navigation Links
-
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
-
-{% highlight yaml %}
-- title: Home
-  url: /
-
-- title: Blog
-  url: /blog/
-
-- title: Projects
-  url: /projects/
-
-- title: About
-  url: /about/
-
-- title: Moon
-  url: http://taylantatli.me/Moon
-{% endhighlight %}
-
----
-
-## Layouts and Content
-
-Moon Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
-
-### Feature Image
-
-You can set feature image per post. Just add `feature: some link` to your post's front matter.
-
-```
-feature: /assets/img/some-image.png
-or
-feaure: http://example.com/some-image.png
-```    
- This also will be used for twitter card:
-
-![Moon Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
-
-### Comments
-To show disqus comments for your post add `comments: true` to your post's front matter.
-
----
 
 ## Questions or comments? 
 
