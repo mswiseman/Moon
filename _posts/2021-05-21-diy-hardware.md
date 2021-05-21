@@ -50,15 +50,15 @@ I hope this website can be a resource for anyone looking into DIY open-source ha
 Keywords: peristaltic pump, fluid handling, cell culture, microfluidics
 
 ![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/customizable_peristaltic_pump.jpg)
-Other HardwareX peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300249), [example2](http://link), [example3](http://link), [example4](http://link)
+Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300249), [example2](http://link), [example3](http://link), [example4](http://link)
 
 ## Hardware documentation
 
-I've included direct links to the documentation of hardware commonly used in DIY free open source hardware. This field is rapidly evolving, so I imagine this section will change frequently. My last update was on May 21st, 2021. 
+I've included direct links to the documentation of hardware commonly used in DIY free open source hardware. This field is rapidly evolving, so I imagine this section will change frequently. 
 
 ### Microcontrollers
 
-Microcontrollers are the brains of hardware - they tell the other components what to do. There are many types of microcontrollers and each has pros and cons. I recommend choosing a microcontroller not only based on your power and accessory needs, but as based on the reputation and available documentation. Speaking from experience: you will save yourself a lot of frustration if you work with a microcontroller that has thorough documentation (like the Arduino series). 
+Microcontrollers are the brains of hardware - they tell the other components what to do. They are best suited for singular repetitive tasks (such as activating a motor). There are many types of microcontrollers and each has pros and cons. I recommend choosing a microcontroller not only based on your power and accessory needs, but as based on the reputation and available documentation. Speaking from experience: you will save yourself a lot of frustration if you work with a microcontroller that has thorough documentation (like the Arduino series). 
 
 #### CNC
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
