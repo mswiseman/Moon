@@ -14,12 +14,18 @@ comments: true
 ---
 # DIY Hardware in the Plant Sciences
 
-This page is to serve as a resource for anyone looking DIY open-source hardware and software resources, focusing on hardware relevant to plant sciences. I have included peer-reviewed resources, relevant publications, microcontroller documentation, non-peer reviewed projects, links to great youtube how-to videos, and more. <br/>This page was last updated 05/21/2021.  
+This page is to serve as a resource for anyone looking DIY open-source hardware and software resources, focusing on hardware relevant to plant sciences. I have included peer-reviewed resources, relevant publications, microcontroller documentation, non-peer reviewed projects, links to great youtube how-to videos, and more. <br/><br/>This page was last updated 05/21/2021.  
 
 ## Peer-Reviewed Resources
 ![HardwareX](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif)
 
-[HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. 
+[HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts that enable easier reproducibility. 
+
+![Nature Scientific Reports](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/ScientificReportsandNatureLogo.png)
+
+[Nature Scientific Reports](https://www.nature.com/srep/) is an open access journal publishing original research from across all areas of the natural sciences, medicine and engineering. Exploring the tags *lab-on-a-chip*, *biomedical engineering*, or *mechanical engineering*. 
+
+
 
 ### Selected publications of potential interest to plant sciences: 
 
@@ -27,6 +33,7 @@ This page is to serve as a resource for anyone looking DIY open-source hardware 
 Keywords: peristaltic pump, fluid handling, cell culture, microfluidics
 
 ![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/customizable_peristaltic_pump.jpg)
+Other HardwareX peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300249), [example2](http://link), [example3](http://link), [example4](http://link)
 
 
 {% capture images %}
