@@ -14,7 +14,7 @@ comments: true
 ---
 # DIY Hardware in the Plant Sciences
 
-I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research primarily involves plant sciences and plant pathology; as such, resources found here will initially be focused on hardware and software potentially or currenlty relevant to research in the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. I am not an engineer, so I've tried to tread light in areas in which my terminology and/or understanding may not be accurate or thorough. Regardless, I hope you won't discouraged by any initial difficulties as there are many resources available and people who want to see you succeed. Nobody is all-knowing and everyone has to start somewhere. Let's create a collaborative and supportive diy movement in the plant sciences together.
+I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research primarily involves plant sciences and plant pathology; as such, resources found here will initially be focused on hardware and software potentially or currenlty relevant to research in the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. I am not an engineer, so I've tried to tread light in areas in which my terminology and/or understanding may not be accurate or thorough. Regardless, I hope you won't discouraged by any initial difficulties as there are many resources available and people who want to see you succeed. Nobody is all-knowing and everyone has to start somewhere. Let's create a collaborative and supportive DIY movement in the plant sciences together.
 
 ## Why join the DIY free open source movement?
 
@@ -41,6 +41,8 @@ I hope this website can be a resource for anyone looking into DIY open-source ha
 
 <img align="left" width="100" alt="Nature Scientific Reports Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/ScientificReportsandNatureLogo.png"> [Nature Scientific Reports](https://www.nature.com/srep/) is an open access journal publishing original research from across all areas of the natural sciences, medicine and engineering. To find manuscripts more likely to have DIY hardware, I would explore the tags [*lab-on-a-chip*](https://www.nature.com/search?q=lab-on-a-chip&order=relevance&journal=srep), [*biomedical engineering*](https://www.nature.com/search?q=biomedical%20engineering&order=relevance&journal=srep), or [*mechanical engineering*](https://www.nature.com/search?q=mechanical%20engineering&order=relevance&journal=srep). <br clear="left"/><br><br>
 
+
+
 ## Selected publications  
 
 [Highly-Customizable 3D Printed Peristaltic Pump Kit](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)<br/>
@@ -54,6 +56,19 @@ Other HardwareX peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com
 I've included direct links to the documentation of hardware commonly used in DIY free open source hardware. This field is rapidly evolving, so I imagine this section will change frequently. My last update was on May 21st, 2021. 
 
 ### Microcontrollers
+
+Microcontrollers are the brains of hardware - they tell the other components what to do. There are many types of microcontrollers and each has pros and cons. I recommend choosing a microcontroller not only based on your power and accessory needs, but as based on the reputation and available documentation. You will save yourself a lot of frustration if you work with a microcontroller that has thorough documentation (like the Arduino series). 
+
+* [Arduino Uno (8-bit)]https://store.arduino.cc/usa/arduino-uno-rev3
+* [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano)
+* [Arduino Mega (8-bit)](https://store.arduino.cc/usa/mega-2560-r3)
+* [Arduino Due (32-bit)](https://store.arduino.cc/usa/due)
+* [Duet2 (32-bit)](https://www.duet3d.com/DuetWifi)
+
+### Microcontroller firmware
+
+* 
+* RepRap
 
 ### Stepper drivers
 
