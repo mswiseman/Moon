@@ -38,12 +38,14 @@ I hope this website can be a resource for anyone looking into DIY open-source ha
 * [Local resources for Oregon State University](#local-resources)
 * [Insightful links](#insightful-links)
 
+---
+
 ## Peer-reviewed scienfic resources
 <img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts that enable easier reproducibility. <br clear="left"/><br><br>
 
 <img align="left" width="50" alt="Nature Scientific Reports Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/ScientificReportsandNatureLogo.png"> [Nature Scientific Reports](https://www.nature.com/srep/) is an open access journal publishing original research from across all areas of the natural sciences, medicine and engineering. To find manuscripts more likely to have DIY hardware, I would explore the tags [*lab-on-a-chip*](https://www.nature.com/search?q=lab-on-a-chip&order=relevance&journal=srep), [*biomedical engineering*](https://www.nature.com/search?q=biomedical%20engineering&order=relevance&journal=srep), or [*mechanical engineering*](https://www.nature.com/search?q=mechanical%20engineering&order=relevance&journal=srep). <br clear="left"/><br><br>
 
-
+---
 
 ## Selected publications \ [Back to top](#resources)
 
@@ -52,6 +54,8 @@ Keywords: peristaltic pump, fluid handling, cell culture, microfluidics
 
 ![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/customizable_peristaltic_pump.jpg)
 Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300249), [example2](http://link), [example3](http://link), [example4](http://link)
+
+---
 
 ## Hardware documentation
 
@@ -78,7 +82,9 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 ### Microcontroller firmware
 
 * [Marlin](https://marlinfw.org/)
-    * [All compatible boards](https://marlinfw.org/docs/hardware/boards.html)
+    * [Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html)
+* [grbl](https://github.com/grbl/grbl)
+    * Compatible with Arduino Uno Stack, Arduino Nano Stack, MKS-DLC, Mega 2560 Stack
 * [RepRap](https://reprap.org/wiki/RepRap)
     * [Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)
     * [Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board) 
@@ -95,11 +101,26 @@ Technically speaking, mini-computers (aka microprocessors) are not microcontroll
 * 
 * 
 * 
+
+
+---
+## YouTube Links
+There are endless tutorials and informational videos on YouTube, but some are more helpful than others. I found these to be particularly helpful with my adventure into DIY hardware. 
+* [How to build a 3D printer, The Ultimate Guide](https://youtu.be/qub5chyIQ0s)
+    * This video is helpful understanding any type of CNC hardware, not just 3D printers
+* [Breadboarding & Prototyping for Electronics, Arduino & Raspberry Pi](https://youtu.be/Y3Kx2RlLXsY)
+* [Schematic Diagrams & Symbols, Electrical Circuits - Resistors, Capacitors, Inductors, Diodes, & LEDs](https://youtu.be/Dl1gFBNa0Ik)
+* [How to wire a cheap power supply](https://youtu.be/Ls-6BeLHbA0)
+* [DIY Dremel CNC #3 electronics, software and firmware (Arduino, aluminium profiles, 3D printed parts)](https://youtu.be/xfQ0YosR6us)
+* [How To Wire It! Stepper Motors](https://youtu.be/GgfgWU0bpHk)
 * 
+---
 
 ## Insightful links
 * [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
+
+---
 
 ## Questions or comments? 
 
