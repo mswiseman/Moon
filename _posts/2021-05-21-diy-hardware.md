@@ -26,14 +26,15 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * Building the socially-acceptable version of adult legos (okay, that's a joke)
 
 ## Resources
-**Interested? I hope so! Here are some great resources to start:**
+**Interested? in learning more? I hope so! Here are some great resources to start:**
 
 * [Peer-reviewed scientific resources](#peer-reviewed-scienfic-resources)
-* [Selected publications](#selected-publications)
-* [Hardware documentation](#hardware-documentation)
+* [Selected publications for inspiration](#selected-publications)
+* [Documentation for commonly used hardware](#hardware-documentation)
     * [Microcontrollers](#microcontrollers)
     * [Stepper drivers](#stepper-drivers)
     * [Environmental sensors](#environmental-sensors)
+    * [Microprocessors)(#microprocessors)
 * [Exceptional YouTube tutorials](#youtube-tutorials)
 * [Recommendations on where to purchase components](#purchasing-recommendations)
 * [Local resources for Oregon State University](#local-resources)
