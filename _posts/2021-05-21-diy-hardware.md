@@ -60,6 +60,7 @@ I've included direct links to the documentation of hardware commonly used in DIY
 
 Microcontrollers are the brains of hardware - they tell the other components what to do. There are many types of microcontrollers and each has pros and cons. I recommend choosing a microcontroller not only based on your power and accessory needs, but as based on the reputation and available documentation. Speaking from experience: you will save yourself a lot of frustration if you work with a microcontroller that has thorough documentation (like the Arduino series). 
 
+#### CNC
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
 * [Arduino Uno (8-bit)](https://store.arduino.cc/usa/arduino-uno-rev3)
 * [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano)
@@ -67,34 +68,32 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 * [Arduino Due (32-bit)](https://store.arduino.cc/usa/due)
 * [Duet2 (32-bit)](https://www.duet3d.com/DuetWifi)
 * [Due5x (32-bit)[]
-* [Smoothieboard (32-bit)][http://smoothieware.org/]
+* [Smoothieboard (32-bit)](http://smoothieware.org/)
 
-Wearable-friendly
+#### Wearable-friendly
 * [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
 * []()
-
-
-* [Raspberry Pi)[https://www.raspberrypi.org/]
-* 
-* 
-* 
-* 
 
 ### Microcontroller firmware
 
 * Marlin
 * RepRap
 * Smoothieware
-* 
 
 ### Stepper drivers
 
 ### Environmental sensors
 
+### Mini-computers
+Technically speaking, mini-computers (aka microprocessors) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software heavy applications.
+* [Raspberry Pi)[https://www.raspberrypi.org/]
+* 
+* 
+* 
+* 
 
 ## Insightful links
 * (A review of Raspberry Pi usage in scientific research)[https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/]
-
 
 ## Questions or comments? 
 
