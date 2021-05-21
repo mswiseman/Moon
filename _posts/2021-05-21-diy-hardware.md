@@ -90,15 +90,15 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 
 ### Mini-computers
 Technically speaking, mini-computers (aka microprocessors) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software heavy applications.
-* [Raspberry Pi)[https://www.raspberrypi.org/]
+* [Raspberry Pi](https://www.raspberrypi.org/)
 * 
 * 
 * 
 * 
 
 ## Insightful links
-* (A review of Raspberry Pi usage in scientific research)[https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/]
-* (Smoothieware vs. Marlin: Which Firmware is Better)[https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better]
+* [A review of Raspberry Pi usage in scientific research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
+* [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
 
 ## Questions or comments? 
 
