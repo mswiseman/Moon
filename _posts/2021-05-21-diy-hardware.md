@@ -77,12 +77,12 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 ### Microcontroller firmware
 
 * [Marlin](https://marlinfw.org/)
-    ** [All compatible boards](https://marlinfw.org/docs/hardware/boards.html)
+    * [All compatible boards](https://marlinfw.org/docs/hardware/boards.html)
 * [RepRap](https://reprap.org/wiki/RepRap)
-    ** [Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)
-    ** [Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board) 
+    * [Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)
+    * [Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board) 
 * [Smoothieware](https://smoothieware.org/)
-    ** [Compatible boards]()
+    * [Compatible boards]()
 
 ### Stepper drivers
 
