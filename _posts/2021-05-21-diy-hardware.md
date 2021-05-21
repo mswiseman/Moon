@@ -15,7 +15,7 @@ comments: true
 # DIY Hardware in the Plant Sciences
 
 I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research primarily involves plant sciences and plant pathology; as such, resources found here will initially be focused on hardware and software potentially or currenlty relevant to research in the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. 
-[Peer-Reviewed Resources](#peer-reviewed-scientific-resources)
+[Peer-Reviewed Scientific Resources](https://github.com/mswiseman/mswiseman.github.io/blob/master/_posts/2021-05-21-diy-hardware.md#peer-reviewed-scienfic-resources)
 
 * [Peer-reviewed journals featuring open hardware]
 * Selected publications
