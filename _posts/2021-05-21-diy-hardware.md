@@ -24,6 +24,7 @@ I hope this website can be a resource for anyone looking into DIY open-source ha
 * Learn critical troubleshooting, coding, and electrical skills
 * Build the socially-acceptable version of adult legos (okay, that's a joke)
 
+## Resources
 **Interested? I hope so! Here are some great resources to start:**
 
 * [Peer-reviewed scientific resources](#peer-reviewed-scienfic-resources)
@@ -45,6 +46,7 @@ I hope this website can be a resource for anyone looking into DIY open-source ha
 
 
 ## Selected publications  
+#### [Back to top](#resources)
 
 [Highly-Customizable 3D Printed Peristaltic Pump Kit](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)<br/>
 Keywords: peristaltic pump, fluid handling, cell culture, microfluidics
