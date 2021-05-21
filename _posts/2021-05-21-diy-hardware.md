@@ -18,12 +18,13 @@ I hope this website can be a resource for anyone looking into DIY open-source ha
 
 ## Why join the DIY free open source movement?
 
-* DIY lab hardware aims to improve accessibility of expensive equipment while still meeting necessary accuracy benchmarks
-* Understanding open hardware/software enables you to implement or customize automation of repetitive work
-* Automation reduces human error and thus can improve intra- and inter-lab reproducibility (when thorough documentation is available)
-* Building DIY hardware/software also teaches critical troubleshooting skills
+* Improve accessibility
+* Custimize and/or build automation for repetitive tasks
+* Improve intra- and inter-lab reproducibility
+* Learn critical troubleshooting, coding, and electrical skills
+* Play the socially-acceptable version of adult legos (okay, that's a joke)
 
-Interested? I hope so! Here are some great resources to start:
+**Interested? I hope so! Here are some great resources to start:**
 
 * [Peer-reviewed scientific resources](#peer-reviewed-scienfic-resources)
 * [Selected publications](#selected-publications)
