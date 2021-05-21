@@ -83,8 +83,9 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 
 #### Wearable-friendly Microcontrollers
 These are tiny microcontrollers best suited for wearable applications (such as a smart watch or animal tracking device). 
+* [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 * [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
-* []()
+
 
 ### Microcontroller firmware
 Explain firmware
