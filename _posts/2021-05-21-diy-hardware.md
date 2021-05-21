@@ -33,7 +33,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 **Interested in learning more? I hope so!** I encourage you to first look over the selected publications below as I believe they do an exceptional job with documentation and also show the wide range of applications for free open source hard and software in the laboratory. While your purusing 
 
 * [Selected publications for inspiration](#selected-publications)
-* [Peer-reviewed scientific resources](#peer-reviewed-scienfic-resources)
+* [Peer-reviewed scientific resources](#peer-reviewed-scientific-resources)
 * [Documentation for commonly used hardware](#hardware-documentation)
     * [Microcontrollers](#microcontrollers)
     * [Stepper drivers](#stepper-drivers)
@@ -56,7 +56,7 @@ Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/a
 
 ---
 
-## Peer-reviewed scienfic resources
+## Peer-reviewed scientific resources
 <img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts that enable easier reproducibility. <br clear="left"/><br><br>
 
 <img align="left" width="100" alt="Nature Scientific Reports Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/ScientificReportsandNatureLogo.png"> [Nature Scientific Reports](https://www.nature.com/srep/) is an open access journal publishing original research from across all areas of the natural sciences, medicine and engineering. To find manuscripts more likely to have DIY hardware, I would explore the tags [*lab-on-a-chip*](https://www.nature.com/search?q=lab-on-a-chip&order=relevance&journal=srep), [*biomedical engineering*](https://www.nature.com/search?q=biomedical%20engineering&order=relevance&journal=srep), or [*mechanical engineering*](https://www.nature.com/search?q=mechanical%20engineering&order=relevance&journal=srep). <br clear="left"/><br><br>
