@@ -14,7 +14,15 @@ comments: true
 ---
 # DIY Hardware in the Plant Sciences
 
-This page is to serve as a resource for anyone looking DIY open-source hardware and software resources, focusing on hardware relevant to plant sciences. I have included peer-reviewed resources, relevant publications, microcontroller documentation, non-peer reviewed projects, links to great youtube how-to videos, and more. <br/><br/>This page was last updated 05/21/2021.  
+I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research primarily involves plant sciences and plant pathology; as such, resources found here will initially be focused on hardware and software potentially or currenlty relevant to research in the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. 
+
+* Peer-reviewed journals featuring open hardware
+* Selected publications
+* Various documentation
+** Microcontrollers
+** Stepper drivers
+** Environmental sensors
+* Exceptional YouTube Tutorials  
 
 ## Peer-Reviewed Resources
 <img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts that enable easier reproducibility. <br clear="left"/><br><br>
@@ -149,12 +157,11 @@ To show disqus comments for your post add `comments: true` to your post's front 
 
 ---
 
-## Questions?
+## Questions or comments? 
 
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
+I'd love for this to be a collaborative process, so please [send me](michele.wiseman@oregonstate.edu) your questions/suggestions/comments or post them to the comments below (let's all be kind humans though, okay?). 
 
 ---
 
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
+## Updated
+This page was last updated 05/21/2021.
