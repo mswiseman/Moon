@@ -38,7 +38,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * [Exceptional YouTube tutorials](#youtube-tutorials)
 * [Recommendations on where to purchase components](#purchasing-recommendations)
 * [Local resources for Oregon State University](#local-resources)
-* [Insightful links](#insightful-links)
+* [Links to insightful reviews and commentary](#insightful-reviews-and-commentary)
 
 ---
 
@@ -112,8 +112,6 @@ Explain environmental sensors
 ### Mini-computers
 Technically speaking, mini-computers (aka microprocessors) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications.
 * [Raspberry Pi](https://www.raspberrypi.org/)
-* 
-
 
 ---
 ## YouTube Links
@@ -128,7 +126,7 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 * 
 ---
 
-## Insightful links
+## Insightful Reviews and Commentary
 * [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
 
