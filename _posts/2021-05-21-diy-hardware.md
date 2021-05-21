@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DIY Laboratory Hardware for the non-engineer in plant sciences"
-date:   2021-05-21
+date:   Updated 2021-05-21
 excerpt: "Resources to inspire creative problem solving"
 project: true
 tag:
@@ -12,14 +12,13 @@ tag:
 - automation
 comments: true
 ---
-# DIY Hardware in the Plant Sciences
 
-I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research primarily involves plant sciences and plant pathology; as such, resources found here will initially be focused on hardware and software potentially or currenlty relevant to research in the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. I am not an engineer, so I've tried to tread light in areas in which my terminology and/or understanding may not be accurate or thorough. Regardless, I hope you won't discouraged by any initial difficulties as there are many resources available and people who want to see you succeed. Nobody is all-knowing and everyone has to start somewhere. Let's create a collaborative and supportive DIY movement in the plant sciences together.
+I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research involves plant sciences and pathology; consequently, resources found here will initially be focused on hardware and software relevant to the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. <br><br>I am **not** an engineer, thus I have tried to tread lightly in areas for which my terminology and/or understanding may not be accurate or thorough. Sometimes trying exploring a new skill or field can be frustrating or intimidating, especially early in the process. I encourage you to seek help from people who know more and the many other resources available. Always keep in mind: nobody is all-knowing and everyone has to start somewhere. Let's create a collaborative and supportive DIY movement in the plant sciences together.
 
 ## Why join the DIY free open source movement?
 
 * Improve accessibility
-* Custimize and/or build automation for repetitive tasks
+* Customize and/or build automation for repetitive tasks
 * Improve intra- and inter-lab reproducibility
 * Learn critical troubleshooting, coding, and electrical skills
 * Build the socially-acceptable version of adult legos (okay, that's a joke)
