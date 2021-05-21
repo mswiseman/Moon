@@ -22,7 +22,7 @@ I hope this website can be a resource for anyone looking into DIY open-source ha
 * Custimize and/or build automation for repetitive tasks
 * Improve intra- and inter-lab reproducibility
 * Learn critical troubleshooting, coding, and electrical skills
-* Play the socially-acceptable version of adult legos (okay, that's a joke)
+* Build the socially-acceptable version of adult legos (okay, that's a joke)
 
 **Interested? I hope so! Here are some great resources to start:**
 
