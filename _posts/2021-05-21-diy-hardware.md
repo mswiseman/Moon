@@ -17,11 +17,18 @@ comments: true
 This page is to serve as a resource for anyone looking DIY open-source hardware and software resources, focusing on hardware relevant to plant sciences. 
 
 ## Peer-Reviewed Resources
-* HardwareX
-
 ![HardwareX](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif)
 
+* HardwareX
+
 HardwareX is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. 
+
+Selected publications of potential interest to plant sciences: 
+
+[Highly-Customizable 3D Printed Peristaltic Pump Kit](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)
+Keywords: peristaltic pump, fluid handling, cell culture, microfluidics
+![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/customizable_peristaltic_pump.jpg)
+
 
 {% capture images %}
 	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
