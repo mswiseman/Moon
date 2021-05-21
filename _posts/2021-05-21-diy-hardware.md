@@ -76,9 +76,9 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 
 ### Microcontroller firmware
 
-* Marlin
-* RepRap
-* Smoothieware
+* [Marlin](https://marlinfw.org/)
+* [RepRap](https://reprap.org/wiki/RepRap)
+* [Smoothieware](https://smoothieware.org/)
 
 ### Stepper drivers
 
