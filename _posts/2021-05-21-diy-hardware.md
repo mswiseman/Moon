@@ -13,7 +13,9 @@ tag:
 comments: true
 ---
 
-I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research involves plant sciences and pathology; consequently, resources found here will initially be focused on hardware and software relevant to the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. <br><br>I am **not** an engineer and thus I have tried to tread lightly in areas for which my terminology and/or understanding may not be accurate or thorough. Sometimes exploring a new skill or field can be frustrating or intimidating, especially early in the process; to overcome this, I encourage you to seek help from people who have more experience and from the many other resources available (videos, documentation, forums, etc.). Keep in mind: nobody is all-knowing and everyone has to start somewhere; alas, let's create a collaborative and supportive DIY movement together!
+I want you to stop and ask yourself: does your work involve protocols that are broken-down into simple, stepwise parts? Do you have processes that sequentially builds off of previous steps? Does your work involve gathering multiple types of environmental data at regular increments? If so, you might consider exploring DIY software and/or hardware for your laboratory.
+
+I made this website as a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research involves plant sciences and pathology; consequently, resources found here will initially be focused on hardware and software relevant to the plant sciences. However, lab hardware and software often transcend disciplines, so I hope you can find useful information regardless of your field. <br><br>I am **not** an engineer and thus I have tried to tread lightly in areas for which my terminology and/or understanding may not be accurate or thorough. Sometimes exploring a new skill or field can be frustrating or intimidating, especially early in the process; to overcome this, I encourage you to seek help from people who have more experience and from the many other resources available (videos, documentation, forums, etc.). Keep in mind: nobody is all-knowing and everyone has to start somewhere; alas, let's create a collaborative and supportive DIY movement together!
 
 ## Why DIY hardware/software?
 
@@ -26,10 +28,10 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * Building the socially-acceptable version of adult legos (okay, that's a joke)
 
 ## Resources
-**Interested? in learning more? I hope so! Here are some great resources to start:**
+**Interested in learning more? I hope so!** I encourage you to first look over the selected publications below as I believe they do an exceptional job with documentation and also show the wide range of applications for free open source hard and software in the laboratory. While your purusing 
 
-* [Peer-reviewed scientific resources](#peer-reviewed-scienfic-resources)
 * [Selected publications for inspiration](#selected-publications)
+* [Peer-reviewed scientific resources](#peer-reviewed-scienfic-resources)
 * [Documentation for commonly used hardware](#hardware-documentation)
     * [Microcontrollers](#microcontrollers)
     * [Stepper drivers](#stepper-drivers)
@@ -42,13 +44,6 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 
 ---
 
-## Peer-reviewed scienfic resources
-<img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts that enable easier reproducibility. <br clear="left"/><br><br>
-
-<img align="left" width="100" alt="Nature Scientific Reports Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/ScientificReportsandNatureLogo.png"> [Nature Scientific Reports](https://www.nature.com/srep/) is an open access journal publishing original research from across all areas of the natural sciences, medicine and engineering. To find manuscripts more likely to have DIY hardware, I would explore the tags [*lab-on-a-chip*](https://www.nature.com/search?q=lab-on-a-chip&order=relevance&journal=srep), [*biomedical engineering*](https://www.nature.com/search?q=biomedical%20engineering&order=relevance&journal=srep), or [*mechanical engineering*](https://www.nature.com/search?q=mechanical%20engineering&order=relevance&journal=srep). <br clear="left"/><br><br>
-
----
-
 ## Selected publications \ [Back to top](#resources)
 
 [Highly-Customizable 3D Printed Peristaltic Pump Kit](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)<br/>
@@ -56,6 +51,13 @@ Keywords: peristaltic pump, fluid handling, cell culture, microfluidics
 
 ![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/customizable_peristaltic_pump.jpg)
 Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300249), [example2](http://link), [example3](http://link), [example4](http://link)
+
+---
+
+## Peer-reviewed scienfic resources
+<img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts that enable easier reproducibility. <br clear="left"/><br><br>
+
+<img align="left" width="100" alt="Nature Scientific Reports Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/ScientificReportsandNatureLogo.png"> [Nature Scientific Reports](https://www.nature.com/srep/) is an open access journal publishing original research from across all areas of the natural sciences, medicine and engineering. To find manuscripts more likely to have DIY hardware, I would explore the tags [*lab-on-a-chip*](https://www.nature.com/search?q=lab-on-a-chip&order=relevance&journal=srep), [*biomedical engineering*](https://www.nature.com/search?q=biomedical%20engineering&order=relevance&journal=srep), or [*mechanical engineering*](https://www.nature.com/search?q=mechanical%20engineering&order=relevance&journal=srep). <br clear="left"/><br><br>
 
 ---
 
