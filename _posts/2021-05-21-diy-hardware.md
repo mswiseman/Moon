@@ -14,7 +14,14 @@ comments: true
 ---
 # DIY Hardware in the Plant Sciences
 
-I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research primarily involves plant sciences and plant pathology; as such, resources found here will initially be focused on hardware and software potentially or currenlty relevant to research in the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. I am not an engineer, so I've tried to tread light in areas in which my terminology and/or understanding may not be accurate or thorough. Regardless, I hope you won't discouraged by any initial difficulties as there are many resources available and people who want to see you succeed. I am not an engineer. I'm just a passionate person who has worked to overcome knowledge gaps and frustrations by seeking help when I need it. Nobody is all-knowing and everyone has to start somewhere. Let's create a collaborative diy hardware and software movement for the plant sciences together.
+I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research primarily involves plant sciences and plant pathology; as such, resources found here will initially be focused on hardware and software potentially or currenlty relevant to research in the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. I am not an engineer, so I've tried to tread light in areas in which my terminology and/or understanding may not be accurate or thorough. Regardless, I hope you won't discouraged by any initial difficulties as there are many resources available and people who want to see you succeed. Nobody is all-knowing and everyone has to start somewhere. Let's create a collaborative and supportive diy movement in the plant sciences together.
+
+# Why join the DIY free open source movement?
+
+* DIY lab hardware aims to improve accessibility of expensive equipment while still meeting necessary accuracy benchmarks
+* Understanding open hardware/software enables you to implement or customize automation of repetitive work
+* Automation reduces human error and thus can improve intra- and inter-lab reproducibility (when thorough documentation is available)
+* Building DIY hardware/software also teaches critical troubleshooting skills
 
 Here are some resources to start:
 
