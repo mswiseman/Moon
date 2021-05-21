@@ -15,13 +15,15 @@ comments: true
 
 I hope this website can be a resource for anyone looking into DIY open-source hardware or software for their research. Broadly speaking, my research involves plant sciences and pathology; consequently, resources found here will initially be focused on hardware and software relevant to the plant sciences. However, lab hardware and software often transcends disciplines, so I hope you can find useful information regardless of your field. <br><br>I am **not** an engineer and thus I have tried to tread lightly in areas for which my terminology and/or understanding may not be accurate or thorough. Sometimes exploring a new skill or field can be frustrating or intimidating, especially early in the process; to overcome this, I encourage you to seek help from people who have more experience and from the many other resources available (videos, documentation, forums, etc.). Keep in mind: nobody is all-knowing and everyone has to start somewhere; alas, let's create a collaborative and supportive DIY movement together!
 
-## Why join the DIY free open source movement?
+## Why DIY hardware/software?
 
-* Improve accessibility
-* Customize and/or build automation for repetitive tasks
-* Improve intra- and inter-lab reproducibility
-* Learn critical troubleshooting, coding, and electrical skills
-* Build the socially-acceptable version of adult legos (okay, that's a joke)
+If your lab is fortunate enough to be flush with funding, you may be asking: why bother building something myself when I can pay a company to do it for me? Great question. This may not be relevant for you. However, you may still find other benefits by learning how to build hardware and software yourself. Some benefits include:
+
+* Improving accessibility to underfunded laboratories
+* Creating customization and/or automation for repetitive tasks
+* Improving intra- and inter-laboratory reproducibility
+* Learning critical troubleshooting, coding, and electrical skills
+* Building the socially-acceptable version of adult legos (okay, that's a joke)
 
 ## Resources
 **Interested? I hope so! Here are some great resources to start:**
