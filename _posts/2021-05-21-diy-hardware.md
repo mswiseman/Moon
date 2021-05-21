@@ -78,10 +78,12 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 * [Smoothieboard (32-bit)](http://smoothieware.org/)
 
 #### Wearable-friendly
+These are tiny microcontrollers best suited for wearable applications (such as a smart watch or animal tracking device). 
 * [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
 * []()
 
 ### Microcontroller firmware
+Explain firmware
 
 * [Marlin](https://marlinfw.org/)
     * [Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html)
@@ -94,14 +96,22 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
     * Compatible with all RepRap boards
 
 ### Stepper drivers
+Explain stepper drivers
+
+* [1](1)
+* [2](2)
+* [3](3)
 
 ### Environmental sensors
+Explain environmental sensors
+
+* [1](1)
+* [2](2)
+* [3](3)
 
 ### Mini-computers
-Technically speaking, mini-computers (aka microprocessors) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software heavy applications.
+Technically speaking, mini-computers (aka microprocessors) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications.
 * [Raspberry Pi](https://www.raspberrypi.org/)
-* 
-* 
 * 
 
 
