@@ -97,7 +97,7 @@ Technically speaking, mini-computers (aka microprocessors) are not microcontroll
 * 
 
 ## Insightful links
-* [A review of Raspberry Pi usage in scientific research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
+* [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
 
 ## Questions or comments? 
