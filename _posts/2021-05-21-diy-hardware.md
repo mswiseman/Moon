@@ -67,11 +67,11 @@ Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/a
 
 I've included direct links to the documentation of hardware commonly used in DIY free open source hardware. This field is rapidly evolving, so I imagine this section will change frequently. 
 
-### Microcontrollers \ [Back to top](#background)
+### Microcontrollers
 
 Microcontrollers are the brains of hardware - they tell the other components what to do. They are best suited for simple repetitive tasks (such as activating a motor). I recommend choosing a microcontroller based on your power needs, programming language preference (generally C, C++, or micropython) power, but also based on the company's reputation and the available documentation. Speaking from experience: you will save yourself *a lot of frustration* if you work with a microcontroller that has thorough documentation and support (like the Arduino series). 
 
-#### CNC Microcontrollers \ [Back to top](#background)
+#### CNC Microcontrollers
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
 * [Arduino Uno (8-bit)](https://store.arduino.cc/usa/arduino-uno-rev3)
 * [Arduino Mega (8-bit)](https://store.arduino.cc/usa/mega-2560-r3)
@@ -80,17 +80,17 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 * [Duet3 (32-bit](https://www.duet3d.com/Duet3Mainboard6HC)
 * [Smoothieboard (32-bit)](http://smoothieware.org/)
 
-#### Tiny Microcontrollers \ [Back to top](#background)
+#### Tiny Microcontrollers
 These are tiny microcontrollers are well-suited for wearable, lightweight, or limited space applications. 
 * [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano)
 * [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 * [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
 
 
-### Microcontroller firmware \ [Back to top](#background)
+### Microcontroller firmware
 Firmware is essentially permanent software that is programmed to microcontrollers. You will need to change the firmware (or write your own) to adapt it for your application; consequently, it's wise to familiarize yourself with the available resources, formatting, and limitations of various firmware packages. Firmware is typically written in C, C++, or Micropython. The software component of DIY hardware *can be challenging*, **but** there are tools, such as integrated development environments (IDE), that can make customizing firmware fairly straightforward. Not familiar with IDE? If you have used R-Studio or Jupyter Notebook, then you have used IDEs for the R and Python, respectively. [Here's](https://www.youtube.com/watch?v=ana1mFFMHIk) a nice overview of IDEs.
 
-#### Most commmon microcontroller firmware packages \ [Back to top](#background)
+#### Most commmon microcontroller firmware packages
 * [Marlin](https://marlinfw.org/)
     * [Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html)
 * [grbl](https://github.com/grbl/grbl)
@@ -103,21 +103,21 @@ Firmware is essentially permanent software that is programmed to microcontroller
 * [Smoothieware](https://smoothieware.org/)
     * Compatible with all RepRap boards 
 
-### Stepper drivers \ [Back to top](#background)
+### Stepper drivers
 Explain stepper drivers
 
 * [1](1)
 * [2](2)
 * [3](3)
 
-### Environmental sensors \ [Back to top](#background)
+### Environmental sensors
 Explain environmental sensors
 
 * [1](1)
 * [2](2)
 * [3](3)
 
-### Mini-computers \ [Back to top](#background)
+### Mini-computers
 Technically speaking, mini-computers (aka microprocessors) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications.
 * [Raspberry Pi](https://www.raspberrypi.org/)
 
