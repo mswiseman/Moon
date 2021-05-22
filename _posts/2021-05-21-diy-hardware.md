@@ -130,6 +130,7 @@ Explain environmental sensors
 
 ### Microprocessors
 Technically speaking, microprocessors (aka mini-computers) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications.
+* [Beagle Board](https://beagleboard.org/)
 * [Raspberry Pi](https://www.raspberrypi.org/)
 
 ---
