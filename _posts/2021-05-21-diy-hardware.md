@@ -132,7 +132,7 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 * [DIY Dremel CNC #3 electronics, software and firmware (Arduino, aluminium profiles, 3D printed parts)](https://youtu.be/xfQ0YosR6us)
 * [How To Wire It! Stepper Motors](https://youtu.be/GgfgWU0bpHk)
 * [Raspberry Pi Pico - Control the (I/O) World](https://www.youtube.com/watch?v=Zy64kZEM_bg&t=247s)
-    * The Raspberry Pi Pico is the first microcontroller from Raspberry Pi (released February 2021). All other Raspberry Pi chips are microprocessors. 
+
 ---
 
 ## Insightful Reviews and Commentary <br><sub>[Back to top](#background)</sub>
