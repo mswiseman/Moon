@@ -29,7 +29,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * Learning critical troubleshooting, coding, and electrical skills
 * Building the socially-acceptable version of adult legos (okay, that's a joke)
 
-## Resources
+## Resources \ [Back to top](#background)
 **Interested in learning more? I hope so!** I encourage you to first look over the selected publications below as I believe they do an exceptional job with documentation and also show the wide range of applications for free open source hard and software in the laboratory. While purusing the published, peer-examples, think about similarities and differences between your work processes and the published work: does your research have similiar tasks or processes? If so, a good place to start is by learning more about the hardware and software implemented in the paper of interest. If electronic wiring and microcontrollers are new to you, you should then consider exploring a DIY kit (versatile kits [here](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=zg_bs_17441247011_1?_encoding=UTF8&psc=1&refRID=BBWW093183JGAM3DA6D6), [here](), and [here]()) before starting on a larger project - this will greatly reduce frustration later on by building troubleshooting skills in low stakes situations. 
 
 * [Selected publications for inspiration](#selected-publications)
@@ -46,7 +46,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 
 ---
 
-## Selected publications \ [Back to top](#resources)
+## Selected publications \ [Back to top](#background)
 
 [Highly-Customizable 3D Printed Peristaltic Pump Kit](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)<br/>
 Keywords: peristaltic pump, fluid handling, cell culture, microfluidics
@@ -56,22 +56,22 @@ Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/a
 
 ---
 
-## Peer-reviewed scientific resources
+## Peer-reviewed scientific resources \ [Back to top](#background)
 <img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts that enable easier reproducibility. <br clear="left"/><br><br>
 
 <img align="left" width="100" alt="Nature Scientific Reports Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/ScientificReportsandNatureLogo.png"> [Nature Scientific Reports](https://www.nature.com/srep/) is an open access journal publishing original research from across all areas of the natural sciences, medicine and engineering. To find manuscripts more likely to have DIY hardware, I would explore the tags [*lab-on-a-chip*](https://www.nature.com/search?q=lab-on-a-chip&order=relevance&journal=srep), [*biomedical engineering*](https://www.nature.com/search?q=biomedical%20engineering&order=relevance&journal=srep), or [*mechanical engineering*](https://www.nature.com/search?q=mechanical%20engineering&order=relevance&journal=srep). <br clear="left"/><br><br>
 
 ---
 
-## Hardware documentation
+## Hardware documentation \ [Back to top](#background)
 
 I've included direct links to the documentation of hardware commonly used in DIY free open source hardware. This field is rapidly evolving, so I imagine this section will change frequently. 
 
-### Microcontrollers
+### Microcontrollers \ [Back to top](#background)
 
 Microcontrollers are the brains of hardware - they tell the other components what to do. They are best suited for simple repetitive tasks (such as activating a motor). I recommend choosing a microcontroller based on your power needs, programming language preference (generally C, C++, or micropython) power, but also based on the company's reputation and the available documentation. Speaking from experience: you will save yourself *a lot of frustration* if you work with a microcontroller that has thorough documentation and support (like the Arduino series). 
 
-#### CNC Microcontrollers
+#### CNC Microcontrollers \ [Back to top](#background)
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
 * [Arduino Uno (8-bit)](https://store.arduino.cc/usa/arduino-uno-rev3)
 * [Arduino Mega (8-bit)](https://store.arduino.cc/usa/mega-2560-r3)
@@ -80,17 +80,17 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 * [Duet3 (32-bit](https://www.duet3d.com/Duet3Mainboard6HC)
 * [Smoothieboard (32-bit)](http://smoothieware.org/)
 
-#### Tiny Microcontrollers
+#### Tiny Microcontrollers \ [Back to top](#background)
 These are tiny microcontrollers are well-suited for wearable, lightweight, or limited space applications. 
 * [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano)
 * [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 * [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
 
 
-### Microcontroller firmware
+### Microcontroller firmware \ [Back to top](#background)
 Firmware is essentially permanent software that is programmed to microcontrollers. You will need to change the firmware (or write your own) to adapt it for your application; consequently, it's wise to familiarize yourself with the available resources, formatting, and limitations of various firmware packages. Firmware is typically written in C, C++, or Micropython. The software component of DIY hardware *can be challenging*, **but** there are tools, such as integrated development environments (IDE), that can make customizing firmware fairly straightforward. Not familiar with IDE? If you have used R-Studio or Jupyter Notebook, then you have used IDEs for the R and Python, respectively. [Here's](https://www.youtube.com/watch?v=ana1mFFMHIk) a nice overview of IDEs.
 
-#### Most commmon microcontroller firmware packages
+#### Most commmon microcontroller firmware packages \ [Back to top](#background)
 * [Marlin](https://marlinfw.org/)
     * [Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html)
 * [grbl](https://github.com/grbl/grbl)
@@ -103,26 +103,26 @@ Firmware is essentially permanent software that is programmed to microcontroller
 * [Smoothieware](https://smoothieware.org/)
     * Compatible with all RepRap boards 
 
-### Stepper drivers
+### Stepper drivers \ [Back to top](#background)
 Explain stepper drivers
 
 * [1](1)
 * [2](2)
 * [3](3)
 
-### Environmental sensors
+### Environmental sensors \ [Back to top](#background)
 Explain environmental sensors
 
 * [1](1)
 * [2](2)
 * [3](3)
 
-### Mini-computers
+### Mini-computers \ [Back to top](#background)
 Technically speaking, mini-computers (aka microprocessors) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications.
 * [Raspberry Pi](https://www.raspberrypi.org/)
 
 ---
-## YouTube Links
+## YouTube Links \ [Back to top](#background)
 There are endless tutorials and informational videos on YouTube, but some are more helpful than others. I found these to be particularly helpful with my adventure into DIY hardware. 
 * [How to build a 3D printer, The Ultimate Guide](https://youtu.be/qub5chyIQ0s)
     * This video is helpful understanding any type of CNC hardware, not just 3D printers
@@ -136,17 +136,17 @@ There are endless tutorials and informational videos on YouTube, but some are mo
     * As far as I know, it's the only microcontroller that can be programmed with MicroPython (also C and C++)
 ---
 
-## Insightful Reviews and Commentary
+## Insightful Reviews and Commentary \ [Back to top](#background)
 * [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
 
 ---
 
-## Questions or comments? 
+## Questions or comments?  \ [Back to top](#background)
 
 I'd love for this to be a collaborative process, so please [send me](michele.wiseman@oregonstate.edu) your questions/suggestions/comments or post them to the comments below (let's all be kind humans though, okay?). 
 
 ---
 
-## Updated
+## Updated \ [Back to top](#background)
 This page was last updated 05/21/2021. *Disclosure statement: I do not benefit financially from any of the links on this page - I choose to not to have affiliate links to reduce bias and try to remain objective.*
