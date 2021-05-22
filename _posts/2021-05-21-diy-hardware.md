@@ -30,7 +30,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * Building the socially-acceptable version of adult legos (okay, that's a joke)
 
 ## Resources
-**Interested in learning more? I hope so!** I encourage you to first look over the selected publications below as I believe they do an exceptional job with documentation and also show the wide range of applications for free open source hard and software in the laboratory. While purusing the published, peer-examples, think about similarities and differences between your work processes and the published work: does your research have similiar tasks or processes? If so, a good place to start is by learning more about the hardware and software implemented in the paper of interest. If electronic wiring and microcontrollers are new to you, you should then consider exploring a DIY kit (versatile kits [here](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=zg_bs_17441247011_1?_encoding=UTF8&psc=1&refRID=BBWW093183JGAM3DA6D6), here, and here) before starting on a larger project - this will greatly reduce frustration later on by building troubleshooting skills in low stakes situations. 
+**Interested in learning more? I hope so!** I encourage you to first look over the selected publications below as I believe they do an exceptional job with documentation and also show the wide range of applications for free open source hard and software in the laboratory. While purusing the published, peer-examples, think about similarities and differences between your work processes and the published work: does your research have similiar tasks or processes? If so, a good place to start is by learning more about the hardware and software implemented in the paper of interest. If electronic wiring and microcontrollers are new to you, you should then consider exploring a DIY kit (versatile kits [here](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=zg_bs_17441247011_1?_encoding=UTF8&psc=1&refRID=BBWW093183JGAM3DA6D6), [here](), and [here]()) before starting on a larger project - this will greatly reduce frustration later on by building troubleshooting skills in low stakes situations. 
 
 * [Selected publications for inspiration](#selected-publications)
 * [Peer-reviewed scientific resources](#peer-reviewed-scientific-resources)
@@ -74,7 +74,6 @@ Microcontrollers are the brains of hardware - they tell the other components wha
 #### CNC Microcontrollers
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
 * [Arduino Uno (8-bit)](https://store.arduino.cc/usa/arduino-uno-rev3)
-* [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano)
 * [Arduino Mega (8-bit)](https://store.arduino.cc/usa/mega-2560-r3)
 * [Arduino Due (32-bit)](https://store.arduino.cc/usa/due)
 * [Duet2 (32-bit)](https://www.duet3d.com/DuetWifi)
@@ -83,8 +82,10 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 
 #### Wearable-friendly Microcontrollers
 These are tiny microcontrollers best suited for wearable applications (such as a smart watch or animal tracking device). 
+* [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano)
 * [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 * [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
+
 
 
 ### Microcontroller firmware
@@ -128,7 +129,9 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 * [How to wire a cheap power supply](https://youtu.be/Ls-6BeLHbA0)
 * [DIY Dremel CNC #3 electronics, software and firmware (Arduino, aluminium profiles, 3D printed parts)](https://youtu.be/xfQ0YosR6us)
 * [How To Wire It! Stepper Motors](https://youtu.be/GgfgWU0bpHk)
-* 
+* [Raspberry Pi Pico - Control the (I/O) World](https://www.youtube.com/watch?v=Zy64kZEM_bg&t=247s)
+    * The Raspberry Pi Pico is the first microcontroller from Raspberry Pi (released February 2021). 
+    * As far as I know, it's the only microcontroller that can be programmed with MicroPython (also C and C++)
 ---
 
 ## Insightful Reviews and Commentary
