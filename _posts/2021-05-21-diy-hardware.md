@@ -46,7 +46,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 
 ---
 
-## Selected publications \ <sub>[Back to top](#background)</sub>
+## Selected publications \ <div style="text-align: right"> ><sub>[Back to top](#background)</sub> </div>
 
 [Highly-Customizable 3D Printed Peristaltic Pump Kit](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)<br/>
 Keywords: peristaltic pump, fluid handling, cell culture, microfluidics
