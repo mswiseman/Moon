@@ -132,6 +132,7 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 * [DIY Dremel CNC #3 electronics, software and firmware (Arduino, aluminium profiles, 3D printed parts)](https://youtu.be/xfQ0YosR6us)
 * [How To Wire It! Stepper Motors](https://youtu.be/GgfgWU0bpHk)
 * [Raspberry Pi Pico - Control the (I/O) World](https://www.youtube.com/watch?v=Zy64kZEM_bg&t=247s)
+* [Raspberry Pi CNC Controller](https://www.youtube.com/watch?v=u35L0jGCqFc)
 
 ---
 
