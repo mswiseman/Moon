@@ -67,7 +67,7 @@ Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/a
 
 ## Free and open source software
 
-Free and open-source software (FOSS) enable unrestrained reuse and modifaction of a software's source code. Linux OS and Mozilla Firefox are classic examples of FOSS with widespread usage. 
+Free and open-source software (FOSS) enable unrestrained reuse and modifaction of a software's source code. Linux OS and Mozilla Firefox are classic examples of FOSS that enjoy widespread usage. In the interest of abbreviating this list, I've focused on FOSS commonly used in DIY laboratory hardware. 
 
 * [Free and Open source CAM/CNC software](https://www.reddit.com/r/hobbycnc/comments/aj0hu8/list_of_free_and_open_source_camcnc_software/)
 * 
@@ -152,6 +152,7 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
 * [A DIY approach to automating your lab](https://www.nature.com/articles/d41586-019-01590-z)
 * [Building Research Equipment with Free, Open-Source Hardware](https://science.sciencemag.org/content/337/6100/1303.summary)
+* [Science for All: How to Make Free, Open Source Laboratory Hardware](https://blogs.scientificamerican.com/guest-blog/science-for-all-how-to-make-free-open-source-laboratory-hardware/)
 
 ---
 
