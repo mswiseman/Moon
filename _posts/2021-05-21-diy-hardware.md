@@ -126,15 +126,14 @@ Technically speaking, microprocessors (aka mini-computers) are not microcontroll
 ## YouTube Links <br><sub>[Back to top](#background)</sub>
 There are endless tutorials and informational videos on YouTube, but some are more helpful than others. I found these to be particularly helpful with my adventure into DIY hardware. 
 * [How to build a 3D printer, The Ultimate Guide](https://youtu.be/qub5chyIQ0s)
-    * This video is helpful understanding any type of CNC hardware, not just 3D printers
+    * This video thoroughly covers the details and considerations of common components of most CNC hardware.
 * [Breadboarding & Prototyping for Electronics, Arduino & Raspberry Pi](https://youtu.be/Y3Kx2RlLXsY)
 * [Schematic Diagrams & Symbols, Electrical Circuits - Resistors, Capacitors, Inductors, Diodes, & LEDs](https://youtu.be/Dl1gFBNa0Ik)
 * [How to wire a cheap power supply](https://youtu.be/Ls-6BeLHbA0)
 * [DIY Dremel CNC #3 electronics, software and firmware (Arduino, aluminium profiles, 3D printed parts)](https://youtu.be/xfQ0YosR6us)
 * [How To Wire It! Stepper Motors](https://youtu.be/GgfgWU0bpHk)
 * [Raspberry Pi Pico - Control the (I/O) World](https://www.youtube.com/watch?v=Zy64kZEM_bg&t=247s)
-    * The Raspberry Pi Pico is the first microcontroller from Raspberry Pi (released February 2021). 
-    * As far as I know, it's the only microcontroller that can be programmed with MicroPython (also C and C++)
+    * The Raspberry Pi Pico is the first microcontroller from Raspberry Pi (released February 2021). All other Raspberry Pi chips are microprocessors. 
 ---
 
 ## Insightful Reviews and Commentary <br><sub>[Back to top](#background)</sub>
