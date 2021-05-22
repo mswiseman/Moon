@@ -63,7 +63,14 @@ Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/a
 
 ---
 
-## Hardware documentation \ [Back to top](#background)
+<details>
+<summary>## Hardware documentation \ [Back to top](#background)...</summary>
+
+ 1. Put an **empty line** after the `<summary>` block.
+ 2. *Insert your markdown syntax*
+ 3. Put an **empty line** before the `</details>` tag
+ 
+</details>
 
 I've included direct links to the documentation of hardware commonly used in DIY free open source hardware. This field is rapidly evolving, so I imagine this section will change frequently. 
 
