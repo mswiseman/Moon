@@ -69,7 +69,7 @@ I've included direct links to the documentation of hardware commonly used in DIY
 
 ### Microcontrollers
 
-Microcontrollers are the brains of hardware - they tell the other components what to do. They are best suited for singular repetitive tasks (such as activating a motor). I recommend choosing a microcontroller not only based on your power and accessory needs, but also based on the company's reputation and the available documentation. Speaking from experience: you will save yourself a lot of frustration if you work with a microcontroller that has thorough documentation and support (like the Arduino series). 
+Microcontrollers are the brains of hardware - they tell the other components what to do. They are best suited for simple repetitive tasks (such as activating a motor). I recommend choosing a microcontroller based on your power needs, programming language preference (generally C, C++, or micropython) power, but also based on the company's reputation and the available documentation. Speaking from experience: you will save yourself *a lot of frustration* if you work with a microcontroller that has thorough documentation and support (like the Arduino series). 
 
 #### CNC Microcontrollers
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
@@ -77,19 +77,18 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 * [Arduino Mega (8-bit)](https://store.arduino.cc/usa/mega-2560-r3)
 * [Arduino Due (32-bit)](https://store.arduino.cc/usa/due)
 * [Duet2 (32-bit)](https://www.duet3d.com/DuetWifi)
-* [Due5x (32-bit)[]
+* [Duet3 (32-bit](https://www.duet3d.com/Duet3Mainboard6HC)
 * [Smoothieboard (32-bit)](http://smoothieware.org/)
 
-#### Wearable-friendly Microcontrollers
-These are tiny microcontrollers best suited for wearable applications (such as a smart watch or animal tracking device). 
+#### Tiny Microcontrollers
+These are tiny microcontrollers are well-suited for wearable, lightweight, or limited space applications. 
 * [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano)
 * [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 * [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
 
 
-
 ### Microcontroller firmware
-Explain firmware
+Firmware is essentially permanent software that is programmed to microcontrollers. You will need to change the firmware (or write your own) to adapt it for your application; consequently, it's wise to familiarize yourself with the available resources, formatting, and limitations of various firmwares. Firmware is typically written in C, C++, or Micropython. The software component of DIY hardware *can be challenging*, **but** there are tools, such as integrated development environment (IDE) software, that can make customizing firmware fairly straightforward. Not familiar with IDE? If you have used R-Studio or Jupyter Notebook, then you have unknowingly used IDEs for the R and Python, respectively. [Here's](https://www.youtube.com/watch?v=ana1mFFMHIk) a nice overview of IDEs.
 
 * [Marlin](https://marlinfw.org/)
     * [Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html)
@@ -99,7 +98,7 @@ Explain firmware
     * [Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)
     * [Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board) 
 * [Smoothieware](https://smoothieware.org/)
-    * Compatible with all RepRap boards
+    * Compatible with all RepRap boards 
 
 ### Stepper drivers
 Explain stepper drivers
