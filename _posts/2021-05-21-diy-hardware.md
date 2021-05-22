@@ -81,7 +81,7 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 * [Smoothieboard (32-bit)](http://smoothieware.org/)
 
 #### Tiny Microcontrollers
-These are tiny microcontrollers are well-suited for wearable, lightweight, or limited space applications. 
+These tiny microcontrollers are well-suited for wearable, lightweight, or space-limited applications. 
 * [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano)
 * [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 * [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
