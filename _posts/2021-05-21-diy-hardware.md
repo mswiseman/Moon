@@ -52,8 +52,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 Keywords: peristaltic pump, fluid handling, cell culture, microfluidics
 
 ![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/customizable_peristaltic_pump.jpg)
-Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300249), [example2](http://link), [example3](http://link), [example4](http://link)
-
+Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300249), [example2](https://www.instructables.com/Open-Source-Peristaltic-Pump/), [Thingiverse peristaltic pumps (not necessarily peer-reviewed)](https://www.thingiverse.com/search?q=peristaltic+pump&type=things&sort=relevant)
 ---
 
 ## Peer-reviewed scientific resources <br><sub>[Back to top](#peer-reviewed-scientific-resources)</sub>
