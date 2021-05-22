@@ -139,6 +139,7 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 ## Insightful Reviews and Commentary <br><sub>[Back to top](#background)</sub>
 * [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
+* [A DIY approach to automating your lab](https://www.nature.com/articles/d41586-019-01590-z)
 
 ---
 
