@@ -29,7 +29,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * Learning critical troubleshooting, coding, and electrical skills
 * Building the socially-acceptable version of adult legos (okay, that's a joke)
 
-## Resources \ <sub>[Back to top](#background)</sub> <!--<sub>...</sub> is used to make font size small-->
+## Resources \ <sub>[Back to top](#background)</sub>          <!--<sub>...</sub> is used to make font size small-->
 **Interested in learning more? I hope so!** I encourage you to first look over the selected publications below as I believe they do an exceptional job with documentation and also show the wide range of applications for free open source hard and software in the laboratory. While purusing the published, peer-examples, think about similarities and differences between your work processes and the published work: does your research have similiar tasks or processes? If so, a good place to start is by learning more about the hardware and software implemented in the paper of interest. If electronic wiring and microcontrollers are new to you, you should then consider exploring a DIY kit (versatile kits [here](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=zg_bs_17441247011_1?_encoding=UTF8&psc=1&refRID=BBWW093183JGAM3DA6D6), [here](), and [here]()) before starting on a larger project - this will greatly reduce frustration later on by building troubleshooting skills in low stakes situations. 
 
 * [Selected publications for inspiration](#selected-publications)
@@ -46,7 +46,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 
 ---
 
-## Selected publications \ [Back to top](#background)
+## Selected publications \ <sub>[Back to top](#background)</sub>
 
 [Highly-Customizable 3D Printed Peristaltic Pump Kit](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)<br/>
 Keywords: peristaltic pump, fluid handling, cell culture, microfluidics
@@ -56,23 +56,14 @@ Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/a
 
 ---
 
-## Peer-reviewed scientific resources \ [Back to top](#background)
+## Peer-reviewed scientific resources \ <sub>[Back to top](#background)</sub>
 <img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts that enable easier reproducibility. <br clear="left"/><br><br>
 
 <img align="left" width="100" alt="Nature Scientific Reports Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/ScientificReportsandNatureLogo.png"> [Nature Scientific Reports](https://www.nature.com/srep/) is an open access journal publishing original research from across all areas of the natural sciences, medicine and engineering. To find manuscripts more likely to have DIY hardware, I would explore the tags [*lab-on-a-chip*](https://www.nature.com/search?q=lab-on-a-chip&order=relevance&journal=srep), [*biomedical engineering*](https://www.nature.com/search?q=biomedical%20engineering&order=relevance&journal=srep), or [*mechanical engineering*](https://www.nature.com/search?q=mechanical%20engineering&order=relevance&journal=srep). <br clear="left"/><br><br>
 
 ---
 
-<details>
-<summary> 
-    ## Hardware documentation \ [Back to top](#background) 
-</summary>
-
- 1. Put an **empty line** after the `<summary>` block.
- 2. *Insert your markdown syntax*
- 3. Put an **empty line** before the `</details>` tag
- 
-</details>
+## Hardware documentation \ <sub>[Back to top](#background)</sub>
 
 I've included direct links to the documentation of hardware commonly used in DIY free open source hardware. This field is rapidly evolving, so I imagine this section will change frequently. 
 
@@ -131,7 +122,7 @@ Technically speaking, mini-computers (aka microprocessors) are not microcontroll
 * [Raspberry Pi](https://www.raspberrypi.org/)
 
 ---
-## YouTube Links \ [Back to top](#background)
+## YouTube Links \ <sub>[Back to top](#background)</sub>
 There are endless tutorials and informational videos on YouTube, but some are more helpful than others. I found these to be particularly helpful with my adventure into DIY hardware. 
 * [How to build a 3D printer, The Ultimate Guide](https://youtu.be/qub5chyIQ0s)
     * This video is helpful understanding any type of CNC hardware, not just 3D printers
@@ -145,17 +136,17 @@ There are endless tutorials and informational videos on YouTube, but some are mo
     * As far as I know, it's the only microcontroller that can be programmed with MicroPython (also C and C++)
 ---
 
-## Insightful Reviews and Commentary \ [Back to top](#background)
+## Insightful Reviews and Commentary \ <sub>[Back to top](#background)</sub>
 * [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
 
 ---
 
-## Questions or comments?  \ [Back to top](#background)
+## Questions or comments?  \ <sub>[Back to top](#background)</sub>
 
 I'd love for this to be a collaborative process, so please [send me](michele.wiseman@oregonstate.edu) your questions/suggestions/comments or post them to the comments below (let's all be kind humans though, okay?). 
 
 ---
 
-## Updated \ [Back to top](#background)
+## Updated \ <sub>[Back to top](#background)</sub>
 This page was last updated 05/21/2021. *Disclosure statement: I do not benefit financially from any of the links on this page - I choose to not to have affiliate links to reduce bias and try to remain objective.*
