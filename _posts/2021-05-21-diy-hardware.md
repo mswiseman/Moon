@@ -144,4 +144,4 @@ I'd love for this to be a collaborative process, so please [send me](michele.wis
 ---
 
 ## Updated
-This page was last updated 05/21/2021. *Disclosure statement: I do not benefit financially from any of the links on this page - I choose to not to have affiliate links to reduce bias and try to remain objective. *
+This page was last updated 05/21/2021. *Disclosure statement: I do not benefit financially from any of the links on this page - I choose to not to have affiliate links to reduce bias and try to remain objective.*
