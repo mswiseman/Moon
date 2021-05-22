@@ -64,7 +64,7 @@ Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/a
 ---
 
 <details>
-<summary>## Hardware documentation \ [Back to top](#background)...</summary>
+<summary> ## Hardware documentation \ [Back to top](#background) </summary>
 
  1. Put an **empty line** after the `<summary>` block.
  2. *Insert your markdown syntax*
