@@ -33,6 +33,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 **Interested in learning more? I hope so!** I encourage you to first review the selected publications below as I believe they have exceptional documentation and show the breadth of possible applications. While purusing the published, peer-examples, think about similarities and differences between your work processes and the published work: does your research have similiar tasks or processes? If so, a good place to start is by learning more about the hardware and software implemented in the paper of interest. If electronic wiring and microcontrollers are new to you, you should then consider exploring a DIY kit before starting on a larger project - this will greatly reduce frustration later on by building troubleshooting skills in low stakes situations (versatile kits [here](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=zg_bs_17441247011_1?_encoding=UTF8&psc=1&refRID=BBWW093183JGAM3DA6D6), [here](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A/ref=sxin_7?asc_contentid=amzn1.osa.2e3d30a4-cf4e-47b3-b8de-5ef6cdfc1d3d.ATVPDKIKX0DER.en_US&asc_contenttype=article&ascsubtag=amzn1.osa.2e3d30a4-cf4e-47b3-b8de-5ef6cdfc1d3d.ATVPDKIKX0DER.en_US&creativeASIN=B009UKZV0A&cv_ct_cx=microcontroller+kit&cv_ct_id=amzn1.osa.2e3d30a4-cf4e-47b3-b8de-5ef6cdfc1d3d.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&dchild=1&keywords=microcontroller+kit&linkCode=oas&pd_rd_i=B009UKZV0A&pd_rd_r=96c06eb2-5fe7-40da-86b0-bcbf82534b7b&pd_rd_w=RMLMr&pd_rd_wg=93GL4&pf_rd_p=1b34f127-880a-4b1b-855c-50e91f9e2b61&pf_rd_r=N1WFFY105PYG7TVPNPQ9&qid=1621649007&sr=1-2-c26ac7f6-b43f-4741-a772-17cad7536576&tag=theradar-20), and [here](https://www.amazon.com/ELEGOO-Upgraded-Tutorial-Compatible-MEGA2560/dp/B01MG49ZQ5/ref=sr_1_8?dchild=1&keywords=microcontroller+kit&qid=1621649007&sr=8-8)). 
 * [Selected publications for inspiration](#selected-publications--back-to-top)
 * [Peer-reviewed scientific resources](#peer-reviewed-scientific-resources)
+* [Free and open source software](#free-and-open-source-software)
 * [Books](#Books--back-to-top)
 * [Documentation for commonly used hardware](#hardware-documentation--back-to-top)
     * [Microcontrollers](#microcontrollers)
@@ -49,18 +50,28 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 ## Selected publications  <br><sub>[Back to top](#background)</sub>
 
 [Highly-Customizable 3D Printed Peristaltic Pump Kit](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)<br/>
-Keywords: peristaltic pump, fluid handling, cell culture, microfluidics
+Applications: precise fluid handling, cell culture, microfluidics
+Cost: $51 USD
 
 ![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/customizable_peristaltic_pump.jpg)
-Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300249), [example2](https://www.instructables.com/Open-Source-Peristaltic-Pump/), [Thingiverse peristaltic pumps (not necessarily peer-reviewed)](https://www.thingiverse.com/search?q=peristaltic+pump&type=things&sort=relevant)
+Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300249), [iGEM Aachen Team 2017](https://www.instructables.com/Open-Source-Peristaltic-Pump/), [Thingiverse peristaltic pumps (not necessarily peer-reviewed)](https://www.thingiverse.com/search?q=peristaltic+pump&type=things&sort=relevant)
+
 ---
 
 ## Peer-reviewed scientific resources <br><sub>[Back to top](#peer-reviewed-scientific-resources)</sub>
-<img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts that enable easier reproducibility. <br clear="left"/><br><br>
+<img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts thus enabling easier reproducibility. <br clear="left"/><br><br>
 
 <img align="left" width="100" alt="Nature Scientific Reports Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/ScientificReportsandNatureLogo.png"> [Nature Scientific Reports](https://www.nature.com/srep/) is an open access journal publishing original research from across all areas of the natural sciences, medicine and engineering. To find manuscripts more likely to have DIY hardware, I would explore the tags [*lab-on-a-chip*](https://www.nature.com/search?q=lab-on-a-chip&order=relevance&journal=srep), [*biomedical engineering*](https://www.nature.com/search?q=biomedical%20engineering&order=relevance&journal=srep), or [*mechanical engineering*](https://www.nature.com/search?q=mechanical%20engineering&order=relevance&journal=srep). <br clear="left"/><br><br>
 
 ---
+
+## Free and open source software
+
+Free and open-source software (FOSS) enable unrestrained reuse and modifaction of a software's source code. Linux OS and Mozilla Firefox are classic examples of FOSS with widespread usage. 
+
+* [Free and Open source CAM/CNC software](https://www.reddit.com/r/hobbycnc/comments/aj0hu8/list_of_free_and_open_source_camcnc_software/)
+* 
+
 
 ## Hardware documentation <br><sub>[Back to top](#background)</sub>
 
@@ -101,6 +112,7 @@ Firmware is essentially permanent software that is programmed to microcontroller
     * [Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board) 
 * [Smoothieware](https://smoothieware.org/)
     * Compatible with all RepRap boards 
+* [Updated list of active open source microcontroller firmware](https://reprap.org/wiki/List_of_Firmware)
 
 ### Stepper drivers
 Explain stepper drivers
