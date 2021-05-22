@@ -90,11 +90,13 @@ These are tiny microcontrollers are well-suited for wearable, lightweight, or li
 ### Microcontroller firmware
 Firmware is essentially permanent software that is programmed to microcontrollers. You will need to change the firmware (or write your own) to adapt it for your application; consequently, it's wise to familiarize yourself with the available resources, formatting, and limitations of various firmwares. Firmware is typically written in C, C++, or Micropython. The software component of DIY hardware *can be challenging*, **but** there are tools, such as integrated development environment (IDE) software, that can make customizing firmware fairly straightforward. Not familiar with IDE? If you have used R-Studio or Jupyter Notebook, then you have unknowingly used IDEs for the R and Python, respectively. [Here's](https://www.youtube.com/watch?v=ana1mFFMHIk) a nice overview of IDEs.
 
-#### Most commmon firmware packages
+#### Most commmon microcontroller firmware packages
 * [Marlin](https://marlinfw.org/)
     * [Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html)
 * [grbl](https://github.com/grbl/grbl)
-    * Compatible with Arduino Uno Stack, Arduino Nano Stack, MKS-DLC, Mega 2560 Stack
+    * Compatible with Arduino Uno Stack, Arduino Nano Stack, MKS-DLC, Mega 2560 Stack, and others
+* [MicroPython](https://micropython.org/download/)
+    * Compatible with Pyboard v1, STM32 boards, Raspberry Pi Pico, WiPy, TinyPICO, and others 
 * [RepRap](https://reprap.org/wiki/RepRap)
     * [Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)
     * [Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board) 
