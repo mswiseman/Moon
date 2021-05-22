@@ -39,7 +39,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
     * [Microcontrollers](#microcontrollers)
     * [Stepper drivers](#stepper-drivers)
     * [Environmental sensors](#environmental-sensors)
-    * [Microprocessors/Mini-Computers](#mini-computers)
+    * [Microprocessors/Mini-Computers](#microprocessors)
 * [Exceptional YouTube tutorials](#youtube-tutorials)
 * [Recommendations on where to purchase components](#purchasing-recommendations)
 * [Local resources for Oregon State University](#local-resources)
@@ -118,8 +118,8 @@ Explain environmental sensors
 * [2](2)
 * [3](3)
 
-### Mini-computers
-Technically speaking, mini-computers (aka microprocessors) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications.
+### Microprocessors
+Technically speaking, microprocessors (aka mini-computers) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications.
 * [Raspberry Pi](https://www.raspberrypi.org/)
 
 ---
