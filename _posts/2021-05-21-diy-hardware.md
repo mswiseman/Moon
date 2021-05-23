@@ -179,7 +179,4 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 
 <sub>To be clear, I don't just collaborate with people named Dave :sweat_smile:</sub>
 
----
-
-## Updated <br><sub>[Back to top](#background)</sub>
-This page was last updated 05/21/2021. *Disclosure statement: I do not benefit financially from any of the links on this page - I choose to not to have affiliate links to reduce bias and try to remain objective.*
+<sub>This page was last updated 05/21/2021. *Disclosure statement: I do not benefit financially from any of the links on this page - I choose to not to have affiliate links to reduce bias and try to remain objective.*</sub>
