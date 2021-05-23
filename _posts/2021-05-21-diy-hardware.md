@@ -170,7 +170,7 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 
 ## Questions or comments?  <br><sub>[Back to top](#background)</sub>
 
-I'd love for this to be a collaborative process, so please [send me](michele.wiseman@oregonstate.edu) your questions/suggestions/comments or post them to the comments below (let's all be kind humans though, okay?). 
+I'd love for this to be a collaborative process, so please [send me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage) your questions/suggestions/comments or post them to the comments below (let's all be kind humans though, okay?). 
 
 ---
 
