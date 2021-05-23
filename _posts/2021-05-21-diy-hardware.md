@@ -15,7 +15,7 @@ reading time: false
 
 ---
 
-<sub>Updated May 23rd, 2021</sub
+<sub>Updated May 23rd, 2021</sub>
     
 **Can you break down tasks or processes from your research into simple, step-wise parts? Do you have processes that sequentially build off of previous steps? Does your work involve gathering multiple types of environmental data at regular increments? If so, you might consider exploring DIY software and/or hardware for your laboratory.**
 
