@@ -17,10 +17,10 @@ Snail mail:
 Oregon State University
 Corvallis, OR 97331
 
-<a href="#education" class="btn">Education and Positions Held</a>
-<a href="#research-foci" class="btn">Research Foci</a>
-<a href="https://scholar.google.com/citations?user=0h0Sw8YAAAAJ&hl=en" class="btn">Select Publications</a>
-<a href="#service" class="btn">Contributions and Service</a>
+<a href="#education" class="btn">Education|Positions</a>
+<a href="#research-foci" class="btn">Research</a>
+<a href="https://scholar.google.com/citations?user=0h0Sw8YAAAAJ&hl=en" class="btn">GoogleScholar</a>
+<a href="#service" class="btn">Contributions</a>
 <a href="#personal" class="btn">Personal</a>
 
 Education
@@ -43,6 +43,7 @@ While pursuing my PhD in Botany and Plant Pathology at Oregon State University, 
 
 [Published Peer-Reviewed Manuscripts on Google Scholar](https://scholar.google.com/citations?user=0h0Sw8YAAAAJ&hl=en)
 ---------------------
+## Contributions and Service
 
 Multimedia Content Contributer
 -----
@@ -55,8 +56,6 @@ The Hop Powdery Mildew Risk Index. Authored by Dave H. Gent, Briana Claassen, an
 Biological Sequence Data Contributions
 ---------
 * Contributer to over 4200 GenBank sequences
-
-## Service
 
 Departmental Service
 ---------------------
