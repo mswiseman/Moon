@@ -7,10 +7,21 @@ comments: false
 ---
 
 Abbreviated *Curriculum vitae* for Michele Wiseman
+=====
 
 <a href="#education" class="btn">Education</a>
+<a href="#positions-held" class="btn">Positions Held</a>
+<a href="#research-foci" class="btn">Research Foci</a>
+<a href="https://scholar.google.com/citations?user=0h0Sw8YAAAAJ&hl=en" class="btn">Select Publications</a>
+<a href="#multi-media" class="btn">Multi-media</a>
+<a href="#service" class="btn">Service</a>
+<a href="#personal" class="btn">Personal</a>
 
-=====
+
+
+
+
+
 * Current Rank: PhD student
 * Email: michele.wiseman@oregonstate.edu
 
@@ -46,6 +57,8 @@ The Hop Powdery Mildew Risk Index. Authored by Dave H. Gent, Briana Claassen, an
 Biological Sequence Data Contributions
 ---------
 * Contributer to over 4200 GenBank sequences
+
+## Service
 
 Departmental Service
 ---------------------
