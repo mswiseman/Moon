@@ -7,6 +7,9 @@ comments: false
 ---
 
 Abbreviated *Curriculum vitae* for Michele Wiseman
+
+<a href="#education" class="btn">Education</a>
+
 =====
 * Current Rank: PhD student
 * Email: michele.wiseman@oregonstate.edu
