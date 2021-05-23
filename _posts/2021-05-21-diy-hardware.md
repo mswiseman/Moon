@@ -156,6 +156,15 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 * [Science for All: How to Make Free, Open Source Laboratory Hardware](https://blogs.scientificamerican.com/guest-blog/science-for-all-how-to-make-free-open-source-laboratory-hardware/)
 
 ---
+## Useful CAD Libraries and Open Hardware Repositories
+* [Grabcad](https://grabcad.com/library/)
+    * Free and open source 3D models of just about everything. For use with Fusion 360, Solidworks, etc. 
+* [Thingiverse](https://www.thingiverse.com/)
+    * Huge repository of designs, primarily for 3D printing.
+    * Science-specific libraries:
+        * [Open-Source Lab](https://www.thingiverse.com/thing:182640)
+        * [Plant Science DIY](https://www.thingiverse.com/mswiseman/collections/diy-hardware-for-the-plant-sciences)
+* [GaudiLabs Open Hardware Projects](http://www.gaudi.ch/GaudiLabs/?page_id=19)
 
 ## Questions or comments?  <br><sub>[Back to top](#background)</sub>
 
