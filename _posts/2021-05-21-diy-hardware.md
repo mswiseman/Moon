@@ -11,6 +11,8 @@ tag:
 - hardwareX
 - automation
 comments: true
+reading time: false
+
 ---
 
 **Can you break down tasks or processes from your research into simple, step-wise parts? Do you have processes that sequentially build off of previous steps? Does your work involve gathering multiple types of environmental data at regular increments? If so, you might consider exploring DIY software and/or hardware for your laboratory.**
@@ -45,7 +47,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * [Local resources for Oregon State University](#local-resources--back-to-top)
 * [Links to insightful reviews and commentary](#insightful-reviews-and-commentary--back-to-top)
 * [Useful CAD Libraries and Open Hardware Repositories](#useful-cad-libraries-and-open-hardware-repositories)
-* [Questions or comments?](#questions-or-comments)
+* [Contact](#contact)
 
 ---
 
@@ -168,9 +170,10 @@ There are endless tutorials and informational videos on YouTube, but some are mo
         * [Plant Science DIY](https://www.thingiverse.com/mswiseman/collections/diy-hardware-for-the-plant-sciences)
 * [GaudiLabs Open Hardware Projects](http://www.gaudi.ch/GaudiLabs/?page_id=19)
 
-## Questions or comments?  <br><sub>[Back to top](#background)</sub>
+## Contact?  <br><sub>[Back to top](#background)</sub>
 
-I'd love for this to be a collaborative process, so please [send me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage) your questions/suggestions/comments or post them to the comments below (let's all be kind humans though, okay?). 
+[Email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage)
+I'd like to thank David Florian ([@DrDFlo](https://www.drdflo.com/)) for his help and feedback while navigating adaptation of [his design](http://https://openliquidhandler.com/) for my application. Thank you to my fellow makers for all your feedback, my supportive labmates, and and my incredibly patient, kind, and brilliant adviser, Dr. David Gent. 
 
 ---
 
