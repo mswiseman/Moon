@@ -177,6 +177,8 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 [Email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage)
 
 
-**Acknowledgments** I'd like to thank **David Florian** ([@DrDFlo](https://www.drdflo.com/)) for his help and feedback while navigating adaptation of [his design](http://https://openliquidhandler.com/) for my application. Thank you to my fellow makers for all your feedback, my supportive labmates, and and my incredibly patient, kind, and brilliant adviser, **Dr. David Gent**. 
+## Acknowledgments
 
-<sub>To be clear, I don't just collaborate with people named Dave :sweat_smile:</sub>
+I'd like to thank **David Florian** ([@DrDFlo](https://www.drdflo.com/)) for his help and feedback while navigating adaptation of [his Ottobot design](http://https://openliquidhandler.com/) for my application. Thank you to my fellow makers for all your feedback, my supportive labmates (@GentLab, and and my incredibly patient, kind, and brilliant adviser, **Dr. David Gent**. 
+
+<sub>To be clear, I collaborate with people that aren't named David too :sweat_smile:</sub>
