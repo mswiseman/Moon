@@ -44,6 +44,8 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * [Recommendations on where to purchase components](#purchasing-recommendations--back-to-top)
 * [Local resources for Oregon State University](#local-resources--back-to-top)
 * [Links to insightful reviews and commentary](#insightful-reviews-and-commentary--back-to-top)
+* [Useful CAD Libraries and Open Hardware Repositories](#useful-cad-libraries-and-open-hardware-repositories)
+* [Questions or comments?](#questions-or-comments)
 
 ---
 
