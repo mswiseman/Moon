@@ -49,6 +49,8 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * [Useful CAD Libraries and Open Hardware Repositories](#useful-cad-libraries-and-open-hardware-repositories)
 * [Contact](#contact)
 
+<sub>*Disclosure statement: I do not benefit financially from any of the links on this page.*</sub>
+
 ---
 
 ## Selected publications  <br><sub>[Back to top](#background)</sub>
@@ -178,5 +180,3 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 **Acknowledgments** I'd like to thank **David Florian** ([@DrDFlo](https://www.drdflo.com/)) for his help and feedback while navigating adaptation of [his design](http://https://openliquidhandler.com/) for my application. Thank you to my fellow makers for all your feedback, my supportive labmates, and and my incredibly patient, kind, and brilliant adviser, **Dr. David Gent**. 
 
 <sub>To be clear, I don't just collaborate with people named Dave :sweat_smile:</sub>
-
-<sub>This page was last updated 05/21/2021. *Disclosure statement: I do not benefit financially from any of the links on this page - I choose to not to have affiliate links to reduce bias and try to remain objective.*</sub>
