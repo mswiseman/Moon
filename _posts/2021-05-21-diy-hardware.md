@@ -130,11 +130,11 @@ Stepper motors are the most type of common motor deployed in high-precision CNC-
 * [Texas Instruments](https://www.ti.com/motor-drivers/stepper-driver/featured-products.html#smooth)
 
 ### Environmental sensors
-Microcontrollers and microprocessors are well suited for environmental sensing; as such, many accessory modules have been developed and are able as air movement, humidity, temperature, light, vibration, sound, etc. If you're a in part of the OSU community and have a project involving environmental sensing, reach out to the [OPEnS Lab](https://open-sensing.org/) - this is their specialty. If not, I've provided some resources below. 
+Microcontrollers and microprocessors are well suited for environmental sensing; as such, many accessory modules have been developed and able to detect air movement, humidity, temperature, light, vibration, sound, etc. If you're an OSU researcher and have a project involving environmental sensing, reach out to the [OPEnS Lab](https://open-sensing.org/) - this is their specialty. If not, I've provided some resources and inspiration below. 
 
 * [DIY HOBO Units](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13128)
 * [Low-cost electronic sensors for environmental research: Pitfalls and opportunities](https://journals.sagepub.com/doi/full/10.1177/0309133320956567)
-* [3](3)
+* [](3)
 
 ### Microprocessors
 Technically speaking, microprocessors (aka mini-computers) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications or as a computer that controls multiple microcontrollers.
