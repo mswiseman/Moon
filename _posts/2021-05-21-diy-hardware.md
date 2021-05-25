@@ -123,27 +123,29 @@ Firmware is essentially permanent software that is programmed to microcontroller
 * [Updated list of active open source microcontroller firmware](https://reprap.org/wiki/List_of_Firmware)
 
 ### Stepper drivers
-Explain stepper drivers
+Stepper motors are the most type of common motor deployed in high-precision CNC-type applications. Stepper motors work move in a precise, incremental, step-wise fashion (thorough review [here](https://www.motioncontrolproducts.com/applications/selection-guide-for-stepper-motors/)). Stepper drivers are components that *drive* stepper motors.  Stepper drivers are often integrated into microcontroller boards, but can also be wired externally. When choosing a stepper driver, one needs to consider how powerful their stepper motors are, what extra features they would like, and how precise they need their stepper motor to be. Good overviews can be found [here](https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/), [here](https://re-filament.com/best-stepper-motor-drivers-for-3d-printers/, and [here](https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/Stepper-Driver.html)). This an abbreviated list to give you an idea of the available choices. 
 
-* [1](1)
-* [2](2)
-* [3](3)
+* [Trinamic Drivers](https://www.trinamic.com/products/)
+* [Stepper Online](https://www.omc-stepperonline.com/stepper-motor-driver/)
+* [Texas Instruments](https://www.ti.com/motor-drivers/stepper-driver/featured-products.html#smooth)
 
 ### Environmental sensors
-Explain environmental sensors
+Microcontrollers and microprocessors are well suited for environmental sensing; as such, many accessory modules have been developed and are able as air movement, humidity, temperature, light, vibration, sound, etc. If you're a in part of the OSU community and have a project involving environmental sensing, reach out to the [OPEnS Lab](https://open-sensing.org/) - this is their specialty. If not, I've provided some resources below. 
 
-* [1](1)
-* [2](2)
+* [DIY HOBO Units](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13128)
+* [Low-cost electronic sensors for environmental research: Pitfalls and opportunities](https://journals.sagepub.com/doi/full/10.1177/0309133320956567)
 * [3](3)
 
 ### Microprocessors
-Technically speaking, microprocessors (aka mini-computers) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications.
+Technically speaking, microprocessors (aka mini-computers) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications or as a computer that controls multiple microcontrollers.
+
 * [Beagle Board](https://beagleboard.org/)
 * [Raspberry Pi](https://www.raspberrypi.org/)
 
 ---
 ## YouTube Links <br><sub>[Back to top](#background)</sub>
 There are endless tutorials and informational videos on YouTube, but some are more helpful than others. I found these to be particularly helpful with my adventure into DIY hardware. 
+
 * [How to build a 3D printer, The Ultimate Guide](https://youtu.be/qub5chyIQ0s)
     * This video thoroughly covers the details and considerations of common components of most CNC hardware.
 * [Breadboarding & Prototyping for Electronics, Arduino & Raspberry Pi](https://youtu.be/Y3Kx2RlLXsY)
