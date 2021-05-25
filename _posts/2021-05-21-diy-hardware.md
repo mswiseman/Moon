@@ -147,9 +147,9 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 * [How to build a 3D printer, The Ultimate Guide](https://youtu.be/qub5chyIQ0s)
     * This video thoroughly covers the details and considerations of common components of most CNC hardware.
 * [Breadboarding & Prototyping for Electronics, Arduino & Raspberry Pi](https://youtu.be/Y3Kx2RlLXsY)
-* [Schematic Diagrams & Symbols, Electrical Circuits - Resistors, Capacitors, Inductors, Diodes, & LEDs](https://youtu.be/Dl1gFBNa0Ik)
+* [Schematic Diagrams & Symbols, Electrical Circuits](https://youtu.be/Dl1gFBNa0Ik)
 * [How to wire a cheap power supply](https://youtu.be/Ls-6BeLHbA0)
-* [DIY Dremel CNC #3 electronics, software and firmware (Arduino, aluminium profiles, 3D printed parts)](https://youtu.be/xfQ0YosR6us)
+* [DIY Dremel CNC electronics, software and firmware](https://youtu.be/xfQ0YosR6us)
 * [How To Wire It! Stepper Motors](https://youtu.be/GgfgWU0bpHk)
 * [Raspberry Pi Pico - Control the (I/O) World](https://www.youtube.com/watch?v=Zy64kZEM_bg&t=247s)
 * [Raspberry Pi CNC Controller](https://www.youtube.com/watch?v=u35L0jGCqFc)
