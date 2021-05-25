@@ -156,12 +156,36 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 
 ---
 
+## Where to purchase components
+
+Regardless of who you buy from, most of your hardware components will be manufactured in China; alas, it is tempting to get the best price and buy from alibaba. Unfortunately, when you buy an open-source chip from alibaba or another third party seller, you are likely not supporting the developers who put time and energy into developing open-source hardware. If you have the financial means to pay slightly more to support open source developers, I would encourage you to do so. Not only will you help support the movement, but also exchanges are easier and you typically recieve much better technical support. Further, there have been reports of shortcuts in ripoff hardware that have lead to safety hazards not present in original genuine open source release.  Nonetheless, open source is open source, so if your lab is in the dire straights, aliexpress will almost always be the cheapest option. 
+
+**Common components can be found here (listed A-Z)**
+* Microprocessors and microcontrollers direct from designers
+    * Arduino
+    * Openbuilds
+    * Smoothieboard
+* Third-party* resellers (\**usually*)
+    * AliExpress
+    * Amazon
+
+## Local resources <br><sub>[Back to top](#background)</sub>
+* [Corvallis Public Library](https://cbcpubliclibrary.net/3d-printing/)
+3d printing available, literature, and a makers club. 
+* [Electrical Engineering Capstone Student Projects](https://eecs.oregonstate.edu/industry-relations/capstone-and-senior-design-projects)
+Request a senior EE student to help with your project. 
+* [OPEnS Lab](https://github.com/OPEnSLab-OSU/OPEnS-Lab-Home/wiki)
+Available help for your environmental sensing projects as well as access to 3d printing and laser cutting. 
+* [OSU Library](https://guides.library.oregonstate.edu/3Dprinting)
+3d printing and literature. 
+
 ## Insightful Reviews and Commentary <br><sub>[Back to top](#background)</sub>
 * [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
 * [A DIY approach to automating your lab](https://www.nature.com/articles/d41586-019-01590-z)
 * [Building Research Equipment with Free, Open-Source Hardware](https://science.sciencemag.org/content/337/6100/1303.summary)
 * [Science for All: How to Make Free, Open Source Laboratory Hardware](https://blogs.scientificamerican.com/guest-blog/science-for-all-how-to-make-free-open-source-laboratory-hardware/)
+* [Economic savings for scientific free and open source technology: A review](https://www.sciencedirect.com/science/article/pii/S2468067220300481)
 
 ---
 ## Useful CAD Libraries and Open Hardware Repositories
