@@ -158,16 +158,22 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 
 ## Where to purchase components
 
-Regardless of who you buy from, most of your hardware components will be manufactured in China; alas, it is tempting to get the best price and buy from alibaba. Unfortunately, when you buy an open-source chip from alibaba or another third party seller, you are likely not supporting the developers who put time and energy into developing open-source hardware. If you have the financial means to pay slightly more to support open source developers, I would encourage you to do so. Not only will you help support the movement, but also exchanges are easier and you typically recieve much better technical support. Further, there have been reports of shortcuts in ripoff hardware that have lead to safety hazards not present in original genuine open source release.  Nonetheless, open source is open source, so if your lab is in the dire straights, aliexpress will almost always be the cheapest option. 
+Regardless of who you buy from, most of your hardware components will be manufactured in China; alas, it is tempting to get the best price and buy from alibaba. Unfortunately, when you buy an open-source chip from alibaba or another third party seller, you are likely not supporting the developers who put time and energy into developing open-source hardware. If you have the financial means to pay slightly more to support open source developers, please do. Not only will you help support the movement, but also exchanges are easier and you typically recieve much better technical support. Further, there have been reports of shortcuts in ripoff hardware that have lead to safety hazards not present in original genuine open source release.  Nonetheless, open source is open source, so if your lab is in the dire straights, aliexpress will almost always be the cheapest option. 
 
-**Common components can be found here (listed A-Z)**
 * Microprocessors and microcontrollers direct from designers
-    * Arduino
-    * Openbuilds
-    * Smoothieboard
-* Third-party* resellers (\**usually*)
-    * AliExpress
-    * Amazon
+    * [Adafruit](https://www.adafruit.com/)
+    * [Arduino](https://www.arduino.cc/)
+    * [Raspberry Pi](https://www.raspberrypi.org/)
+    * [Smoothieboard](http://smoothieware.github.io/Webif-pack/documentation/web/html/smoothieboard.html)
+* Custom PCBs
+    * [Fritzing](https://fritzing.org/) 
+* Authorized resellers
+    * [DigiKey](https://www.digikey.com/en/products) 
+* Misc. Open Source Hardware
+    * [OpenBuilds](https://openbuildspartstore.com/) 
+* Third-party* resellers (\**usually*\)
+    * [AliExpress](https://www.aliexpress.com/)
+    * [Amazon](https://www.amazon.com/)
 
 ## Local resources <br><sub>[Back to top](#background)</sub>
 * [Corvallis Public Library](https://cbcpubliclibrary.net/3d-printing/)
