@@ -245,7 +245,8 @@ Regardless of who you buy from, most of your hardware components will be manufac
 ---
 
 ## Local resources 
-<sub>[Back to top](#background)</sub>
+[Back to top](#resources)
+
 * [Corvallis Public Library](https://cbcpubliclibrary.net/3d-printing/)
 3d printing available, literature, and a makers club. 
 * [Electrical Engineering Capstone Student Projects](https://eecs.oregonstate.edu/industry-relations/capstone-and-senior-design-projects)
@@ -258,7 +259,7 @@ Available help for your environmental sensing projects as well as access to 3d p
 ---
 
 ## Insightful Reviews and Commentary 
-<sub>[Back to top](#resources)</sub>
+[Back to top](#resources)
 
 * [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
