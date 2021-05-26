@@ -223,7 +223,7 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 
 ---
 
-## Where to purchase components
+## Purchasing recommendations
 
 Regardless of who you buy from, most of your hardware components will be manufactured in China; alas, it is tempting to get the best price and buy from alibaba. Unfortunately, when you buy an open-source chip from alibaba or another third party seller, you are likely not supporting the developers who put time and energy into developing open-source hardware. If you have the financial means to pay slightly more to support open source developers, please do. Not only will you help support the movement, but also exchanges are easier and you typically recieve much better technical support. Further, there have been reports of shortcuts in ripoff hardware that have lead to safety hazards not present in original genuine open source release.  Nonetheless, open source is open source, so if your lab is in the dire straights, aliexpress will almost always be the cheapest option. 
 
