@@ -52,7 +52,8 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 
 ---
 
-## Selected publications  <br><sub>[Back to top](#background)</sub>
+## Selected publications
+<sub>[Back to top](#background)</sub>
 
 [**Highly-Customizable 3D Printed Peristaltic Pump Kit**](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)<br>
 Applications: precise fluid handling, cell culture, microfluidics<br>
@@ -81,7 +82,8 @@ Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www
 
 ---
 
-## Peer reviewed scientific resources <br><sub>[Back to top](#background)</sub>
+## Peer reviewed scientific resources
+<sub>[Back to top](#background)</sub>
 
 <img align="left" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif" class="padding" />
 
@@ -103,7 +105,8 @@ Free and open-source software (FOSS) enable unrestrained reuse and modifaction o
 
 ---
 
-## Hardware documentation <br><sub>[Back to top](#background)</sub>
+## Hardware documentation
+<br><sub>[Back to top](#background)</sub>
 
 I've included direct links to the documentation of hardware commonly used in DIY free open source hardware. This field is rapidly evolving, so I imagine this section will change frequently. 
 
