@@ -10,6 +10,9 @@ tag:
 - hardwareX
 - automation
 comments: true
+reading time: false
+date: false
+
 ---
 
 <p align="right"><sub>Updated May 25rd, 2021</sub></p>
@@ -82,7 +85,7 @@ Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www
 
 ---
 
-## Peer-reviewed scientific resources <br><sub>[Back to top](#background)</sub>
+## Peer reviewed scientific resources <br><sub>[Back to top](#background)</sub>
 
 <img align="left" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif" class="padding" />
 
