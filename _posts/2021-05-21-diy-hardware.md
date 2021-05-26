@@ -82,7 +82,7 @@ Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www
 
 ---
 
-## Peer-reviewed scientific resources <br><sub>[Back to top](#peer-reviewed-scientific-resources)</sub>
+## Peer-reviewed scientific resources <br><sub>[Back to top](#background)</sub>
 
 <img align="left" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif" class="padding" />
 
