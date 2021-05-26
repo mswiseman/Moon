@@ -3,6 +3,7 @@ layout: post
 title:  "DIY Laboratory Hardware for the non-engineer in plant sciences"
 excerpt: "Resources to inspire creative problem solving"
 project: true
+feature: http://i.imgur.com/Ds6S7lJ.png
 tag:
 - DIY 
 - maker
@@ -12,7 +13,6 @@ tag:
 comments: true
 reading time: false
 date: false
-
 ---
 
 <p align="right"><sub>Updated May 25rd, 2021</sub></p>
