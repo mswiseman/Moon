@@ -121,11 +121,11 @@ Boards |A. [Ardunio Nano](https://store.arduino.cc/usa/arduino-nano) |B. [Arduin
 --- | --- | --- | --- | ---
 Price | $20 | $30 | $40 | $4 
 Processor | ATmega328 | ATmega328P | AT91SAM3X8E | Dual-core Arm Cortex-M0+
-Processor Speed | 16 MHz | 16 MHz | 16 MHz | 84 MHz | 133 MHz
+Processor Speed | 16 MHz | 16 MHz | 16 MHz | 84 MHz
 Analog Pins | 8 | 6 | 12 | 3
 Digital Pins | 22 | 6 | 54 | 26
 Memory | 32 KB | 32 KB | 512 KB | 264 KB
-Programming Language | Arduino (C Variant) | Arduino (C Variant) | Arduino (C Variant) | C and MicroPython
+Programming Language | Arduino (C) | Arduino (C)| Arduino (C) | C and MicroPython
 Programmer | USB | USB | USB | USB
 Serial Communication | UART | UART or SPI | UART or SPI | UART
 {: rules="groups"}
