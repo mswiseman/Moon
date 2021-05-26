@@ -64,8 +64,8 @@ Other peristaltic pumps: [Jönsson et al. 2020](https://www.sciencedirect.com/sc
 ---
 
 [**Principles of computer-controlled linear motion applied to an open-source affordable liquid handler for automated micropipetting**](https://www.nature.com/articles/s41598-020-70465-5/)<br>
-Applications: liquid handling, cell culture, phenomics<br>
-Cost: $1500 USD
+**Applications**: liquid handling, cell culture, phenomics<br>
+**Cost**: $1500 USD
 
 ![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/otto.webp)
 Other liquid handlers: [Eggert et al. 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300614), [Faiña et al. 2020](https://www.mdpi.com/2076-3417/10/3/814/htm)
@@ -73,8 +73,8 @@ Other liquid handlers: [Eggert et al. 2020](https://www.sciencedirect.com/scienc
 ---
 
 [**eGreenhouse: Robotically positioned, low-cost, open-source CO2 analyzer and sensor device for greenhouse applications**](https://www.sciencedirect.com/science/article/pii/S2468067221000225#f0385)<br>
-Applications: phenomics, environmental sensing, precision agriculture<br>
-Cost: Varies with size of application, starts at ~$150<br>
+**Applications**: phenomics, environmental sensing, precision agriculture<br>
+**Cost**: Varies with size of application, starts at ~$150<br>
 
 ![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/greenhouserobot.jpg)
 Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www.sciencedirect.com/science/article/pii/S2468067219300513), [HyperRail](https://www.sciencedirect.com/science/article/pii/S2468067219300483),[Robotic Gantry System](https://www.sciencedirect.com/science/article/pii/S2468067221000031), [Irrigation Water Usage Monitoring](https://www.sciencedirect.com/science/article/pii/S2468067219300070)
