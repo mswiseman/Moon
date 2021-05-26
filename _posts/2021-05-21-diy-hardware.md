@@ -87,11 +87,11 @@ I've included direct links to the documentation of hardware commonly used in DIY
 
 ### Microcontrollers
 
-Microcontrollers are the brains of hardware - they tell the other components what to do. They are best suited for simple repetitive tasks (such as activating a motor). I recommend choosing a microcontroller based on your power needs, programming language preference (generally C, C++, or micropython) power, but also based on the company's reputation and the available documentation. Speaking from experience: you will save yourself *a lot of frustration* if you work with a microcontroller that has thorough documentation and support (like the Arduino series). 
+[Microcontrollers](https://makezine.com/2016/09/06/12-specs-to-consider-when-choosing-a-microcontroller-for-your-product/) are the brains of hardware - they tell the other components what to do. They are best suited for simple repetitive tasks (such as activating a motor). I recommend choosing a microcontroller based on your power needs, programming language preference (generally C or micropython), peripherals, and based on the company's reputation and the available documentation. Speaking from experience: you will save yourself *a lot of frustration* if you work with a microcontroller that has thorough documentation and support (like the Arduino series). 
 
 **Overview of Common Microcontrollers**
 
-Boards | [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano) | [Arduino Uno (8-bit)](https://store.arduino.cc/usa/arduino-uno-rev3) | [Arduino Due (32-bit)](https://store.arduino.cc/usa/due) | [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
+Boards | [Ardunio Nano](https://store.arduino.cc/usa/arduino-nano) | [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) | [Arduino Due](https://store.arduino.cc/usa/due) | [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 --- | --- | --- | --- | ---
 Price | $20 | $30 | $40 | $4 
 Processor | ATmega328 | ATmega328P | AT91SAM3X8E | Dual-core Arm Cortex-M0+
@@ -101,6 +101,7 @@ Digital Pins | 22 | 6 | 54 | 26
 Memory | 32 KB | 32 KB | 512 KB | 264 KB
 Programming Language | Arduino (C Variant) | Arduino (C Variant) | Arduino (C Variant) | C and MicroPython
 Programmer | USB | USB | USB | USB
+Serial Communication | UART | UART or SPI | UART or SPI | UART
 
 #### CNC Microcontrollers
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
