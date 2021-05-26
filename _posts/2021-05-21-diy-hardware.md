@@ -125,6 +125,7 @@ Memory | 32 KB | 32 KB | 512 KB | 264 KB
 Programming Language | Arduino (C Variant) | Arduino (C Variant) | Arduino (C Variant) | C and MicroPython
 Programmer | USB | USB | USB | USB
 Serial Communication | UART | UART or SPI | UART or SPI | UART
+{: rules="groups"}
 
 #### CNC Microcontrollers
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
@@ -264,3 +265,5 @@ Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Ha
 I'd like to thank **David Florian** ([@DrDFlo](https://www.drdflo.com/)) for his help and feedback while navigating adaptation of [his Ottobot design](http://openliquidhandler.com/) for my application. Thank you to my fellow makers for all your feedback, my supportive labmates (@GentLab, and and my incredibly patient, kind, and brilliant adviser, **Dr. David Gent**. 
 
 <sub>To be clear, I collaborate with people that aren't named David too :sweat_smile:</sub>
+
+{: .notice} Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage) with questions, comments, or if you're interested in collaboration. 
