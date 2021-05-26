@@ -34,7 +34,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 **Interested in learning more? I hope so!** I encourage you to first review the selected publications below as I believe they have exceptional documentation and show the breadth of possible applications. While purusing the published, peer-examples, think about similarities and differences between your work processes and the published work: does your research have similiar tasks or processes? If so, a good place to start is by learning more about the hardware and software implemented in the paper of interest. If electronic wiring and microcontrollers are new to you, you should then consider exploring a DIY kit before starting on a larger project - this will greatly reduce frustration later on by building troubleshooting skills in low stakes situations (versatile kits [here](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/), [here](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A/). 
 
 * [Selected publications for inspiration](#selected-publications)
-* [Peer-reviewed scientific resources](#peer-reviewed-scientific-resources)
+* [Peer reviewed scientific resources](#peer-reviewed-scientific-resources)
 * [Free and open source software](#free-and-open-source-software)
 * [Documentation for commonly used hardware](#hardware-documentation)
     * [Microcontrollers](#microcontrollers)
@@ -136,7 +136,7 @@ Have a task that can be programmed and contained on an X, Y, Z system? You'll pr
 * [Arduino Mega (8-bit)](https://store.arduino.cc/usa/mega-2560-r3)
 * [Arduino Due (32-bit)](https://store.arduino.cc/usa/due)
 * [Duet2 (32-bit)](https://www.duet3d.com/DuetWifi)
-* [Duet3 (32-bit](https://www.duet3d.com/Duet3Mainboard6HC)
+* [Duet3 (32-bit)](https://www.duet3d.com/Duet3Mainboard6HC)
 * [Smoothieboard (32-bit)](http://smoothieware.org/)
 
 #### Tiny Microcontrollers
