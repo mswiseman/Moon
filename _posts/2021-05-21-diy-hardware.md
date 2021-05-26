@@ -273,7 +273,7 @@ Available help for your environmental sensing projects as well as access to 3d p
 ## Useful CAD Libraries and Open Hardware Repositories
 [Back to top](#resources)
 
-![Thingiverse](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/thingiverse.png)
+![Thingiverse](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/thingiversesmall.png)
 
 * [3D Plant Phenomics](http://3dplantphenomics.org/)
 * [Grabcad](https://grabcad.com/library/)
