@@ -85,13 +85,19 @@ Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www
 ---
 
 ## Peer-reviewed scientific resources <br><sub>[Back to top](#peer-reviewed-scientific-resources)</sub>
-<img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> [HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts thus enabling easier reproducibility. <br clear="left"/><br><br>
 
-<img align="left" width="100" alt="Nature Scientific Reports Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/ScientificReportsandNatureLogo.png"> 
+<img align="left" width="100" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif"> 
+
+[HardwareX](https://www.journals.elsevier.com/hardwarex) is a peer-reviewed open access scientific journal dedicated to the open source design and construction of scientific instrumentation. The journal publishes science hardware shared under an open source hardware license. For DIY hardware, I believe HardwareX has the most detailed manuscripts thus enabling easier reproducibility. <br clear="left"/><br><br>
+
+<img align="left" width="100" alt="Nature Scientific Reports Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/ScientificReportsandNatureLogo.png">
+
 [Nature Scientific Reports](https://www.nature.com/srep/) is an open access journal publishing original research from across all areas of the natural sciences, medicine and engineering. To find manuscripts more likely to have DIY hardware, I would explore the tags [*lab-on-a-chip*](https://www.nature.com/search?q=lab-on-a-chip&order=relevance&journal=srep), [*biomedical engineering*](https://www.nature.com/search?q=biomedical%20engineering&order=relevance&journal=srep), or [*mechanical engineering*](https://www.nature.com/search?q=mechanical%20engineering&order=relevance&journal=srep). <br clear="left"/><br><br>
 
-<img align="left" width="100" alt="Precision Agriculture" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/precisionagriculture.png">
-[Precision Agriculture](https://www.springer.com/journal/11119) presents innovative data and technologies emerging from research in the field of precision agriculture. 
+<img align="left" width="100" alt="Precision Agriculture" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/precisionagriculture.png"> 
+
+[Precision Agriculture](https://www.springer.com/journal/11119) presents innovative data and technologies emerging from research in the field of precision agriculture. <br clear="left"/>
+
 
 
 ---
@@ -149,25 +155,25 @@ Firmware is essentially permanent software that is programmed to microcontroller
 
 <img align="left" width="75" alt="Marlin" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/marlin.png"> 
 
-[Marlin](https://marlinfw.org/)<br>
-[Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html)<br><br>
+[Marlin](https://marlinfw.org/) <br>
+[Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html) <br><br>
 
 
 <img align="left" width="75" alt="Grbl" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/grbl.png"> 
 
-[grbl](https://github.com/grbl/grbl)<br>
+[grbl](https://github.com/grbl/grbl) <br>
 Compatible with Arduino Uno Stack, Arduino Nano Stack, MKS-DLC, Mega 2560 Stack, and others <br><br>
 
 
 <img align="left" width="75" alt="Micropython" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/micropython.png"> 
 
-[MicroPython](https://micropython.org/download/)<br>
+[MicroPython](https://micropython.org/download/) <br>
 Compatible with Pyboard v1, STM32 boards, Raspberry Pi Pico, WiPy, TinyPICO, and others  <br><br>
 
 
 <img align="left" width="75" alt="RepRap" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/reprap.png">
 
-[RepRap](https://reprap.org/wiki/RepRap)<br>
+[RepRap](https://reprap.org/wiki/RepRap) <br>
 [Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)<br>
 [Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board)  <br><br>
 
