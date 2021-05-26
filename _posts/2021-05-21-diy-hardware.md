@@ -57,12 +57,30 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 
 ## Selected publications  <br><sub>[Back to top](#background)</sub>
 
-[Highly-Customizable 3D Printed Peristaltic Pump Kit](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)<br/>
-Applications: precise fluid handling, cell culture, microfluidics
+[**Highly-Customizable 3D Printed Peristaltic Pump Kit**](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)<br>
+Applications: precise fluid handling, cell culture, microfluidics<br>
 Cost: $51 USD
 
 ![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/customizable_peristaltic_pump.jpg)
-Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300249), [iGEM Aachen Team 2017](https://www.instructables.com/Open-Source-Peristaltic-Pump/), [Thingiverse peristaltic pumps (not necessarily peer-reviewed)](https://www.thingiverse.com/search?q=peristaltic+pump&type=things&sort=relevant)
+Other peristaltic pumps: [Jönsson et al. 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300249), [iGEM Aachen Team 2017](https://www.instructables.com/Open-Source-Peristaltic-Pump/), [Thingiverse peristaltic pumps (not necessarily peer-reviewed)](https://www.thingiverse.com/search?q=peristaltic+pump&type=things&sort=relevant)
+
+---
+
+[**Principles of computer-controlled linear motion applied to an open-source affordable liquid handler for automated micropipetting**](https://www.nature.com/articles/s41598-020-70465-5/)<br>
+Applications: liquid handling, cell culture, phenomics<br>
+Cost: $1500 USD
+
+![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/otto.webp)
+Other liquid handlers: [Eggert et al. 2020](https://www.sciencedirect.com/science/article/pii/S2468067220300614), [Faiña et al. 2020](https://www.mdpi.com/2076-3417/10/3/814/htm)
+
+---
+
+[**eGreenhouse: Robotically positioned, low-cost, open-source CO2 analyzer and sensor device for greenhouse applications**](https://www.sciencedirect.com/science/article/pii/S2468067221000225#f0385)
+Applications: phenomics, environmental sensing, precision agriculture
+Cost: Varies with size of application, starts at ~$150
+
+![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/greenhouserobot.jpg)
+Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www.sciencedirect.com/science/article/pii/S2468067219300513), [HyperRail](https://www.sciencedirect.com/science/article/pii/S2468067219300483),[Robotic Gantry System](https://www.sciencedirect.com/science/article/pii/S2468067221000031), [Irrigation Water Usage Monitoring](https://www.sciencedirect.com/science/article/pii/S2468067219300070)
 
 ---
 
@@ -75,11 +93,7 @@ Other peristaltic pumps: [Jönsson 2020](https://www.sciencedirect.com/science/a
 
 ## Free and open source software
 
-Free and open-source software (FOSS) enable unrestrained reuse and modifaction of a software's source code. Linux OS and Mozilla Firefox are classic examples of FOSS that enjoy widespread usage. In the interest of abbreviating this list, I've focused on FOSS commonly used in DIY laboratory hardware. 
-
-* [Free and Open source CAM/CNC software](https://www.reddit.com/r/hobbycnc/comments/aj0hu8/list_of_free_and_open_source_camcnc_software/)
-* 
-
+Free and open-source software (FOSS) enable unrestrained reuse and modifaction of a software's source code. Linux OS and Mozilla Firefox are classic examples of FOSS that enjoy widespread usage. There's a great list of open CAM/CNC software [here](https://www.reddit.com/r/hobbycnc/comments/aj0hu8/list_of_free_and_open_source_camcnc_software/).
 
 ## Hardware documentation <br><sub>[Back to top](#background)</sub>
 
@@ -157,13 +171,9 @@ Compatible with all RepRap boards <br>
 
 ### Stepper drivers
 
-Stepper motors are the most type of common motor deployed in high-precision CNC-type applications. Stepper motors work move in a precise, incremental, step-wise fashion (thorough review [here](https://www.motioncontrolproducts.com/applications/selection-guide-for-stepper-motors/)). Stepper drivers are components that *drive* stepper motors.  Stepper drivers are often integrated into microcontroller boards, but can also be wired externally. When choosing a stepper driver, one needs to consider how powerful their stepper motors are, what extra features they would like, and how precise they need their stepper motor to be. Good overviews can be found [here](https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/), [here](https://3daddict.com/stepper-driver-comparison-3d-printer-upgrade/), and [here](https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/Stepper-Driver.html). This an abbreviated list to give you an idea of the available choices. 
+Stepper motors are the most type of common motor deployed in high-precision CNC-type applications. Stepper motors work move in a precise, incremental, step-wise fashion (thorough review [here](https://www.motioncontrolproducts.com/applications/selection-guide-for-stepper-motors/)). Stepper drivers are components that *drive* stepper motors.  Stepper drivers are often integrated into microcontroller boards, but can also be wired externally. When choosing a stepper driver, one needs to consider how powerful their stepper motors are, what extra features they would like, and how precise they need their stepper motor to be. Good overviews can be found [here](https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/), [here](https://3daddict.com/stepper-driver-comparison-3d-printer-upgrade/), and [here](https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/Stepper-Driver.html). 
 
 <img align="center" width="500" alt="Example of stepper driving wiring" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/A4988.jpg">
-
-* [Trinamic Drivers](https://www.trinamic.com/products/)
-* [Stepper Online](https://www.omc-stepperonline.com/stepper-motor-driver/)
-* [Texas Instruments](https://www.ti.com/motor-drivers/stepper-driver/featured-products.html#smooth)
 
 ### Environmental sensors
 Microcontrollers and microprocessors are well suited for environmental sensing; as such, many accessory modules have been developed and able to detect air movement, humidity, temperature, light, vibration, sound, etc. If you're an OSU researcher and have a project involving environmental sensing, reach out to the [OPEnS Lab](https://open-sensing.org/) - this is their specialty. If not, I've provided some resources below. 
@@ -171,6 +181,7 @@ Microcontrollers and microprocessors are well suited for environmental sensing; 
 * [Open Source Ecology](https://wiki.opensourceecology.org/wiki/Main_Page)
 * [Tutorials on several environmental sensors](http://www.osbss.com/tutorials/)
 * [Low-cost electronic sensors for environmental research: Pitfalls and opportunities](https://journals.sagepub.com/doi/full/10.1177/0309133320956567)
+* [HardwareX special issue on environmental sensing](https://www.sciencedirect.com/journal/hardwarex/special-issue/10GZTLV8SHB)
 
 ### Microprocessors
 Technically speaking, microprocessors (aka mini-computers) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications or as a computer that controls multiple microcontrollers.
@@ -233,6 +244,7 @@ Available help for your environmental sensing projects as well as access to 3d p
 
 ---
 ## Useful CAD Libraries and Open Hardware Repositories
+* [3D Plant Phenomics](http://3dplantphenomics.org/)
 * [Grabcad](https://grabcad.com/library/)
     * Free and open source 3D models of just about everything. For use with Fusion 360, Solidworks, etc. 
 * [Thingiverse](https://www.thingiverse.com/)
