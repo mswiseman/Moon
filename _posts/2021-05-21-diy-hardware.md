@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
 
-<p align="right"><sub>Updated May 23rd, 2021</sub></p>
+<p align="right"><sub>Updated May 25rd, 2021</sub></p>
     
 **Can you break down tasks or processes from your research into simple, step-wise parts? Do you have processes that sequentially build off of previous steps? Does your work involve gathering multiple types of environmental data at regular increments? If so, you might consider exploring DIY software and/or hardware for your laboratory.**
 
@@ -103,6 +103,8 @@ Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www
 
 Free and open-source software (FOSS) enable unrestrained reuse and modifaction of a software's source code. Linux OS and Mozilla Firefox are classic examples of FOSS that enjoy widespread usage. There's a great list of open CAM/CNC software [here](https://www.reddit.com/r/hobbycnc/comments/aj0hu8/list_of_free_and_open_source_camcnc_software/).
 
+---
+
 ## Hardware documentation <br><sub>[Back to top](#background)</sub>
 
 I've included direct links to the documentation of hardware commonly used in DIY free open source hardware. This field is rapidly evolving, so I imagine this section will change frequently. 
@@ -143,6 +145,7 @@ These tiny microcontrollers are well-suited for wearable, lightweight, or space-
 * [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 * [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
 
+---
 
 ### Microcontroller firmware
 Firmware is essentially permanent software that is programmed to microcontrollers. You will need to change the firmware (or write your own) to adapt it for your application; consequently, it's wise to familiarize yourself with the available resources, formatting, and limitations of various firmware packages. Firmware is typically written in C, C++, or Micropython. The software component of DIY hardware *can be challenging*, **but** there are tools, such as integrated development environments (IDE), that can make customizing firmware fairly straightforward. Not familiar with IDE? If you have used R-Studio or Jupyter Notebook, then you have used IDEs for the R and Python, respectively. [Here's](https://www.youtube.com/watch?v=ana1mFFMHIk) a nice overview of IDEs.
@@ -175,11 +178,15 @@ Compatible with Pyboard v1, STM32 boards, Raspberry Pi Pico, WiPy, TinyPICO, and
 [Smoothieware](https://smoothieware.org/)<br>
 Compatible with all RepRap boards <br>
 
+---
+
 ### Stepper drivers
 
 Stepper motors are the most type of common motor deployed in high-precision CNC-type applications. Stepper motors work move in a precise, incremental, step-wise fashion (thorough review [here](https://www.motioncontrolproducts.com/applications/selection-guide-for-stepper-motors/)). Stepper drivers are components that *drive* stepper motors.  Stepper drivers are often integrated into microcontroller boards, but can also be wired externally. When choosing a stepper driver, one needs to consider how powerful their stepper motors are, what extra features they would like, and how precise they need their stepper motor to be. Good overviews can be found [here](https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/), [here](https://3daddict.com/stepper-driver-comparison-3d-printer-upgrade/), and [here](https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/Stepper-Driver.html). 
 
 <img align="center" width="500" alt="Example of stepper driving wiring" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/A4988.jpg">
+
+---
 
 ### Environmental sensors
 Microcontrollers and microprocessors are well suited for environmental sensing; as such, many accessory modules have been developed and able to detect air movement, humidity, temperature, light, vibration, sound, etc. If you're an OSU researcher and have a project involving environmental sensing, reach out to the [OPEnS Lab](https://open-sensing.org/) - this is their specialty. If not, I've provided some resources below. 
@@ -189,6 +196,8 @@ Microcontrollers and microprocessors are well suited for environmental sensing; 
 * [Low-cost electronic sensors for environmental research: Pitfalls and opportunities](https://journals.sagepub.com/doi/full/10.1177/0309133320956567)
 * [HardwareX special issue on environmental sensing](https://www.sciencedirect.com/journal/hardwarex/special-issue/10GZTLV8SHB)
 
+---
+
 ### Microprocessors
 Technically speaking, microprocessors (aka mini-computers) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications or as a computer that controls multiple microcontrollers.
 
@@ -196,6 +205,7 @@ Technically speaking, microprocessors (aka mini-computers) are not microcontroll
 * [Raspberry Pi](https://www.raspberrypi.org/)
 
 ---
+
 ## YouTube Links <br><sub>[Back to top](#background)</sub>
 There are endless tutorials and informational videos on YouTube, but some are more helpful than others. I found these to be particularly helpful with my adventure into DIY hardware. 
 
@@ -230,6 +240,8 @@ Regardless of who you buy from, most of your hardware components will be manufac
     * [AliExpress](https://www.aliexpress.com/)
     * [Amazon](https://www.amazon.com/)
 
+---
+
 ## Local resources <br><sub>[Back to top](#background)</sub>
 * [Corvallis Public Library](https://cbcpubliclibrary.net/3d-printing/)
 3d printing available, literature, and a makers club. 
@@ -240,6 +252,8 @@ Available help for your environmental sensing projects as well as access to 3d p
 * [OSU Library](https://guides.library.oregonstate.edu/3Dprinting)
 3d printing and literature. 
 
+---
+
 ## Insightful Reviews and Commentary <br><sub>[Back to top](#background)</sub>
 * [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
@@ -249,6 +263,7 @@ Available help for your environmental sensing projects as well as access to 3d p
 * [Economic savings for scientific free and open source technology: A review](https://www.sciencedirect.com/science/article/pii/S2468067220300481)
 
 ---
+
 ## Useful CAD Libraries and Open Hardware Repositories
 * [3D Plant Phenomics](http://3dplantphenomics.org/)
 * [Grabcad](https://grabcad.com/library/)
@@ -257,9 +272,13 @@ Available help for your environmental sensing projects as well as access to 3d p
     * [Plant Science DIY](https://www.thingiverse.com/mswiseman/collections/diy-hardware-for-the-plant-sciences)
 * [GaudiLabs Open Hardware Projects](http://www.gaudi.ch/GaudiLabs/?page_id=19)
 
+---
+
 ## Contact?  <br><sub>[Back to top](#background)</sub>
 
 Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage) with questions, comments, or if you're interested in collaboration. 
+
+---
 
 ## Acknowledgments
 
