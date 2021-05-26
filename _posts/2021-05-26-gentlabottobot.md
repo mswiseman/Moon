@@ -14,3 +14,5 @@ comments: true
 ---
 
 ## Coming soon.
+
+![Thought Process](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/thoughtprocess.png)
