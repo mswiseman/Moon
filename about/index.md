@@ -20,7 +20,7 @@ Corvallis, OR 97331
 <a href="#education" class="btn">Education|Positions</a>
 <a href="#research-foci" class="btn">Research</a>
 <a href="https://scholar.google.com/citations?user=0h0Sw8YAAAAJ&hl=en" class="btn">GoogleScholar</a>
-<a href="#service" class="btn">Contributions</a>
+<a href="#contributions-and-service" class="btn">Contributions</a>
 <a href="#personal" class="btn">Personal</a>
 
 Education
