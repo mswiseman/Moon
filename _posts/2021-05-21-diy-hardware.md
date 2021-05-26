@@ -99,7 +99,6 @@ Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www
 [Precision Agriculture](https://www.springer.com/journal/11119) presents innovative data and technologies emerging from research in the field of precision agriculture. <br><br><br clear="left"/>
 
 
-
 ---
 
 ## Free and open source software
