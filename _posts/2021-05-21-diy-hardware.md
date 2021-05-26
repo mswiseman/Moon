@@ -29,7 +29,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * Learning critical troubleshooting, coding, and electrical skills
 * Getting paid to build the socially-acceptable version of adult legos (:smirk:)
 
-## Resources <br><sub>[Back to top](#background)</sub>          <!--<sub>...</sub> is used to make font size small-->
+## Resources <br>         <!--<sub>...</sub> is used to make font size small-->
 **Interested in learning more? I hope so!** I encourage you to first review the selected publications below as I believe they have exceptional documentation and show the breadth of possible applications. While purusing the published, peer-examples, think about similarities and differences between your work processes and the published work: does your research have similiar tasks or processes? If so, a good place to start is by learning more about the hardware and software implemented in the paper of interest. If electronic wiring and microcontrollers are new to you, you should then consider exploring a DIY kit before starting on a larger project - this will greatly reduce frustration later on by building troubleshooting skills in low stakes situations (versatile kits [here](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/), [here](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A/). 
 
 * [Selected publications for inspiration](#selected-publications)
@@ -53,7 +53,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 ---
 
 ## Selected publications
-<sub>[Back to top](#background)</sub>
+[Back to top](#resources)
 
 [**Highly-Customizable 3D Printed Peristaltic Pump Kit**](https://www.sciencedirect.com/science/article/pii/S2468067221000316#f0010)<br>
 Applications: precise fluid handling, cell culture, microfluidics<br>
@@ -83,7 +83,7 @@ Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www
 ---
 
 ## Peer reviewed scientific resources
-<sub>[Back to top](#background)</sub>
+[Back to top](#resources)
 
 <img align="left" alt="HardwareX Logo" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/hardwarexlogo.gif" class="padding" />
 
@@ -100,13 +100,14 @@ Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www
 ---
 
 ## Free and open source software
+[Back to top](#resources)
 
 Free and open-source software (FOSS) enable unrestrained reuse and modifaction of a software's source code. Linux OS and Mozilla Firefox are classic examples of FOSS that enjoy widespread usage. There's a great list of open CAM/CNC software [here](https://www.reddit.com/r/hobbycnc/comments/aj0hu8/list_of_free_and_open_source_camcnc_software/).
 
 ---
 
 ## Hardware documentation
-<sub>[Back to top](#background)</sub>
+[Back to top](#resources)
 
 I've included direct links to the documentation of hardware commonly used in DIY free open source hardware. This field is rapidly evolving, so I imagine this section will change frequently. 
 
@@ -181,7 +182,6 @@ Compatible with all RepRap boards <br>
 ---
 
 ### Stepper drivers
-
 Stepper motors are the most type of common motor deployed in high-precision CNC-type applications. Stepper motors work move in a precise, incremental, step-wise fashion (thorough review [here](https://www.motioncontrolproducts.com/applications/selection-guide-for-stepper-motors/)). Stepper drivers are components that *drive* stepper motors.  Stepper drivers are often integrated into microcontroller boards, but can also be wired externally. When choosing a stepper driver, one needs to consider how powerful their stepper motors are, what extra features they would like, and how precise they need their stepper motor to be. Good overviews can be found [here](https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/), [here](https://3daddict.com/stepper-driver-comparison-3d-printer-upgrade/), and [here](https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/Stepper-Driver.html). 
 
 <img align="center" width="500" alt="Example of stepper driving wiring" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/A4988.jpg">
@@ -207,7 +207,7 @@ Technically speaking, microprocessors (aka mini-computers) are not microcontroll
 ---
 
 ## YouTube Links 
-<sub>[Back to top](#background)</sub>
+[Back to top](#resources)
 There are endless tutorials and informational videos on YouTube, but some are more helpful than others. I found these to be particularly helpful with my adventure into DIY hardware. 
 
 * [How to build a 3D printer, The Ultimate Guide](https://youtu.be/qub5chyIQ0s)
@@ -257,7 +257,8 @@ Available help for your environmental sensing projects as well as access to 3d p
 ---
 
 ## Insightful Reviews and Commentary 
-<sub>[Back to top](#background)</sub>
+[Back to top](#resources)
+
 * [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
 * [A DIY approach to automating your lab](https://www.nature.com/articles/d41586-019-01590-z)
@@ -278,7 +279,8 @@ Available help for your environmental sensing projects as well as access to 3d p
 ---
 
 ## Contact?  
-<sub>[Back to top](#background)</sub>
+
+[Back to top](#resources)
 
 Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage) with questions, comments, or if you're interested in collaboration. Follow my open liquid handler and modular PCR system build [here](https://mswiseman.github.io/exifr/). 
 
