@@ -91,10 +91,16 @@ Microcontrollers are the brains of hardware - they tell the other components wha
 
 **Overview of Common Microcontrollers**
 
-| [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano) | [Arduino Uno (8-bit)](https://store.arduino.cc/usa/arduino-uno-rev3) | [Arduino Due (32-bit)](https://store.arduino.cc/usa/due) | [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) |
-| --- | --- | --- | --- | --- |
-
-
+Boards | [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano) | [Arduino Uno (8-bit)](https://store.arduino.cc/usa/arduino-uno-rev3) | [Arduino Due (32-bit)](https://store.arduino.cc/usa/due) | [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
+--- | --- | --- | --- | ---
+Price | $20 | $30 | $40 | $4 
+Processor | ATmega328 | ATmega328P | AT91SAM3X8E | Dual-core Arm Cortex-M0+
+Processor Speed | 16 MHz | 16 MHz | 16 MHz | 84 MHz | 133 MHz
+Analog Pins | 8 | 6 | 12 | 3
+Digital Pins | 22 | 6 | 54 | 26
+Memory | 32 KB | 32 KB | 512 KB | 264 KB
+Programming Language | Arduino (C Variant) | Arduino (C Variant) | Arduino (C Variant) | C and MicroPython
+Programmer | USB | USB | USB | USB
 
 #### CNC Microcontrollers
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
