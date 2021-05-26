@@ -32,10 +32,10 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 ## Resources <br><sub>[Back to top](#background)</sub>          <!--<sub>...</sub> is used to make font size small-->
 **Interested in learning more? I hope so!** I encourage you to first review the selected publications below as I believe they have exceptional documentation and show the breadth of possible applications. While purusing the published, peer-examples, think about similarities and differences between your work processes and the published work: does your research have similiar tasks or processes? If so, a good place to start is by learning more about the hardware and software implemented in the paper of interest. If electronic wiring and microcontrollers are new to you, you should then consider exploring a DIY kit before starting on a larger project - this will greatly reduce frustration later on by building troubleshooting skills in low stakes situations (versatile kits [here](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/), [here](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A/). 
 
-* [Selected publications for inspiration](#selected)
+* [Selected publications for inspiration](#selected-publications)
 * [Peer reviewed scientific resources](#peer-reviewed-scientific-resources)
 * [Free and open source software](#free-and-open-source-software)
-* [Documentation for commonly used hardware](#hardware)
+* [Documentation for commonly used hardware](#hardware-documentation)
     * [Microcontrollers](#microcontrollers)
     * [Stepper drivers](#stepper-drivers)
     * [Environmental sensors](#environmental-sensors)
@@ -106,7 +106,7 @@ Free and open-source software (FOSS) enable unrestrained reuse and modifaction o
 ---
 
 ## Hardware documentation
-<br><sub>[Back to top](#background)</sub>
+<sub>[Back to top](#background)</sub>
 
 I've included direct links to the documentation of hardware commonly used in DIY free open source hardware. This field is rapidly evolving, so I imagine this section will change frequently. 
 
@@ -206,7 +206,8 @@ Technically speaking, microprocessors (aka mini-computers) are not microcontroll
 
 ---
 
-## YouTube Links <br><sub>[Back to top](#background)</sub>
+## YouTube Links 
+<sub>[Back to top](#background)</sub>
 There are endless tutorials and informational videos on YouTube, but some are more helpful than others. I found these to be particularly helpful with my adventure into DIY hardware. 
 
 * [How to build a 3D printer, The Ultimate Guide](https://youtu.be/qub5chyIQ0s)
@@ -242,7 +243,8 @@ Regardless of who you buy from, most of your hardware components will be manufac
 
 ---
 
-## Local resources <br><sub>[Back to top](#background)</sub>
+## Local resources 
+<sub>[Back to top](#background)</sub>
 * [Corvallis Public Library](https://cbcpubliclibrary.net/3d-printing/)
 3d printing available, literature, and a makers club. 
 * [Electrical Engineering Capstone Student Projects](https://eecs.oregonstate.edu/industry-relations/capstone-and-senior-design-projects)
@@ -254,7 +256,8 @@ Available help for your environmental sensing projects as well as access to 3d p
 
 ---
 
-## Insightful Reviews and Commentary <br><sub>[Back to top](#background)</sub>
+## Insightful Reviews and Commentary 
+<sub>[Back to top](#background)</sub>
 * [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
 * [A DIY approach to automating your lab](https://www.nature.com/articles/d41586-019-01590-z)
@@ -274,7 +277,8 @@ Available help for your environmental sensing projects as well as access to 3d p
 
 ---
 
-## Contact?  <br><sub>[Back to top](#background)</sub>
+## Contact?  
+<sub>[Back to top](#background)</sub>
 
 Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage) with questions, comments, or if you're interested in collaboration. Follow my open liquid handler and modular PCR system build [here](https://mswiseman.github.io/exifr/). 
 
