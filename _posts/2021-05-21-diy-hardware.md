@@ -89,9 +89,11 @@ I've included direct links to the documentation of hardware commonly used in DIY
 
 [Microcontrollers](https://makezine.com/2016/09/06/12-specs-to-consider-when-choosing-a-microcontroller-for-your-product/) are the brains of hardware - they tell the other components what to do. They are best suited for simple repetitive tasks (such as activating a motor). I recommend choosing a microcontroller based on your power needs, programming language preference (generally C or micropython), peripherals, and based on the company's reputation and the available documentation. Speaking from experience: you will save yourself *a lot of frustration* if you work with a microcontroller that has thorough documentation and support (like the Arduino series). 
 
-**Overview of Common Microcontrollers**
+**Overview of Common Open Source Microcontrollers**
 
-Boards | [Ardunio Nano](https://store.arduino.cc/usa/arduino-nano) | [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) | [Arduino Due](https://store.arduino.cc/usa/due) | [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
+<img align="center" width="500" alt="Microcontrollers" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/microcontrollers.png">
+
+Boards |A. [Ardunio Nano](https://store.arduino.cc/usa/arduino-nano) |B. [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) |C. [Arduino Due](https://store.arduino.cc/usa/due) |D. [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 --- | --- | --- | --- | ---
 Price | $20 | $30 | $40 | $4 
 Processor | ATmega328 | ATmega328P | AT91SAM3X8E | Dual-core Arm Cortex-M0+
@@ -123,18 +125,36 @@ These tiny microcontrollers are well-suited for wearable, lightweight, or space-
 Firmware is essentially permanent software that is programmed to microcontrollers. You will need to change the firmware (or write your own) to adapt it for your application; consequently, it's wise to familiarize yourself with the available resources, formatting, and limitations of various firmware packages. Firmware is typically written in C, C++, or Micropython. The software component of DIY hardware *can be challenging*, **but** there are tools, such as integrated development environments (IDE), that can make customizing firmware fairly straightforward. Not familiar with IDE? If you have used R-Studio or Jupyter Notebook, then you have used IDEs for the R and Python, respectively. [Here's](https://www.youtube.com/watch?v=ana1mFFMHIk) a nice overview of IDEs.
 
 #### Most common microcontroller firmware packages
-* [Marlin](https://marlinfw.org/)
-    * [Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html)
-* [grbl](https://github.com/grbl/grbl)
-    * Compatible with Arduino Uno Stack, Arduino Nano Stack, MKS-DLC, Mega 2560 Stack, and others
-* [MicroPython](https://micropython.org/download/)
-    * Compatible with Pyboard v1, STM32 boards, Raspberry Pi Pico, WiPy, TinyPICO, and others 
-* [RepRap](https://reprap.org/wiki/RepRap)
-    * [Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)
-    * [Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board) 
-* [Smoothieware](https://smoothieware.org/)
-    * Compatible with all RepRap boards 
-* [Updated list of active open source microcontroller firmware](https://reprap.org/wiki/List_of_Firmware)
+
+<img align="left" width="75" alt="Marlin" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/marlin.png"> 
+
+[Marlin](https://marlinfw.org/)<br>
+[Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html)<br><br><br>
+
+
+<img align="left" width="75" alt="Grbl" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/grbl.png"> 
+
+[grbl](https://github.com/grbl/grbl)<br>
+Compatible with Arduino Uno Stack, Arduino Nano Stack, MKS-DLC, Mega 2560 Stack, and others <br><br><br>
+
+
+<img align="left" width="75" alt="Micropython" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/micropython.png"> 
+
+[MicroPython](https://micropython.org/download/)<br>
+Compatible with Pyboard v1, STM32 boards, Raspberry Pi Pico, WiPy, TinyPICO, and others  <br><br><br>
+
+
+<img align="left" width="75" alt="RepRap" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/reprap.png">
+
+[RepRap](https://reprap.org/wiki/RepRap)<br>
+[Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)<br>
+[Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board)  <br><br><br>
+
+[Smoothieware](https://smoothieware.org/)<br>
+Compatible with all RepRap boards <br><br><br>
+
+
+[Updated list of active open source microcontroller firmware](https://reprap.org/wiki/List_of_Firmware)
 
 ### Stepper drivers
 Stepper motors are the most type of common motor deployed in high-precision CNC-type applications. Stepper motors work move in a precise, incremental, step-wise fashion (thorough review [here](https://www.motioncontrolproducts.com/applications/selection-guide-for-stepper-motors/)). Stepper drivers are components that *drive* stepper motors.  Stepper drivers are often integrated into microcontroller boards, but can also be wired externally. When choosing a stepper driver, one needs to consider how powerful their stepper motors are, what extra features they would like, and how precise they need their stepper motor to be. Good overviews can be found [here](https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/), [here](https://re-filament.com/best-stepper-motor-drivers-for-3d-printers/, and [here](https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/Stepper-Driver.html)). This an abbreviated list to give you an idea of the available choices. 
