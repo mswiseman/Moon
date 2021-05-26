@@ -3,7 +3,7 @@ layout: post
 title:  "DIY Laboratory Hardware"
 excerpt: "Resources to inspire creative problem solving"
 project: true
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: https://hackster.imgix.net/uploads/attachments/930989/pmp-ph-wiring-diagram_kIYhbdsmNg.png
 tag:
 - DIY 
 - maker
@@ -121,21 +121,13 @@ I've included direct links to the documentation of hardware commonly used in DIY
 Boards |A. [Ardunio Nano](https://store.arduino.cc/usa/arduino-nano) |B. [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) |C. [Arduino Due](https://store.arduino.cc/usa/due) |D. [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 --- | --- | --- | --- | ---
 Price | $20 | $30 | $40 | $4 
---- | --- | --- | --- | ---
 Processor | ATmega328 | ATmega328P | AT91SAM3X8E | Dual-core Arm Cortex-M0+
---- | --- | --- | --- | ---
 Processor Speed | 16 MHz | 16 MHz | 16 MHz | 84 MHz
---- | --- | --- | --- | ---
 Analog Pins | 8 | 6 | 12 | 3
---- | --- | --- | --- | ---
 Digital Pins | 22 | 6 | 54 | 26
---- | --- | --- | --- | ---
 Memory | 32 KB | 32 KB | 512 KB | 264 KB
---- | --- | --- | --- | ---
 Programming Language | Arduino (C) | Arduino (C)| Arduino (C) | C and MicroPython
---- | --- | --- | --- | ---
 Programmer | USB | USB | USB | USB
---- | --- | --- | --- | ---
 Serial Communication | UART | UART or SPI | UART or SPI | UART
 
 #### CNC Microcontrollers
