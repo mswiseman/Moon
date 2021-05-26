@@ -43,6 +43,7 @@ While pursuing my PhD in Botany and Plant Pathology at Oregon State University, 
 
 [Published Peer-Reviewed Manuscripts on Google Scholar](https://scholar.google.com/citations?user=0h0Sw8YAAAAJ&hl=en)
 ---------------------
+
 ## Contributions and Service
 
 Multimedia Content Contributer
@@ -77,7 +78,7 @@ Public Service
 * Volunteer, Humane Society of the Palouse. 2013.
 * Volunteer, Chintimini Wildlife Center. 2010-2011.
 
-On a Personal Note
+Personal
 ----------
 * My thirst for knowledge often delegates my time. 
 * I appreciate civil debates with those who hold differing opinions.
