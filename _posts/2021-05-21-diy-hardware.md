@@ -232,7 +232,7 @@ Regardless of who you buy from, most of your hardware components will be manufac
     * [Arduino](https://www.arduino.cc/)
     * [Raspberry Pi](https://www.raspberrypi.org/)
     * [Smoothieboard](http://smoothieware.github.io/Webif-pack/documentation/web/html/smoothieboard.html)
-* Custom PCBs
+* Custom Prited Circuit Boards (PCBs)
     * [Fritzing](https://fritzing.org/) 
 * Authorized resellers
     * [DigiKey](https://www.digikey.com/en/products) 
@@ -271,6 +271,8 @@ Available help for your environmental sensing projects as well as access to 3d p
 ---
 
 ## Useful CAD Libraries and Open Hardware Repositories
+[Back to top](#resources)
+
 * [3D Plant Phenomics](http://3dplantphenomics.org/)
 * [Grabcad](https://grabcad.com/library/)
 * [Thingiverse](https://www.thingiverse.com/)
@@ -281,10 +283,9 @@ Available help for your environmental sensing projects as well as access to 3d p
 ---
 
 ## Contact?  
-
 [Back to top](#resources)
 
-Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage) with questions, comments, or if you're interested in collaboration. Follow my open liquid handler and modular PCR system build [here](https://mswiseman.github.io/exifr/). 
+Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage) with questions, comments, or if you're interested in collaboration. Follow my open liquid handler and modular PCR system build [here](https://mswiseman.github.io/gentlabottobot/). 
 
 ---
 
