@@ -149,25 +149,25 @@ Firmware is essentially permanent software that is programmed to microcontroller
 
 
 
-<img align="left" width="75" alt="Marlin" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/marlin.png"> 
+<img align="left" width="75" alt="Marlin" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/marlin.png" class="padding" /> 
 
 [Marlin](https://marlinfw.org/) <br>
 [Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html) <br><br clear="left"/>
 
 
-<img align="left" width="75" alt="Grbl" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/grbl.png"> 
+<img align="left" width="75" alt="Grbl" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/grbl.png" class="padding" />
 
 [grbl](https://github.com/grbl/grbl) <br>
 Compatible with Arduino Uno Stack, Arduino Nano Stack, MKS-DLC, Mega 2560 Stack, and others <br><br clear="left"/>
 
 
-<img align="left" width="75" alt="Micropython" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/micropython.png"> 
+<img align="left" width="75" alt="Micropython" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/micropython.png" class="padding" />
 
 [MicroPython](https://micropython.org/download/) <br>
 Compatible with Pyboard v1, STM32 boards, Raspberry Pi Pico, WiPy, TinyPICO, and others  <br><br clear="left"/>
 
 
-<img align="left" width="75" alt="RepRap" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/reprap.png">
+<img align="left" width="75" alt="RepRap" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/reprap.png" class="padding" />
 
 [RepRap](https://reprap.org/wiki/RepRap) <br>
 [Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)<br>
