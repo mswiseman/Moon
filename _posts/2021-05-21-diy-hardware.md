@@ -124,51 +124,53 @@ These tiny microcontrollers are well-suited for wearable, lightweight, or space-
 ### Microcontroller firmware
 Firmware is essentially permanent software that is programmed to microcontrollers. You will need to change the firmware (or write your own) to adapt it for your application; consequently, it's wise to familiarize yourself with the available resources, formatting, and limitations of various firmware packages. Firmware is typically written in C, C++, or Micropython. The software component of DIY hardware *can be challenging*, **but** there are tools, such as integrated development environments (IDE), that can make customizing firmware fairly straightforward. Not familiar with IDE? If you have used R-Studio or Jupyter Notebook, then you have used IDEs for the R and Python, respectively. [Here's](https://www.youtube.com/watch?v=ana1mFFMHIk) a nice overview of IDEs.
 
-#### Most common microcontroller firmware packages
+[Updated list of active open source microcontroller firmware](https://reprap.org/wiki/List_of_Firmware)
+
+
 
 <img align="left" width="75" alt="Marlin" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/marlin.png"> 
 
 [Marlin](https://marlinfw.org/)<br>
-[Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html)<br><br><br>
+[Compatible 8/16/32-bit boards](https://marlinfw.org/docs/hardware/boards.html)<br><br>
 
 
 <img align="left" width="75" alt="Grbl" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/grbl.png"> 
 
 [grbl](https://github.com/grbl/grbl)<br>
-Compatible with Arduino Uno Stack, Arduino Nano Stack, MKS-DLC, Mega 2560 Stack, and others <br><br><br>
+Compatible with Arduino Uno Stack, Arduino Nano Stack, MKS-DLC, Mega 2560 Stack, and others <br><br>
 
 
 <img align="left" width="75" alt="Micropython" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/micropython.png"> 
 
 [MicroPython](https://micropython.org/download/)<br>
-Compatible with Pyboard v1, STM32 boards, Raspberry Pi Pico, WiPy, TinyPICO, and others  <br><br><br>
+Compatible with Pyboard v1, STM32 boards, Raspberry Pi Pico, WiPy, TinyPICO, and others  <br><br>
 
 
 <img align="left" width="75" alt="RepRap" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/reprap.png">
 
 [RepRap](https://reprap.org/wiki/RepRap)<br>
 [Compatible 8/16-bit boards](https://reprap.org/wiki/Category:8/16-bit_board)<br>
-[Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board)  <br><br><br>
+[Compatible 32-bit boards](https://reprap.org/wiki/Category:32-bit_board)  <br><br>
 
 [Smoothieware](https://smoothieware.org/)<br>
-Compatible with all RepRap boards <br><br><br>
-
-
-[Updated list of active open source microcontroller firmware](https://reprap.org/wiki/List_of_Firmware)
+Compatible with all RepRap boards <br>
 
 ### Stepper drivers
-Stepper motors are the most type of common motor deployed in high-precision CNC-type applications. Stepper motors work move in a precise, incremental, step-wise fashion (thorough review [here](https://www.motioncontrolproducts.com/applications/selection-guide-for-stepper-motors/)). Stepper drivers are components that *drive* stepper motors.  Stepper drivers are often integrated into microcontroller boards, but can also be wired externally. When choosing a stepper driver, one needs to consider how powerful their stepper motors are, what extra features they would like, and how precise they need their stepper motor to be. Good overviews can be found [here](https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/), [here](https://re-filament.com/best-stepper-motor-drivers-for-3d-printers/, and [here](https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/Stepper-Driver.html)). This an abbreviated list to give you an idea of the available choices. 
+
+Stepper motors are the most type of common motor deployed in high-precision CNC-type applications. Stepper motors work move in a precise, incremental, step-wise fashion (thorough review [here](https://www.motioncontrolproducts.com/applications/selection-guide-for-stepper-motors/)). Stepper drivers are components that *drive* stepper motors.  Stepper drivers are often integrated into microcontroller boards, but can also be wired externally. When choosing a stepper driver, one needs to consider how powerful their stepper motors are, what extra features they would like, and how precise they need their stepper motor to be. Good overviews can be found [here](https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/), [here](https://3daddict.com/stepper-driver-comparison-3d-printer-upgrade/), and [here](https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/Stepper-Driver.html). This an abbreviated list to give you an idea of the available choices. 
+
+<img align="center" width="500" alt="Example of stepper driving wiring" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/A4988.jpg">
 
 * [Trinamic Drivers](https://www.trinamic.com/products/)
 * [Stepper Online](https://www.omc-stepperonline.com/stepper-motor-driver/)
 * [Texas Instruments](https://www.ti.com/motor-drivers/stepper-driver/featured-products.html#smooth)
 
 ### Environmental sensors
-Microcontrollers and microprocessors are well suited for environmental sensing; as such, many accessory modules have been developed and able to detect air movement, humidity, temperature, light, vibration, sound, etc. If you're an OSU researcher and have a project involving environmental sensing, reach out to the [OPEnS Lab](https://open-sensing.org/) - this is their specialty. If not, I've provided some resources and inspiration below. 
+Microcontrollers and microprocessors are well suited for environmental sensing; as such, many accessory modules have been developed and able to detect air movement, humidity, temperature, light, vibration, sound, etc. If you're an OSU researcher and have a project involving environmental sensing, reach out to the [OPEnS Lab](https://open-sensing.org/) - this is their specialty. If not, I've provided some resources below. 
 
-* [DIY HOBO Units](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13128)
+* [Open Source Ecology](https://wiki.opensourceecology.org/wiki/Main_Page)
+* [Tutorials on several environmental sensors](http://www.osbss.com/tutorials/)
 * [Low-cost electronic sensors for environmental research: Pitfalls and opportunities](https://journals.sagepub.com/doi/full/10.1177/0309133320956567)
-* [](3)
 
 ### Microprocessors
 Technically speaking, microprocessors (aka mini-computers) are not microcontrollers as they can handle multiple tasks at once. These are best suited for software-heavy applications or as a computer that controls multiple microcontrollers.
