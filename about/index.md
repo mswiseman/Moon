@@ -2,7 +2,8 @@
 layout: page
 title: About me
 tags: [plant science, plant pathology]
-date: 2021-01-12
+date: 2021-05-25
+feature: https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/header_aboutme.jpg
 comments: false
 ---
 
@@ -60,10 +61,11 @@ Biological Sequence Data Contributions
 
 Departmental Service
 ---------------------
+* BPP DEI Committee. 2021 - present.
 * OSU Faculty Research Assistant Search Committee Member. 2016, 2017, and 2019.
 * Promega On-Site Manager for Oregon State University. 2017 - 2020.
 * Faculty Research Assistant Department Representative. 2017 - 2020.
-* OSU Plant Clinic Student Hiring Committee. 2014-2018.
+* OSU Plant Clinic Student Hiring Committee. 2014 - 2018.
 * Discovery Days Volunteer. 2011.
 
 Public Service
@@ -74,9 +76,9 @@ Public Service
 * Facilitator, Out-N-About Youth Group. 2019 - Current.
 * Election canvasser. 2018, 2020-21.
 * "Expert" for OSU Ask-An-Expert, 2014 - 2015.
-* Coach and referee, Rolling Hills Roller Derby and Willamette Roller Derby. 2013-2015.
+* Coach and referee, Rolling Hills Roller Derby and Willamette Roller Derby. 2013 - 2015.
 * Volunteer, Humane Society of the Palouse. 2013.
-* Volunteer, Chintimini Wildlife Center. 2010-2011.
+* Volunteer, Chintimini Wildlife Center. 2010 - 2011.
 
 Personal
 ----------
