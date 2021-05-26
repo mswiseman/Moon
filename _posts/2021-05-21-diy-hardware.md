@@ -4,6 +4,7 @@ title:  "DIY Laboratory Hardware"
 excerpt: "Resources to inspire creative problem solving"
 project: true
 feature: https://hackster.imgix.net/uploads/attachments/930989/pmp-ph-wiring-diagram_kIYhbdsmNg.png
+date: 2021-05-25
 tag:
 - DIY 
 - maker
@@ -12,9 +13,6 @@ tag:
 - automation
 comments: true
 ---
-
-<p align="right"><sub>Updated May 25rd, 2021</sub></p>
-    
 **Can you break down tasks or processes from your research into simple, step-wise parts? Do you have processes that sequentially build off of previous steps? Does your work involve gathering multiple types of environmental data at regular increments? If so, you might consider exploring DIY software and/or hardware for your laboratory.**
 
 ## Background
@@ -128,7 +126,7 @@ Digital Pins | 22 | 6 | 54 | 26
 Memory | 32 KB | 32 KB | 512 KB | 264 KB
 Programming Language | Arduino (C) | Arduino (C)| Arduino (C) | C and MicroPython
 Programmer | USB | USB | USB | USB
-Serial Communication | UART | UART or SPI | UART or SPI | UART
+Serial Communication | UART | UART or SPI | UART or SPI | UART or SPI
 
 #### CNC Microcontrollers
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
