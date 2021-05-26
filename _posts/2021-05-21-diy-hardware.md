@@ -273,12 +273,26 @@ Available help for your environmental sensing projects as well as access to 3d p
 ## Useful CAD Libraries and Open Hardware Repositories
 [Back to top](#resources)
 
+![Thingiverse](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/thingiverse.png)
+
 * [3D Plant Phenomics](http://3dplantphenomics.org/)
 * [Grabcad](https://grabcad.com/library/)
 * [Thingiverse](https://www.thingiverse.com/)
     * [Open-Source Lab](https://www.thingiverse.com/thing:182640)
     * [Plant Science DIY](https://www.thingiverse.com/mswiseman/collections/diy-hardware-for-the-plant-sciences)
 * [GaudiLabs Open Hardware Projects](http://www.gaudi.ch/GaudiLabs/?page_id=19)
+
+---
+
+## Books
+[Back to top](#resources)
+
+* [Fusion 360 for Makers](https://www.amazon.com/Fusion-360-Makers-Printing-Fabrication/dp/1680453556)
+* [Practical Electronics for Inventors](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541/ref=sr_1_1?dchild=1&keywords=practical+electronics+for+inventors&qid=1622040874&s=books&sr=1-1)
+* [Encyclopedia of Electronic Components Volume 1](https://www.amazon.com/Encyclopedia-Electronic-Components-Capacitors-Transistors/dp/1449333893/ref=pd_sbs_7/134-5390653-5442422?pd_rd_w=MPp99&pf_rd_p=f8e24c42-8be0-4374-84aa-bb08fd897453&pf_rd_r=50ZDS4X0ENSBGA950ZMJ&pd_rd_r=c8ae5535-5a71-468f-947b-a63c9233195e&pd_rd_wg=J58Dv&pd_rd_i=1449333893&psc=1)
+* [Make: Electronics: Learning Through Discovery](https://www.amazon.com/Make-Electronics-Learning-Through-Discovery/dp/1680450263/ref=pd_sbs_3/134-5390653-5442422?pd_rd_w=MPp99&pf_rd_p=f8e24c42-8be0-4374-84aa-bb08fd897453&pf_rd_r=50ZDS4X0ENSBGA950ZMJ&pd_rd_r=c8ae5535-5a71-468f-947b-a63c9233195e&pd_rd_wg=J58Dv&pd_rd_i=1680450263&psc=1)
+* [Programming Arduino: Getting Started with Sketches](https://www.amazon.com/Programming-Arduino-Getting-Started-Sketches-ebook/dp/B01FJ24SZG/ref=zg_bs_157705011_3?_encoding=UTF8&psc=1&refRID=Q3EHVD9HG6EHVDP7VG9C)
+* [Raspberry Pi Cookbook](https://www.amazon.com/Raspberry-Pi-Cookbook-Software-Solutions-ebook/dp/B07Z78XCTH/ref=zg_bs_157705011_2?_encoding=UTF8&psc=1&refRID=Q3EHVD9HG6EHVDP7VG9C)
 
 ---
 
@@ -291,6 +305,6 @@ Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Ha
 
 ## Acknowledgments
 
-I'd like to thank **David Florian** ([@DrDFlo](https://www.drdflo.com/)) for his help and feedback while navigating adaptation of [his Ottobot design](http://openliquidhandler.com/) for my application. Thank you to my fellow makers for all your feedback, my supportive labmates (Briana Claassen, Teddy Borland, Mary Block, Steve Massie, and Nanci Adair), and and my incredibly patient, kind, and brilliant adviser, **Dr. David Gent**. 
+I'd like to thank **David Florian** ([@DrDFlo](https://www.drdflo.com/)) for his help and feedback while navigating adaptation of [his Ottobot design](http://openliquidhandler.com/) for my application. Thank you to my fellow makers for all your feedback, my supportive labmates (Briana Claassen, Teddy Borland, Mary Block, Steve Massie, and Nanci Adair), and and my incredibly patient, kind, supportive, and brilliantly inisightful adviser, **Dr. David Gent**. 
 
 <sub>  To be clear, I collaborate with people that aren't named David too :sweat_smile:    </sub>
