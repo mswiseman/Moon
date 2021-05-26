@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DIY Laboratory Hardware for the non-engineer in plant sciences"
+title:  "DIY Laboratory Hardware"
 excerpt: "Resources to inspire creative problem solving"
 project: true
 feature: http://i.imgur.com/Ds6S7lJ.png
