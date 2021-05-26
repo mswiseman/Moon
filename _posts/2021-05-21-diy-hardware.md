@@ -89,6 +89,13 @@ I've included direct links to the documentation of hardware commonly used in DIY
 
 Microcontrollers are the brains of hardware - they tell the other components what to do. They are best suited for simple repetitive tasks (such as activating a motor). I recommend choosing a microcontroller based on your power needs, programming language preference (generally C, C++, or micropython) power, but also based on the company's reputation and the available documentation. Speaking from experience: you will save yourself *a lot of frustration* if you work with a microcontroller that has thorough documentation and support (like the Arduino series). 
 
+**Overview of Common Microcontrollers**
+
+| [Ardunio Nano (8-bit)](https://store.arduino.cc/usa/arduino-nano) | [Arduino Uno (8-bit)](https://store.arduino.cc/usa/arduino-uno-rev3) | [Arduino Due (32-bit)](https://store.arduino.cc/usa/due) | [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) |
+| --- | --- | --- | --- | --- |
+
+
+
 #### CNC Microcontrollers
 Have a task that can be programmed and contained on an X, Y, Z system? You'll probably use computer numerical control (CNC). These microcontrollers have firmware that's adapted for and commonly used in CNC applications (CNC routers, 3d printers, liquid handlers, etc.):
 * [Arduino Uno (8-bit)](https://store.arduino.cc/usa/arduino-uno-rev3)
