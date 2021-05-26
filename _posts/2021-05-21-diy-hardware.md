@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "DIY Laboratory Hardware for the non-engineer in plant sciences"
-date:   Updated 2021-05-23
 excerpt: "Resources to inspire creative problem solving"
 project: true
 tag:
@@ -11,8 +10,6 @@ tag:
 - hardwareX
 - automation
 comments: true
-reading time: false
-
 ---
 
 <p align="right"><sub>Updated May 23rd, 2021</sub></p>
