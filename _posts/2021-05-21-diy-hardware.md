@@ -75,9 +75,9 @@ Other liquid handlers: [Eggert et al. 2020](https://www.sciencedirect.com/scienc
 
 ---
 
-[**eGreenhouse: Robotically positioned, low-cost, open-source CO2 analyzer and sensor device for greenhouse applications**](https://www.sciencedirect.com/science/article/pii/S2468067221000225#f0385)
-Applications: phenomics, environmental sensing, precision agriculture
-Cost: Varies with size of application, starts at ~$150
+[**eGreenhouse: Robotically positioned, low-cost, open-source CO2 analyzer and sensor device for greenhouse applications**](https://www.sciencedirect.com/science/article/pii/S2468067221000225#f0385)<br>
+Applications: phenomics, environmental sensing, precision agriculture<br>
+Cost: Varies with size of application, starts at ~$150<br>
 
 ![Graphical Abstract](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/greenhouserobot.jpg)
 Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www.sciencedirect.com/science/article/pii/S2468067219300513), [HyperRail](https://www.sciencedirect.com/science/article/pii/S2468067219300483),[Robotic Gantry System](https://www.sciencedirect.com/science/article/pii/S2468067221000031), [Irrigation Water Usage Monitoring](https://www.sciencedirect.com/science/article/pii/S2468067219300070)
@@ -246,18 +246,14 @@ Available help for your environmental sensing projects as well as access to 3d p
 ## Useful CAD Libraries and Open Hardware Repositories
 * [3D Plant Phenomics](http://3dplantphenomics.org/)
 * [Grabcad](https://grabcad.com/library/)
-    * Free and open source 3D models of just about everything. For use with Fusion 360, Solidworks, etc. 
 * [Thingiverse](https://www.thingiverse.com/)
-    * Huge repository of designs, primarily for 3D printing.
-    * Science-specific libraries:
-        * [Open-Source Lab](https://www.thingiverse.com/thing:182640)
-        * [Plant Science DIY](https://www.thingiverse.com/mswiseman/collections/diy-hardware-for-the-plant-sciences)
+    * [Open-Source Lab](https://www.thingiverse.com/thing:182640)
+    * [Plant Science DIY](https://www.thingiverse.com/mswiseman/collections/diy-hardware-for-the-plant-sciences)
 * [GaudiLabs Open Hardware Projects](http://www.gaudi.ch/GaudiLabs/?page_id=19)
 
 ## Contact?  <br><sub>[Back to top](#background)</sub>
 
-[Email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage)
-
+Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Hardware%20GitPage) with questions, comments, or if you're interested in collaboration. 
 
 ## Acknowledgments
 
