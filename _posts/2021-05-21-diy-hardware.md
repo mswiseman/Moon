@@ -41,7 +41,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
     * [Stepper drivers](#stepper-drivers)
     * [Environmental sensors](#environmental-sensors)
     * [Microprocessors/Mini-Computers](#microprocessors)
-* [Exceptional YouTube tutorials](#youtube-tutorials)
+* [Exceptional YouTube tutorials](#youtube-links)
 * [Recommendations on where to purchase components](#purchasing-recommendations)
 * [Local resources for Oregon State University](#local-resources)
 * [Links to insightful reviews and commentary](#insightful-reviews-and-commentary)
