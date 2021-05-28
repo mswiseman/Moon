@@ -121,8 +121,16 @@ I found tapping to be difficult. I suggest practicing on something if possible. 
 
 ![Assembly4](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly4.png)
 
+Still mismatching screws 😆 , but I had assembled much of the floating head and X axis here. Eventually I'll mill a gantry plate - just need to find a mill locally. Now I needed to commit to buying the pipette actuator. This was night a light decision as this was the most expensive part of the build (~$200). I looked on eBay for months... but no non-captive stepper motors that would produce the same force and microstepping we needed. Alas, I ordered it and then had to step away until it arrived. 
 
-![Assembly5](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly5.png)
+![Assembly5](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_4295.png)
+
+In the meantime, I thought I'd try to get the motors moving, as per Dr. D Flo's suggestion. **This is when I really started realizing how little I know.** I bought the TMC2660 breakout board stepper drivers and I didn't know the first thing about breakout boards or stepper driver (yes, I literally had to google all of those words).  I tried putting jumper cables through the holes in the breakout board on a breadboard but the wouldnt get a good connection. Alas, I realized I need to solder "headers" onto these boards. I also realized that these boards were too wide for a breadboard, so I literally hacked a breadboard to make them work (see [here](https://hackaday.com/2018/08/27/the-solution-to-oversized-dev-boards-a-literal-hack/). 
+
+![Soldering](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/soldering.gif)
+
+
+
 
 
 
