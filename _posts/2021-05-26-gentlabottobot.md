@@ -168,9 +168,12 @@ Fortunately, Smoothieboard has very thorough documentation and a large community
 
 ![Working in the lab](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/lab.jpg)
 
-[The motor moves!](https://drive.google.com/file/d/1Re4YQ6gIKHAVTnT0YlTY11NGimF6cE45/view?usp=sharing)
+[GIF of the motor moving!](https://drive.google.com/file/d/1Re4YQ6gIKHAVTnT0YlTY11NGimF6cE45/view?usp=sharing)
 
-Alas, once I had **finally** achieved movement from the motors, I went about wiring up my Ottobot. I used [3d printed cable clips](https://www.thingiverse.com/thing:3396905)(and [here](https://www.thingiverse.com/thing:4426587)), [drag chains](https://www.thingiverse.com/thing:1001437), and zip ties for cable management. Eventually I might put some sleeves over the cables too, but for now it's okay. 
+Alas, once I had **finally** achieved movement from the motors, I went about wiring up my Ottobot. I used [3d printed cable clips](https://www.thingiverse.com/thing:3396905) (and [here](https://www.thingiverse.com/thing:4426587)), [drag chains](https://www.thingiverse.com/thing:1001437), and zip ties for cable management. Eventually I might put some sleeves over the cables too, but for now it's okay. There's some great tips on wiring [here](https://smoothieware.org/how-to-wire).
+
+I decided to also wire up a compuer fan as the stepper drivers were quite hot in the demo run. Eventually I'll probably swap the on-board drivers out for high power stepper drivers, but they seem to work okay for now. 
+
 
 
 
