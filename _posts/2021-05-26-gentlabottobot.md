@@ -57,7 +57,7 @@ So, I tracked down one of my favorite youtubers (who is also the inventor of Ott
 
 ## Necessary tools
 
-First I needed to acquire the necessary tools, and, quite frankly, learn a little more about electronics. I've been a maker my whole life, but mostly with wood. I've only dabbled in electronics with my van build, occassional repairs, and house projects. Definitely not proficient and often jerry-rigging things. Alas, I wanted to do things right this time around, so I picked up the necessary (and optional) tools, tried a few Arduino kit tutorials, and practiced my crimping. 
+First I needed to acquire the necessary tools, and, quite frankly, learn a little more about electronics. I've been a maker my whole life, but mostly with wood. I've only dabbled in electronics with my van build, occassional repairs, and house projects. Definitely not proficient and often jerry-rigging things. Alas, I wanted to do things right this time around, so I picked up the necessary (and optional) tools, tried a few Arduino kit tutorials, and practiced my crimping. I also built up some misplaced confidence by assembling my own 3d printer (from a kit). 
 
 ![Necessary tools](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/tools.png)
 
@@ -74,13 +74,14 @@ Necessary tools for this project:
 * Small screwdriver set
 
 Potentially optional
-* Soldering iron
+* Soldering iron (can avoid soldering with [connectors](https://3daddict.com/3d-printer-wiring/))
 * Solder
 * Solder remover
 * Extra soldering iron tips
 * Helping hands
 * Clamps
 * Corner squares
+* 3D printer (check your local resources first)
 
 ## Plan 
 Once I had built a few trivial electronics projects, I felt confident to take on the project (this is a bit naiive of me as you will soon see). 
