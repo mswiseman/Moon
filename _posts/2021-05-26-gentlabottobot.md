@@ -117,11 +117,12 @@ I found tapping to be difficult. I suggest practicing on something if possible. 
 ![Tapping](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_4179(2).gif)
 
 
-**This was one of the many mistakes** I made during the build: trying to build the floating head while attached to the X-axis. If you take on this build, you should fully complete the floating head and then build the X-axis.  That way you don't have to undo/redo things a bunch of times. 
+**This was one of the many mistakes** I made during the build: trying to build the floating head while attached to the X-axis. If you take on this build, you should fully complete the floating head and then build the X-axis.  That way you don't have to undo/redo things a bunch of times. You can also see the comical absence of many screws. This was not intentional. By not following David's BOM exactly, I had miscalculated the number of screws and it's shockingly hard to find M5 screws locally. Alas, I had to order more from Opentrons and shipping was slow during the pandemic, so many of the upcoming pictures also have missing screws. 
 
 ![Assembly4](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly4.png)
 
-![Assembly5](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly4.png)
+
+![Assembly5](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly5.png)
 
 
 
