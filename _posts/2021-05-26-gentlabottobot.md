@@ -15,7 +15,7 @@ comments: true
 
 ## I do a lot of repetitive things in the name of science...
 
-...and if you're here, I'm guessing you do too. One process I've probably done 10,000+ times is setting up a polymerase chain reaction (PCR). This winter, before my comparative genomics class, I was talking for my professor, Dr. Aaron Liston, about how many plates I needed to run just to get pre-liminary data for my *MLO* work(~50). He suggested I look into robotics. **Of course**! How had this maker not considered that? So, after my amazing adviser (Dr. David Gent) gave me his blessing (*to spend in inordinate amount of time on this side project*) I scoured the internet and found numerous examples of scientists all over the world building their own liquid handlers (each with varying levels of documentation). 
+...and if you're here, I'm guessing you do too. One process I've probably done 10,000+ times is setting up a polymerase chain reaction (PCR). This winter, before my comparative genomics class, I was talking for my professor, Dr. Aaron Liston, about how many plates I needed to run just to get pre-liminary data for my *MLO* work(~50). He suggested I look into robotics. **Of course**! How had this maker not considered that? So, after my amazing adviser (Dr. David Gent) gave me his blessing (*to spend an inordinate amount of time on this what-I-thought-would-be-side-project*) I scoured the internet and found numerous examples of scientists all over the world building their own liquid handlers (each with varying levels of documentation). 
 
 ### Opentrons
 ![Opentrons](https://opentrons.com/static/OT1_app-6bf1e6dce7a7ab1597563f2737975d8a.jpg)
