@@ -145,11 +145,15 @@ But, no matter what I did, I couldn't get any of the example Arduino files to ru
 
 So, with David's help, I explored options to simplify the wiring and software. I was interested in finding a chip with integrated stepper drivers as this would remove ~30 wires; unfortuntely, not many chips have integrated stepper drivers that can run the very powerful Nema 23 stepper motors we had ordered for the project (they're max power intake is 3A). I was also interested in finding a chip that could run the Opentrons software (which runs on Smoothieware). David's software is great, but at the time, it only worked on windows and I didn't own a windows computer.
 
-That left me with very few options.
-* (Smoothieboard v 1.1)[http://smoothieware.org/smoothieboard-v1] : wouldn't be able to provide full power to the Nema 23s, but could work. 
-* (Smoothieboard v 2.0)[https://www.kickstarter.com/projects/arthurwolf/smoothieboard-v2]: This would be the perfect solution, but had not yet been released. 
-* (Duet2)[https://www.duet3d.com/DuetWifi] : didn't run on Smoothieware, though had the right drivers. 
-* (SKR 1.4)[https://www.amazon.com/BIGTREETECH-Controller-Compatible-With12864LCD-5TMC2209/dp/B082QYYFVX/] : this would work, but had poor documentation. 
+That left me with very few options, especially for someone who doesn't know enough to circumvent the pitfalls of each option.
+* [Smoothieboard v 1.1](http://smoothieware.org/smoothieboard-v1)
+This wouldn't be able to provide full power to the Nema 23s, but could work. 
+* [Smoothieboard v 2.0](https://www.kickstarter.com/projects/arthurwolf/smoothieboard-v2)
+This would be the perfect solution, but had not yet been released. I did try playing with PCB design for a minute though to see if I could get it working... then I realized I was definitely not an electrical engineer. 
+* [Duet2](https://www.duet3d.com/DuetWifi)
+This doesn't run on Smoothieware, though had the right stepper drivers. 
+[SKR 1.4](https://www.amazon.com/BIGTREETECH-Controller-Compatible-With12864LCD-5TMC2209/dp/B082QYYFVX/)
+This would work, but had poor documentation. 
 
 Alas, I ordered the SKR board and a Smoothieboard v 1.1. 
 
