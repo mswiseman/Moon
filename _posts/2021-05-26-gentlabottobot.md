@@ -162,8 +162,7 @@ Once the Smoothieboard arrived, I flashed the [OT-one firmware and config to it.
 To get an idea of Smoothieboard setup, you can see this diagram from Arthur Wolf (co-creator). It's the original in the picture, but you get the idea: lots of setup is required. 
 ![Smoothieboard](https://live.staticflickr.com/7263/7832149516_76d367a105_b.jpg)
 
-
-
+Fortunately, Smoothieboard has very thorough documentation and a large community that offer help. **This was the magic answer.** I needed to choose a board that had good documentation and lots of help. I needed to ask for and accept more help. Once I did this, everything started working flawlessly-ish. 
 
 
 
