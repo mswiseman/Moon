@@ -115,7 +115,7 @@ Slipping in the T-nuts so I can secure the bed. You can see the Ottobot Fusion 3
 I found tapping to be difficult. I suggest practicing on something if possible. If you have a vice, wrap your aluminum extrusion in a wash cloth (to protect it) and tighten it down. This will help immensely. Once everything was tapped, I secured the T plates with 8mm M5 screws and thus secured Otto's bed. 
 
 
-![Tapping](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/tapping.gif)
+![Tapping](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_4179(2).gif)
 
 
 **This was one of the many mistakes** I made during the build: trying to build the floating head while attached to the X-axis. If you take on this build, you should fully complete the floating head and then build the X-axis.  That way you don't have to undo/redo things a bunch of times. 
