@@ -172,7 +172,12 @@ Fortunately, Smoothieboard has very thorough documentation and a large community
 
 Alas, once I had **finally** achieved movement from the motors, I went about wiring up my Ottobot. I used [3d printed cable clips](https://www.thingiverse.com/thing:3396905) (and [here](https://www.thingiverse.com/thing:4426587)), [drag chains](https://www.thingiverse.com/thing:1001437), and zip ties for cable management. Eventually I might put some sleeves over the cables too, but for now it's okay. There's some great tips on wiring [here](https://smoothieware.org/how-to-wire).
 
-I decided to also wire up a compuer fan as the stepper drivers were quite hot in the demo run. Eventually I'll probably swap the on-board drivers out for high power stepper drivers, but they seem to work okay for now. 
+[Cable Management](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/cablemanagement.jpg)
+
+I decided to also wire up a computer fan as the stepper drivers were quite hot in the demo run (not pictured). Eventually I'll probably swap the on-board drivers out for high power stepper drivers, but they seem to work okay for now. We'll see if how the compare to the actual opentrons robot once I get the pipette installed (I'm building a sturdier pipette holder). Overall, the wiring is just **so much easier**. I did have to jumper the two Y-axes together though (following the OT-one firmware to tell me where), but that was pretty simple. 
+
+[Wiring](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/wiring.png)
+
 
 
 
