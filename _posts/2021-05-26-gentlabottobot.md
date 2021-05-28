@@ -128,8 +128,23 @@ Pardon the mess... it's a reality when you have a thousand small pieces and no r
 
 In the meantime, I thought I'd try to get the motors moving, as per Dr. D Flo's suggestion. **This is when I really started realizing how little I know.** I bought the TMC2660 breakout board stepper drivers and I didn't know the first thing about breakout boards or stepper driver (yes, I literally had to google all of those words).  I tried putting jumper cables through the holes in the breakout board on a breadboard but the wouldnt get a good connection. Alas, I realized I need to [solder "headers" onto these boards](https://www.bakke.online/index.php/2017/05/18/soldering-headers-to-boards/). I also realized that these boards were too wide for a breadboard, so I literally hacked a breadboard to make them work (see [here](https://hackaday.com/2018/08/27/the-solution-to-oversized-dev-boards-a-literal-hack/). 
 
-I'm still not great at soldering, but I've learned flux makes it so much easier. 
+I'm still not great at soldering, but I've learned [flux](hhttps://www.amazon.com/MG-Chemicals-milliliters-Pneumatic-Dispensing/dp/B00425FUW2/) makes it so much easier. 
 ![Soldering](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/soldering.gif)
+
+Alas, I spent many, many hours (and at least two Arduino Dues) trying to David's incredibly complex wiring to work. I have so much respect for his wiring skills, but after ~20 or so hours troubleshooting, I was pretty disheartened. I had A4988 stepper drivers on hand and I could get them to move my nema 11, but I couldn't get anything to move with the TMC2660BOBs. I still don't have an answer to this. Feel free to shoot me feedback. 
+
+Here's my first major failure. I directly wired my 24V power supply to my Arduino Due. Poof! RIP. Newbie mistake. Most microcontrollers can't handle more the ~3V.
+[Burned Out](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/burnedout.jpg)
+
+Alas, I made sure to not to wire high voltage directly through the my next Arduino Due. 
+[New board](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/newboard.jpg)
+
+But, no matter what I did, I couldn't get any of the example Arduino files to run the motors. I tried uploading different firmware, I tried the Arduino IDE, I tried pronterface, etc. I checked the power draw to the motors (with multimeter) and it was only around 1.2V. This didn't make sense. These motors needed more power than that. Alas, it had to have been something in my wiring (perhaps an improper ground?). I wired and re-wired and tried not to lose my mind. I decided that I needed to step away for a bit to regroup and then try to tackle the project with simpler wiring and software.
+
+
+
+
+
 
 
 
