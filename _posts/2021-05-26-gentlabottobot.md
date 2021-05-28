@@ -106,7 +106,19 @@ As pandemic "luck" would have it, I had a spare room open, so I moved the build 
 
 One of the essential parts to building a CNC machine is ensuring it's square, so I used clamps and eventually two squares to make sure everything was squared nicely. 
 
-![Assembly1](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly2.png)
+![Assembly2](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly2.png)
+
+Slipping in the T-nuts so I can secure the bed. You can see the Ottobot Fusion 360 file open in the background. This is when I realized I needed to tap the aluminum extrusion... something I had never heard of. Tapping means threading a predrilled hole. The aluminum extrusion I ordered from OpenTrons had been predrilled, but not tapped. Alas, I went to harbor freight and bought a very terrible tapping kit. Do not buy it. Go buy a quality M5 tap - it'll save you money, time, and blisters. 
+
+![Assembly3](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly3.png)
+
+I found tapping to be difficult. I suggest practicing on something if possible. If you have a vice, wrap your aluminum extrusion in a wash cloth (to protect it) and tighten it down. This will help immensely. Once everything was tapped, I secured the T plates with 8mm M5 screws and thus secured Otto's bed. 
+
+
+![Tapping](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/tapping.gif)
+
+
+**This was one of the many mistakes** I made during the build: trying to build the floating head while attached to the X-axis. If you take on this build, you should fully complete the floating head and then build the X-axis.  That way you don't have to undo/redo things a bunch of times. 
 
 
 
