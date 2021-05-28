@@ -49,11 +49,16 @@ Impressive public build.
 
 ## Idea
 
-Alas, I was inspired b
-
+Alas, I was inspired by all of the available plans and by the "free and open-source hardware" (FOSH) movement. In theory, by building your own automatated liquid handler, you can save money, customize your equipment, have more reproducible data, and expand access to scientific equipment globalling (by reducing cost). 
 
 ![Thought Process](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/thoughtprocess.png)
 
+So, I tracked down one of my favorite youtubers (who is also the inventor of Otto) and told him my plans. He was pumped and offered to help when he was able to. This is what I love about the maker movement: everyone wants you to succeed. This became quickly become apparent to me after a seeing the time spent from strangers trying to help me after at least a dozen questions to message boards, David, and local resources. 
+
 ## Necessary tools
 
+First I needed to acquire the necessary tools... and... quick frankly... learn a little more about electronics. 
+
 ![Necessary tools](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/tools.png)
+
+
