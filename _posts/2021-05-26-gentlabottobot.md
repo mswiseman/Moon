@@ -178,22 +178,20 @@ I decided to also wire up a computer fan as the stepper drivers were quite hot i
 
 ![Wiring](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/wiring.png)
 
+So, here I am. The ottobot runs well with pronterface and I'm working the kinks out with the Opentrons software. 
 
+Next steps: 
+* Machine gantry plate to add stability
+* Add external stepper drivers (more power)
+* Benchmark against OpenTrons Liquid Handler
+* Build multichannel syringe pump
+* Build UV enclosure
 
+![Ottobot](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/gentlabottobot.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Eventually...?
+* Robotic arm
+* Robotic centrifuge
+* Open real time thermal cycler
+* Microprocessor to control microcontrollers
 
