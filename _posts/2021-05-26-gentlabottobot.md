@@ -27,10 +27,9 @@ Opentrons was probably the first fully open automatic liquid handler. They debut
 
 **Ottobot**
 ![Ottobot](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/otto.webp)
-Ottobot was created by Vanderbilt PhD student, David Florian. He roughly based his design off of the Opentrons OT-1, but added additional limit switches and lasers to check for successful loading of pipette tips. 
+Ottobot was created by Vanderbilt PhD student, David Florian. He roughly based his design off of the Opentrons OT-1 (X, Y1, Y2, Z, and A axes), but added additional limit switches and lasers to check for successful loading of pipette tips. He also included the very powerful (albeit not as easy to work with) TMC2660 stepper drivers which allowed him to harness the full power of the Nema 23 stepper motors. Opentrons had to reduce current in their firmware as their stepper drivers weren't able to support the powerful motors. 
 * [Ottobot](https://openliquidhandler.com/)
 * [Manuscript discussing Ottobot](https://www.nature.com/articles/s41598-020-70465-5)
-
 
 ## Idea
 
