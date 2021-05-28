@@ -53,11 +53,15 @@ Alas, I was inspired by all of the available plans and by the "free and open-sou
 
 ![Thought Process](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/thoughtprocess.png)
 
-So, I tracked down one of my favorite [YouTubers](https://www.youtube.com/channel/UCJ10renzLSd4cJEn-C2e_Tw) (who is also the inventor of Otto) and told him my plans. He was pumped and offered to help when he was able to. This is what I love about the maker movement: everyone wants you to succeed. This became quickly become apparent to me after a seeing the time spent from strangers trying to help me after at least a dozen questions to message boards, David, and local resources. 
+So, I tracked down one of my favorite [YouTubers](https://www.youtube.com/channel/UCJ10renzLSd4cJEn-C2e_Tw) (who is also the inventor of Otto) and told him my plans. He was pumped and offered to help when he was able to. This is what I love about the maker movement: everyone wants you to succeed. This became quickly apparent to me after witnessing the effort that strangers made while trying to help me (message boards, neighbors, fab labs, library, Dr. D Flo, etc.). 
 
 ## Necessary tools
 
-First I needed to acquire the necessary tools, and, quite frankly, learn a little more about electronics. I've been a maker my whole life, but mostly with wood. I've only dabbled in electronics with my van build, occassional repairs, and house projects. Definitely not proficient and often jerry-rigging things. Alas, I wanted to do things right this time around, so I picked up the necessary (and optional) tools, tried a few Arduino kit tutorials, and practiced my crimping. I also built up some misplaced confidence by assembling my own 3d printer (from a kit). 
+First I needed to acquire the necessary tools, and, quite frankly, learn a little more about electronics. I've been a maker my whole life, but mostly with wood. I've only dabbled in electronics with my van build, occassional repairs, and house projects. I'm definitely not proficient and often jerry-rigging things. 
+
+![Van](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_9623(1).JPG)
+
+Alas, I wanted to do things right this time around, so I picked up the necessary (and optional) tools, tried a few Arduino kit tutorials, and practiced my crimping. I also built up some misplaced confidence by assembling my own 3d printer (from a kit). 
 
 ![Necessary tools](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/tools.png)
 
