@@ -93,6 +93,8 @@ My plan was to follow David Florian's Ottobot design as I thought he had made se
 
 ## Build
 
+*Note: This will be long and is not intended as something for you to build along with; it's intended to be lessons for those interested in building a similar machine. Consequently, I've emphasized and tried to explain the mistakes I made. I'm hoping to put together a polished build video in the future.*
+
 So, I found cheaper alternatives to the components found in Otto's [Bill of Materials](https://github.com/DrD-Flo/OTTO/blob/master/assets/download/OTTO-BOM-7-1-20.xlsx). In the end, this a was a mistake as some of the alternatives I ordered were not compatible (ex. the lead screw and couplers) and it ended up costing me a lot more time and money. 
 
 Here are most of the materials for the build. Not picture: aluminum extrusion for the bed and frame, pipette actuator, pipette, additional 3d printed components. 
@@ -134,12 +136,22 @@ I'm still not great at soldering, but I've learned [flux](hhttps://www.amazon.co
 Alas, I spent many, many hours (and at least two Arduino Dues) trying to David's incredibly complex wiring to work. I have so much respect for his wiring skills, but after ~20 or so hours troubleshooting, I was pretty disheartened. I had A4988 stepper drivers on hand and I could get them to move my nema 11, but I couldn't get anything to move with the TMC2660BOBs. I still don't have an answer to this. Feel free to shoot me feedback. 
 
 Here's my first major failure. I directly wired my 24V power supply to my Arduino Due. Poof! RIP. Newbie mistake. Most microcontrollers can't handle more the ~3V.
-[Burned Out](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/burnedout.jpg)
+![Burned Out](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/burnedout.jpg)
 
 Alas, I made sure to not to wire high voltage directly through the my next Arduino Due. 
-[New board](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/newboard.jpg)
+![New board](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/newboard.jpg)
 
-But, no matter what I did, I couldn't get any of the example Arduino files to run the motors. I tried uploading different firmware, I tried the Arduino IDE, I tried pronterface, etc. I checked the power draw to the motors (with multimeter) and it was only around 1.2V. This didn't make sense. These motors needed more power than that. Alas, it had to have been something in my wiring (perhaps an improper ground?). I wired and re-wired and tried not to lose my mind. I decided that I needed to step away for a bit to regroup and then try to tackle the project with simpler wiring and software.
+But, no matter what I did, I couldn't get any of the example Arduino files to run the motors. I tried uploading different firmware, I tried the Arduino IDE, I tried pronterface, etc. I checked the power draw to the motors (with multimeter) and it was only around 1.2V. This didn't make sense. These motors needed more power than that. Alas, it had to have been something in my wiring (perhaps an improper ground?). I wired and re-wired and tried not to lose my mind. **I decided that I needed to step away for a bit to regroup and then try to tackle the project with simpler wiring and software.**
+
+So, with David's help, I explored options to simplify the wiring and software. I was interested in finding a chip with integrated stepper drivers as this would remove ~30 wires; unfortuntely, not many chips have integrated stepper drivers that can run the very powerful Nema 23 stepper motors we had ordered for the project (they're max power intake is 3A). I was also interested in finding a chip that could run the Opentrons software (which runs on Smoothieware). David's software is great, but at the time, it only worked on windows and I didn't own a windows computer.
+
+That left me with very few options.
+* (Smoothieboard v 1.1)[http://smoothieware.org/smoothieboard-v1] : wouldn't be able to provide full power to the Nema 23s, but could work. 
+* (Smoothieboard v 2.0)[https://www.kickstarter.com/projects/arthurwolf/smoothieboard-v2]: This would be the perfect solution, but had not yet been released. 
+* (Duet2)[https://www.duet3d.com/DuetWifi] : didn't run on Smoothieware, though had the right drivers. 
+* (SKR 1.4)[https://www.amazon.com/BIGTREETECH-Controller-Compatible-With12864LCD-5TMC2209/dp/B082QYYFVX/] : this would work, but had poor documentation. 
+
+Alas, I ordered the SKR board and a Smoothieboard v 1.1. 
 
 
 
