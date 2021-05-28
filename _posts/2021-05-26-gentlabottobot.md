@@ -57,8 +57,27 @@ So, I tracked down one of my favorite youtubers (who is also the inventor of Ott
 
 ## Necessary tools
 
-First I needed to acquire the necessary tools... and... quick frankly... learn a little more about electronics. 
+First I needed to acquire the necessary tools, and, quite frankly, learn a little more about electronics. I've been a maker my whole life, but mostly with wood. I've only dabbled in electronics with my van build, occassional repairs, and house projects. Definitely not proficient and often jerry-rigging things. Alas, I wanted to do things right this time around. 
 
 ![Necessary tools](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/tools.png)
 
+Necessary tools for this project:
+* Metric allen wrenches
+* Metric open wrenches
+* Needle nose pliers 
+* Tape measure
+* Precision calipers
+* Crimpers
+* Wire strippers
+* M5 tap
+* Multimeter
+* Small screwdriver set
 
+Potentially optional
+* Soldering iron
+* Solder
+* Solder remover
+* Extra soldering iron tips
+* Helping hands
+* Clamps
+* Corner squares
