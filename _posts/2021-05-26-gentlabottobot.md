@@ -155,16 +155,22 @@ This doesn't run on Smoothieware, though had the right stepper drivers.
 * [SKR 1.4](https://www.amazon.com/BIGTREETECH-Controller-Compatible-With12864LCD-5TMC2209/dp/B082QYYFVX/)
 This would work, but had poor documentation. 
 
-Alas, I ordered the SKR board and a Smoothieboard v 1.1. The Smoothieboard took eons to arrive, so I gave an A effort to get Otto running with the SKR board and TMC5160 stepper drivers. Ultimately, I was overwhelmed by the amount of changes necessary in the firmware and the physical changes necessary with the TMC5160 stepper drivers. This would probably be a great setup for someone with my experience. 
+Alas, I ordered the SKR board and a Smoothieboard v 1.1. The Smoothieboard took eons to arrive, so I gave an A effort to get Otto running with the SKR board and TMC5160 stepper drivers. Ultimately, I was overwhelmed by the amount of changes necessary in the firmware and the physical changes necessary with the TMC5160 stepper drivers. This would probably be a great setup for someone with my experience. In the meantime: I tried to go for low hanging fruit to maintain morale. I replaced all the mismatching screws, designed a fun new face-plate, printed cable management clips, and started designing an enclosure. 
+
+![Faceplate Design](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_4195.jpg)
 
 Once the Smoothieboard arrived, I flashed the [OT-one firmware and config to it.](https://github.com/Opentrons/smoothie-config/tree/master/v2.0.0/one_standard). I then went through the arduous process of changing all the motor connections. AGAIN. Why can't these boards just share a common connector? Fortunately, the smoothieboard ships with the necessary connectors, so it's just a matter of cutting the old wires, stripping, crimping, and inserting in the connector. 
 
 To get an idea of Smoothieboard setup, you can see this diagram from Arthur Wolf (co-creator). It's the original in the picture, but you get the idea: lots of setup is required. 
 ![Smoothieboard](https://live.staticflickr.com/7263/7832149516_76d367a105_b.jpg)
 
-Fortunately, Smoothieboard has very thorough documentation and a large community that offer help. **This was the magic answer.** I needed to choose a board that had good documentation and lots of help. I needed to ask for and accept more help. Once I did this, everything started working flawlessly-ish. This is probably a lesson I should have learned from my previous yearly feedback from Dave, 'Michele, you're doing great, but your life would be easier if you asked for help earlier and more frequently.' 🤦‍♂️
+Fortunately, Smoothieboard has very thorough documentation and a large community that offer help. **This was the magic answer.** I needed to choose a board that had good documentation and lots of help. I needed to ask for and accept more help. Once I did this, everything started working flawlessly-ish. This is probably a lesson I should have learned from my previous yearly feedback from Dave (my adviser), 'Michele, you're doing great, but your life would be easier if you asked for help earlier and more frequently.' 🤦‍♂️ Perhaps too stubborn for my own good.
 
-![New board](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/lab.jpg)
+![Working in the lab](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/lab.jpg)
+
+![It's alive](https://drive.google.com/file/d/1Re4YQ6gIKHAVTnT0YlTY11NGimF6cE45/view?usp=sharing)
+
+
 
 
 
