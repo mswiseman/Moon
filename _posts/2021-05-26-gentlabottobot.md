@@ -160,7 +160,9 @@ Alas, I ordered the SKR board and a Smoothieboard v 1.1. The Smoothieboard took 
 Once the Smoothieboard arrived, I flashed the [OT-one firmware and config to it.](https://github.com/Opentrons/smoothie-config/tree/master/v2.0.0/one_standard). I then went through the arduous process of changing all the motor connections. AGAIN. Why can't these boards just share a common connector? Fortunately, the smoothieboard ships with the necessary connectors, so it's just a matter of cutting the old wires, stripping, crimping, and inserting in the connector. 
 
 To get an idea of Smoothieboard setup, you can see this diagram from Arthur Wolf (co-creator). It's the original in the picture, but you get the idea: lots of setup is required. 
-![Smoothieboard](https://www.flickr.com/photos/arthurwolf/7832149516/)
+![Smoothieboard](https://live.staticflickr.com/7263/7832149516_76d367a105_b.jpg)
+
+
 
 
 
