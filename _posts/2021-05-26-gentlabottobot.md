@@ -57,7 +57,7 @@ So, I tracked down one of my favorite youtubers (who is also the inventor of Ott
 
 ## Necessary tools
 
-First I needed to acquire the necessary tools, and, quite frankly, learn a little more about electronics. I've been a maker my whole life, but mostly with wood. I've only dabbled in electronics with my van build, occassional repairs, and house projects. Definitely not proficient and often jerry-rigging things. Alas, I wanted to do things right this time around. 
+First I needed to acquire the necessary tools, and, quite frankly, learn a little more about electronics. I've been a maker my whole life, but mostly with wood. I've only dabbled in electronics with my van build, occassional repairs, and house projects. Definitely not proficient and often jerry-rigging things. Alas, I wanted to do things right this time around, so I picked up the necessary (and optional) tools, tried a few Arduino kit tutorials, and practiced my crimping. 
 
 ![Necessary tools](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/tools.png)
 
@@ -81,3 +81,8 @@ Potentially optional
 * Helping hands
 * Clamps
 * Corner squares
+
+## Plan 
+Once I had built a few trivial electronics projects, I felt confident to take on the project (this is a bit naiive of me as you will soon see). 
+
+My plan was to follow David Florian's Ottobot design as I thought he had made several inivative improvements over the OT-1 (and let's face it, it's also because he offered to help over zoom). After getting his design to work, I was then planning on simplifying wiring, building a UV light enclosure, and then trying my hand at building a multichannel syringe-pump to use as the floating head (with eventual plans of making a complete PCR system with thermalcycler, centrifuge, and robotic arm).
