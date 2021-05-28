@@ -55,7 +55,7 @@ Alas, I was inspired by all of the available plans and by the "free and open-sou
 
 So, I tracked down one of my favorite [YouTubers](https://www.youtube.com/channel/UCJ10renzLSd4cJEn-C2e_Tw) (who is also the inventor of Otto) and told him my plans. He was pumped and offered to help when he was able to. This is what I love about the maker movement: everyone wants you to succeed. This became quickly apparent to me after witnessing the effort that strangers made while trying to help me (message boards, neighbors, fab labs, library, Dr. D Flo, etc.). 
 
-## Necessary tools
+## Plan
 
 First I needed to acquire the necessary tools, and, quite frankly, learn a little more about electronics. I've been a maker my whole life, but mostly with wood. I've only dabbled in electronics with my van build, occassional repairs, and house projects. I'm definitely not proficient and often jerry-rigging things. 
 
@@ -87,8 +87,7 @@ Potentially optional
 * Corner squares
 * 3D printer (check your local resources first)
 
-## Plan 
-Once I had built a few trivial electronics projects, I felt confident to take on the project. This is a classic case of "the less you know, the easier you think it will be." 
+Once I had built a few trivial electronics projects, I felt confident to take on the project. This is a classic case of "the less you know, the easier you think it will be." It was also the middle of a global pandemic, so... I was longing for a project to help enable my research and get my mind off the death and despair of the world. 
 
 My plan was to follow David Florian's Ottobot design as I thought he had made several inivative improvements over the OT-1 (and let's face it, it's also because he offered to help over zoom). After getting his design to work, I was then planning on simplifying wiring, building a UV light enclosure, and then trying my hand at building a multichannel syringe-pump to use as the floating head (with eventual plans of making a complete PCR system with thermalcycler, centrifuge, and robotic arm).
 
