@@ -152,7 +152,7 @@ This wouldn't be able to provide full power to the Nema 23s, but could work.
 This would be the perfect solution, but had not yet been released. I did try playing with PCB design for a minute though to see if I could get it working... then I realized I was definitely not an electrical engineer. 
 * [Duet2](https://www.duet3d.com/DuetWifi)
 This doesn't run on Smoothieware, though had the right stepper drivers. 
-[SKR 1.4](https://www.amazon.com/BIGTREETECH-Controller-Compatible-With12864LCD-5TMC2209/dp/B082QYYFVX/)
+* [SKR 1.4](https://www.amazon.com/BIGTREETECH-Controller-Compatible-With12864LCD-5TMC2209/dp/B082QYYFVX/)
 This would work, but had poor documentation. 
 
 Alas, I ordered the SKR board and a Smoothieboard v 1.1. 
