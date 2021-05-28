@@ -88,6 +88,28 @@ Potentially optional
 * 3D printer (check your local resources first)
 
 ## Plan 
-Once I had built a few trivial electronics projects, I felt confident to take on the project (this is a bit naiive of me as you will soon see). 
+Once I had built a few trivial electronics projects, I felt confident to take on the project. This is a classic case of "the less you know, the easier you think it will be." 
 
 My plan was to follow David Florian's Ottobot design as I thought he had made several inivative improvements over the OT-1 (and let's face it, it's also because he offered to help over zoom). After getting his design to work, I was then planning on simplifying wiring, building a UV light enclosure, and then trying my hand at building a multichannel syringe-pump to use as the floating head (with eventual plans of making a complete PCR system with thermalcycler, centrifuge, and robotic arm).
+
+## Build
+
+So, I found cheaper alternatives to the components found in Otto's [Bill of Materials](https://github.com/DrD-Flo/OTTO/blob/master/assets/download/OTTO-BOM-7-1-20.xlsx). In the end, this a was a mistake as some of the alternatives I ordered were not compatible (ex. the lead screw and couplers) and it ended up costing me a lot more time and money. 
+
+Here are most of the materials for the build. Not picture: aluminum extrusion for the bed and frame, pipette actuator, pipette, additional 3d printed components. 
+
+![Materials](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/materials.png)
+
+As pandemic "luck" would have it, I had a spare room open, so I moved the build into the spare room. 
+
+![Assembly1](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly1.png)
+
+One of the essential parts to building a CNC machine is ensuring it's square, so I used clamps and eventually two squares to make sure everything was squared nicely. 
+
+![Assembly1](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly2.png)
+
+
+
+
+
+
