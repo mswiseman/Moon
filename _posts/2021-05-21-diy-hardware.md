@@ -197,7 +197,7 @@ Microcontrollers and microprocessors are well suited for environmental sensing; 
 * [Low-cost electronic sensors for environmental research: Pitfalls and opportunities](https://journals.sagepub.com/doi/full/10.1177/0309133320956567)
 * [HardwareX special issue on environmental sensing](https://www.sciencedirect.com/journal/hardwarex/special-issue/10GZTLV8SHB)
 * [How to build an Arduino data logger](https://thecavepearlproject.org/how-to-build-an-arduino-data-logger/)
-* [Cave Pearl Data Logger: A Flexible Arduino-Based Logging Platform for Long-Term Monitoring in Harsh Environments](https://www.mdpi.com/1424-8220/18/2/530)
+* [Cave Pearl Data Logger](https://www.mdpi.com/1424-8220/18/2/530)
 * [Portable DIY hummingbird triggering system](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3040)
 * [DIY environmental microcontroller units (EMUs)](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13128)
 
