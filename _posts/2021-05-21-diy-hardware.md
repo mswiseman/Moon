@@ -4,7 +4,7 @@ title:  "DIY Laboratory Hardware"
 excerpt: "Resources to inspire creative problem solving"
 project: true
 feature: https://hackster.imgix.net/uploads/attachments/930989/pmp-ph-wiring-diagram_kIYhbdsmNg.png
-date: 2021-05-25
+date: 2021-05-28
 tag:
 - DIY 
 - maker
