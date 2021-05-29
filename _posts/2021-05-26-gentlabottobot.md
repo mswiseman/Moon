@@ -87,13 +87,13 @@ Potentially optional
 
 Once I had built a few trivial electronics projects, I felt confident to take on the project. This is a classic case of "the less you know, the easier you think it will be." It was also the middle of a global pandemic, so... I was longing for a project to help enable my research and get my mind off the death and despair of the world. 
 
-My plan was to follow David Florian's Ottobot design as I thought he had made several inivative improvements over the OT-1 (and let's face it, it's also because he offered to help over zoom). After getting his design to work, I was then planning on simplifying wiring, building a UV light enclosure, and then trying my hand at building a multichannel syringe-pump to use as the floating head (with eventual plans of making a complete PCR system with thermalcycler, centrifuge, and robotic arm).
+My plan was to follow David Florian's Ottobot design as I thought he had made several inivative improvements over the OT-1 (and let's face it, it's also because he offered to help me over zoom). After getting his design to work, I was then planning on simplifying wiring, building a UV light enclosure, and then trying my hand at building a multichannel syringe-pump to use as the floating head (with eventual plans of making a complete PCR system with thermalcycler, centrifuge, and robotic arm).
 
 ## Build
 
 *Note: This will be long and is not intended as something for you to build along with; it's intended to be lessons for those interested in building a similar machine. Consequently, I've emphasized and tried to explain the mistakes I made. I'm hoping to put together a polished build video in the future.*
 
-So, I found cheaper alternatives to the components found in Otto's [Bill of Materials](https://github.com/DrD-Flo/OTTO/blob/master/assets/download/OTTO-BOM-7-1-20.xlsx). In the end, this a was a mistake as some of the alternatives I ordered were not compatible (ex. the lead screw and couplers) and it ended up costing me a lot more time and money. 
+So, I found cheaper alternatives to the components found in Otto's [Bill of Materials](https://github.com/DrD-Flo/OTTO/blob/master/assets/download/OTTO-BOM-7-1-20.xlsx). In the end, this a was a mistake as some of the alternatives I ordered were not compatible (ex. the lead screw and couplers) and it ended up costing me a lot more time and money. I'll post my final BOM once I have it fully calibrated.
 
 Here are most of the materials for the build. Not picture: aluminum extrusion for the bed and frame, pipette actuator, pipette, additional 3d printed components. 
 
@@ -107,41 +107,45 @@ One of the essential parts to building a CNC machine is ensuring it's square, so
 
 ![Assembly2](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly2.png)
 
-Slipping in the T-nuts so I can secure the bed. You can see the Ottobot Fusion 360 file open in the background. This is when I realized I needed to tap the aluminum extrusion... something I had never heard of. Tapping means threading a predrilled hole. The aluminum extrusion I ordered from OpenTrons had been predrilled, but not tapped. Alas, I went to harbor freight and bought a very terrible tapping kit. Do not buy it. Go buy a quality M5 tap - it'll save you money, time, and blisters. 
+Slipping in the T-nuts so I can secure the bed. You can see the Ottobot Fusion 360 file open in the background. This is when I realized I needed to tap the aluminum extrusion... something I had never heard of. Tapping means threading a pre-drilled hole. The aluminum extrusion I ordered from Openbuilds had been predrilled, but not tapped. Alas, I went to harbor freight and bought a very terrible tapping kit. *Do not buy it*. Go buy a quality M5 tap - it'll save you money, time, and blisters. 
 
 ![Assembly3](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly3.png)
 
-I found tapping to be difficult. I suggest practicing on something if possible. If you have a vice, wrap your aluminum extrusion in a wash cloth (to protect it) and tighten it down. This will help immensely. Once everything was tapped, I secured the T plates with 8mm M5 screws and thus secured Otto's bed. 
+I found tapping to be difficult. I suggest practicing on something if possible. If you have a vice, then wrap your aluminum extrusion in a wash cloth (to protect it) and tighten it down. This will make tapping so much easier. Once everything was tapped, I secured the T plates with 8mm M5 bolts and thus secured the liquid handler's bed. 
 
 
 ![Tapping](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_4179(2).gif)
 
 
-**This was one of the many mistakes** I made during the build: trying to build the floating head while attached to the X-axis. If you take on this build, you should fully complete the floating head and then build the X-axis.  That way you don't have to undo/redo things a bunch of times. You can also see the comical mismatching or total absence of many screws. This was not intentional. By not following David's BOM exactly, I had miscalculated the number of screws and turns out you can't find M5 screws locally. Alas, I had to order more from Opentrons and shipping was slow during the pandemic, so many of the upcoming pictures also have missing/mismatching screws. 
+**This was one of the many mistakes** I made during the build: trying to build the floating head while attached to the X-axis. If you take on this build, you should fully complete the floating head and then build the X-axis...that way you don't have to undo/redo things a bunch of times. You can also see the comical mismatching or total absence of many bolts in this photo - this was not intentional. By not following David's BOM exactly, I had miscalculated the number of bolts, and, apparently, M5 bolts are not available locally. Alas, I had to order more from Openbuilds. Since shipping was painfully slow during the pandemic, many of the upcoming pictures also have missing/mismatching bolts. 
 
 ![Assembly4](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly4.png)
 
-Still mismatching screws 😆 , but I had assembled much of the floating head and X axis here. Eventually I'll mill a gantry plate - just need to find a mill locally. Now I needed to commit to buying the pipette actuator. This was night a light decision as this was the most expensive part of the build (~$200). I looked on eBay for months... but no non-captive stepper motors that would produce the same force and microstepping we needed. Alas, I ordered it and then had to step away until it arrived. 
+Still mismatching bolts 😆 , but I had assembled much of the floating head and X axis here. Eventually I'll mill a gantry plate - I just need to find a mill locally. Gantry systems can be tricky due to the eccentric nuts/spacers. Eccentric nuts/spacers allow you to adjust the tension of your wheels to the aluminum extrusion (higher tension = greater accuracy, but also greater stress to the motor and wheels). A guide to adjusting eccentric nuts [can be found here](https://www.youtube.com/watch?v=pMtHy7sDNG4). 
+
+![eccentric spacer](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/eccentric.png)
+
+Now I needed to commit to buying the pipette actuator. This was night a light decision as this was the most expensive part of the build (~$200). I looked on eBay for months... but no non-captive stepper motors that would produce the same force and microstepping we needed. Alas, I ordered it and then had to step away until it arrived. 
 
 Pardon the mess... it's a reality when you have a thousand small pieces and no real work space. 
 ![Assembly5](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_4295.jpg)
 
-In the meantime, I thought I'd try to get the motors moving, as per Dr. D Flo's suggestion. **This is when I really started realizing how little I know.** I bought the TMC2660 breakout board stepper drivers and I didn't know the first thing about breakout boards or stepper driver (yes, I literally had to google all of those words).  I tried putting jumper cables through the holes in the breakout board on a breadboard but the wouldnt get a good connection. Alas, I realized I need to [solder "headers" onto these boards](https://www.bakke.online/index.php/2017/05/18/soldering-headers-to-boards/). I also realized that these boards were too wide for a breadboard, so I literally hacked a breadboard to make them work (see [here](https://hackaday.com/2018/08/27/the-solution-to-oversized-dev-boards-a-literal-hack/). 
+In the meantime, I thought I'd try to get the motors moving, as per Dr. D Flo's (David Florian) suggestion. **This is when I really started realizing how little I knew.** I bought the TMC2660 breakout board stepper drivers (as per Ottobot BOM) and I didn't know the first thing about breakout boards or stepper driver... I literally had to google all of those words.  I tried putting jumper cables through the holes in the breakout board on a breadboard but wasn't able to get a good connection. Alas, I realized I need to [solder "headers" onto these boards](https://www.bakke.online/index.php/2017/05/18/soldering-headers-to-boards/). I also realized that these boards were too wide for a breadboard, so I literally hacked a breadboard to make them work (see [here](https://hackaday.com/2018/08/27/the-solution-to-oversized-dev-boards-a-literal-hack/). 
 
-I'm still not great at soldering, but I've learned [flux](hhttps://www.amazon.com/MG-Chemicals-milliliters-Pneumatic-Dispensing/dp/B00425FUW2/) makes it so much easier. 
+I'm still not great at soldering, but I've learned [flux](https://www.amazon.com/MG-Chemicals-milliliters-Pneumatic-Dispensing/dp/B00425FUW2/) makes it so much easier. Be sure to tin your soldering iron and fully heat your contact before applying solder. [Here's a great soldering guide](https://www.youtube.com/watch?v=6rmErwU5E-k&t=77s).
 ![Soldering](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/soldering.gif)
 
-Alas, I spent many, many hours (and at least two Arduino Dues) trying to David's incredibly complex wiring to work. I have so much respect for his wiring skills, but after ~20 or so hours troubleshooting, I was pretty disheartened. I had A4988 stepper drivers on hand and I could get them to move my nema 11, but I couldn't get anything to move with the TMC2660BOBs. I still don't have an answer to this. Feel free to shoot me feedback. 
+Alas, I spent many, many hours (and at least two Arduino Dues) trying to get David's incredibly complex wiring to work. I have so much respect for his wiring skills, but after ~20 or so hours troubleshooting, I was pretty disheartened. I had A4988 stepper drivers on hand and I could get them to move my Nema 11 stepper motor, but I couldn't get anything to move with the TMC2660 breakout board stepper drivers. I still don't have an answer to this. Feel free to shoot me feedback. 
 
 Here's my first major failure. I directly wired my 24V power supply to my Arduino Due. Poof! RIP. Newbie mistake. Most microcontrollers can't handle more the ~3V.
 ![Burned Out](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/burnedout.jpg)
 
-Alas, I made sure to not to wire high voltage directly through the my next Arduino Due. 
+Alas, I made sure to not to wire high voltage directly through my next Arduino Due. 
 ![New board](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/newboard.jpg)
 
-But, no matter what I did, I couldn't get any of the example Arduino files to run the motors. I tried uploading different firmware, I tried the Arduino IDE, I tried pronterface, etc. I checked the power draw to the motors (with multimeter) and it was only around 1.2V. This didn't make sense. These motors needed more power than that. Alas, it had to have been something in my wiring (perhaps an improper ground?). I wired and re-wired and tried not to lose my mind. **I decided that I needed to step away for a bit to regroup and then try to tackle the project with simpler wiring and software.**
+But, no matter what I did, I couldn't get any of the example Arduino files to run the motors. I tried uploading different firmware, I tried the Arduino IDE, I tried pronterface, etc. I checked the power draw to the motors (with a multimeter) and it found it to be around 1.2V. This didn't make sense as these motors needed more power than 1.2V. Alas, it had to have been something in my wiring (perhaps an improper ground?). I wired and re-wired and tried not to lose my mind. **I decided that I needed to step away for a bit to regroup and then try to tackle the project with simpler wiring and software.**
 
-So, with David's help, I explored options to simplify the wiring and software. I was interested in finding a chip with integrated stepper drivers as this would remove ~30 wires; unfortuntely, not many chips have integrated stepper drivers that can run the very powerful Nema 23 stepper motors we had ordered for the project (they're max power intake is 3A). I was also interested in finding a chip that could run the Opentrons software (which runs on Smoothieware). David's software is great, but at the time, it only worked on windows and I didn't own a windows computer.
+So, with David's help, I explored options to simplify the wiring and software. I was interested in finding a chip with integrated stepper drivers as this would remove ~30 wires; unfortuntely, not many chips have integrated stepper drivers that can run the very powerful Nema 23 stepper motors I had ordered for the project (they're max power intake is 3A). I was also interested in finding a chip that could run the Opentrons software (which runs on Smoothieware firmware). David's software is great, but at the time, it only worked on Windows and I didn't own a windows computer.
 
 That left me with very few options, especially for someone who doesn't know enough to circumvent the pitfalls of each option.
 * [Smoothieboard v 1.1](http://smoothieware.org/smoothieboard-v1)
@@ -153,32 +157,33 @@ This doesn't run on Smoothieware, though had the right stepper drivers.
 * [SKR 1.4](https://www.amazon.com/BIGTREETECH-Controller-Compatible-With12864LCD-5TMC2209/dp/B082QYYFVX/)
 This would work, but had poor documentation. 
 
-Alas, I ordered the SKR board and a Smoothieboard v 1.1. The Smoothieboard took eons to arrive, so I gave an A effort to get Otto running with the SKR board and TMC5160 stepper drivers. Ultimately, I was overwhelmed by the amount of changes necessary in the firmware and the physical changes necessary with the TMC5160 stepper drivers. This would probably be a great setup for someone with my experience. In the meantime: I tried to go for low hanging fruit to maintain morale. I replaced all the mismatching screws, designed a fun new face-plate, printed cable management clips, and started designing an enclosure. 
+Alas, I ordered the SKR board and a Smoothieboard v 1.1. The Smoothieboard took eons to arrive, so I gave an A effort to get the liquid handler running with the SKR board and TMC5160 stepper drivers. Ultimately, I was overwhelmed by the amount of necessary firmware changes and the contradictory documentation of necessary physical modifications to use the TMC5160 stepper drivers. This would probably be a great setup for someone with more experience (shoot me a memo if you'd like to give it a shot... I have the chips). In the meantime: I tried to go for low hanging fruit to maintain my morale. I replaced all the mismatching screws, designed a fun new face-plate, printed cable management clips, and started designing an enclosure. Aesthetics. 
 
 ![Faceplate Design](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_4195.jpg)
 
-Once the Smoothieboard arrived, I flashed the [OT-one firmware and config to it.](https://github.com/Opentrons/smoothie-config/tree/master/v2.0.0/one_standard). I then went through the arduous process of changing all the motor connections. AGAIN. Why can't these boards just share a common connector? Fortunately, the smoothieboard ships with the necessary connectors, so it's just a matter of cutting the old wires, stripping, crimping, and inserting in the connector. 
+Once the Smoothieboard arrived, I flashed the [OT-one firmware and config file to it.](https://github.com/Opentrons/smoothie-config/tree/master/v2.0.0/one_standard). I then went through the arduous process of changing all the motor connections. AGAIN. Why can't these boards just share a common connector? Fortunately, the smoothieboard ships with the necessary connectors, so it's just a matter of cutting the old wires, stripping, crimping, and inserting in the provided connector. 
 
 To get an idea of Smoothieboard setup, you can see this diagram from Arthur Wolf (co-creator). It's the original in the picture, but you get the idea: lots of setup is required. 
 ![Smoothieboard](https://live.staticflickr.com/7263/7832149516_76d367a105_b.jpg)
 
-Fortunately, Smoothieboard has very thorough documentation and a large community that offer help. **This was the magic answer.** I needed to choose a board that had good documentation and lots of help. I needed to ask for and accept more help. Once I did this, everything started working flawlessly-ish. This is probably a lesson I should have learned from my previous yearly feedback from Dave (my adviser), 'Michele, you're doing great, but your life would be easier if you asked for help earlier and more frequently.' 🤦‍♂️ Perhaps too stubborn for my own good.
+Fortunately, Smoothieboard has very thorough documentation and a large community that offer help. **This was the magic answer.** I needed to choose a board that had good documentation and lots of help. I needed to ask for and accept more help. Once I did this, everything started working flawlessly-ish. This is probably a lesson I should have learned from my previous yearly evaluation from Dave (my adviser), 'Michele, you're doing great, but your life would be easier if you asked for help earlier and more frequently.' 🤦‍♂️ Perhaps I'm too stubborn for my own good.
 
 ![Working in the lab](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/lab.jpg)
 
 [GIF of the motor moving!](https://drive.google.com/file/d/1Re4YQ6gIKHAVTnT0YlTY11NGimF6cE45/view?usp=sharing)
 
-Alas, once I had **finally** achieved movement from the motors, I went about wiring up my Ottobot. I used [3d printed cable clips](https://www.thingiverse.com/thing:3396905) (and [here](https://www.thingiverse.com/thing:4426587)), [drag chains](https://www.thingiverse.com/thing:1001437), and zip ties for cable management. Eventually I might put some sleeves over the cables too, but for now it's okay. There's some great tips on wiring [here](https://smoothieware.org/how-to-wire).
+Alas, once I had **finally** achieved movement from the motors, I went about wiring up my Ottobot-remixed liquid handler. I used [3d printed cable clips](https://www.thingiverse.com/thing:3396905) (and [here](https://www.thingiverse.com/thing:4426587)), [drag chains](https://www.thingiverse.com/thing:1001437), and zip ties for cable management. Eventually I might put some sleeves over the cables too, but for now it's okay. There's some great tips on wiring [here](https://smoothieware.org/how-to-wire).
 
 ![Cable Management](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/cablemanagement.jpg)
 
-I decided to also wire up a computer fan as the stepper drivers were quite hot in the demo run (not pictured). Eventually I'll probably swap the on-board drivers out for high power stepper drivers, but they seem to work okay for now. We'll see if how the compare to the actual opentrons robot once I get the pipette installed (I'm building a sturdier pipette holder). Overall, the wiring is just **so much easier**. I did have to jumper the two Y-axes together though (following the OT-one firmware to tell me where), but that was pretty simple. 
+I decided to also wire up a computer fan as the stepper drivers were quite hot in the demo run (not pictured). Eventually I'll probably swap the on-board drivers out for high power stepper drivers, but they seem to work okay for now. We'll see how the compare to the actual Opentrons robot once I get the pipette installed (I'm building a sturdier pipette holder). Overall, the wiring is just **so much simpler**. I did have to jumper the two Y-axes together (following the OT-one firmware to tell me where), but that was pretty simple (see below). 
 
 ![Wiring](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/wiring.png)
 
-So, here I am. The ottobot runs well with pronterface and I'm working the kinks out with the Opentrons software. 
+So, here I am. The Ottobot-remix runs well with pronterface and I'm working the kinks out with the Opentrons software. 
 
 Next steps: 
+* Print and install studier pipette holder
 * Machine gantry plate to add stability
 * Add external stepper drivers (more power)
 * Benchmark against OpenTrons Liquid Handler
@@ -187,7 +192,7 @@ Next steps:
 
 ![Ottobot](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/gentlabottobot.png)
 
-Eventually...?
+Eventually...? These are pipe dreams.
 * Robotic arm
 * Robotic centrifuge
 * Open real time thermal cycler
