@@ -190,7 +190,7 @@ Stepper motors are the most type of common motor deployed in high-precision CNC-
 ---
 
 ### Environmental sensors
-Microcontrollers and microprocessors are well suited for environmental sensing; as such, many accessory modules have been developed and able to detect air movement, humidity, temperature, light, vibration, sound, etc. If you're an OSU researcher and have a project involving environmental sensing, reach out to the [OPEnS Lab](https://open-sensing.org/) - this is their specialty. If not, I've provided some resources below. 
+Microcontrollers and microprocessors are well suited for environmental sensing; as such, many accessory modules have been developed and are able to detect air movement, humidity, temperature, light, vibration, sound, etc. If you're an OSU researcher and have a project involving environmental sensing, reach out to the [OPEnS Lab](https://open-sensing.org/) - this is their specialty. If not, I've provided some resources below. 
 
 * [Open Source Ecology](https://wiki.opensourceecology.org/wiki/Main_Page)
 * [Tutorials on several environmental sensors](http://www.osbss.com/tutorials/)
@@ -313,3 +313,5 @@ Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Ha
 I'd like to thank **David Florian** ([@DrDFlo](https://www.drdflo.com/)) for his help and feedback while navigating adaptation of [his Ottobot design](http://openliquidhandler.com/) for my application. Thank you to my fellow makers for all your feedback, my supportive labmates (Briana Claassen, Teddy Borland, Mary Block, Steve Massie, and Nanci Adair), and and my incredibly patient, kind, supportive, and brilliantly insightful adviser, **Dr. David Gent**. 
 
 To be clear, I collaborate with people that aren't named David too :sweat_smile:
+
+
