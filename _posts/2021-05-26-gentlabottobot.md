@@ -204,36 +204,44 @@ So, I ordered some beefy [DM542T](https://www.omc-stepperonline.com/digital-step
 
 Do I have enough power for these badboys? Let's do some math. 
 
+```
 P = power
 n = number of stepper motors
 I = motor rated current
 V = driving voltage (V = I x R)
 1.2 = meaning 20% of margin (some power loss to heat)
+```
 
-For the (**Nema 23's**)[https://openbuildspartstore.com/nema-23-stepper-motor/]
+For the [**Nema 23's**](https://openbuildspartstore.com/nema-23-stepper-motor/)
 
+```
 n = 3 (Y1, Y2, and Z axes)
 R = 1.1ohm (From datasheet)
 I = 2.8A (From datasheet)
 V = 3.08v (Calculated)
+```
 
-For the (**Nema 17**)[https://openbuildspartstore.com/nema-17-stepper-motor/]
+For the [**Nema 17**](https://openbuildspartstore.com/nema-17-stepper-motor/)
 
+```
 n = 1 (X axis)
 R = 1.65ohm (From datasheet)
 I = 1.68A (From datasheet)
 V = 2.78v (Calculated)
+```
 
-For the (**Nema 11**)[https://www.haydonkerkpittman.com/products/linear-actuators/hybrid-stepper/size-11]
+For the [**Nema 11**](https://www.haydonkerkpittman.com/products/linear-actuators/hybrid-stepper/size-11)
 
+```
 n = 1 (P axis)
 R = 2.1ohm (From datasheet)
 I = 1.0A (From datasheet)
 V = 2.1v (Calculated)
+```
 
-P = n x I x V x 1.2
-P = (3 x 2.8A x 3.08v x 1.2) + (1 x 1.68A x 2.78v x 1.2) + (1 x 1.0A x 2.1v x 1.2)
-P = 31 + 5.60 + 2.52 = 39.12
+**P = n x I x V x 1.2**
+
+P = (3 x 2.8A x 3.08v x 1.2) + (1 x 1.68A x 2.78v x 1.2) + (1 x 1.0A x 2.1v x 1.2) =39.12
 
 So, if I wanted to run these at full power, I would probably opt for a bigger power supply (48V). Because the application necessitates precision (and not necessarily torque), I won't be running these at full power. Instead, it's more likely I'll be running the X and Y and Z axes at ~1A and the P axis at ~500mA which puts me well within the limits of my 24V power supply. More power = more heat and more noise. 
 
