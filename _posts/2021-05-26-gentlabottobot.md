@@ -192,10 +192,60 @@ Next steps:
 
 ![Ottobot](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/gentlabottobot.png)
 
+# June 21st, 2021
+
+After a much needed step away from the liquid handler project - I am back! Unfortunately, some issues arose with my 3d printer, so I had to repair that before I could continue with Otto. Alas, everything is now fixed and it's time to optimize!
+
+While I was able to get Otto moving with pronterface and small changes to the OT-1 firmware, things weren't moving as fast as I'd expect them to. This is likely due to the current limitations of the on-board stepper drivers. The Y and Z motors used for this CNC have a max rating of 3.0A and the on-board drivers can only deliver a max of 2.0A. While 2A is plenty for the pipette and X axis motors, I need to beef things up for the Y and Z motors. Also, it's important to mention that running stepper drivers at maximum capacity is a bit of a safety risk as they will start to run hot. 
+
+So, I ordered some beefy [DM542T](https://www.omc-stepperonline.com/digital-stepper-driver-10-42a-20-50vdc-for-nema-17-23-24-stepper-motor-dm542t.html) stepper drivers which are capable of delivering current up to 4.2A and can also be programmed to 1/128 microsteps which should be plenty for 384-well plates. The only real drawback is that they are quite large, so it looks like I'll be building a larger electrical case. 
+
+![DM542T](https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQLeb4SM6q5viSUUG1WbaUltz5flfkqTn-43Gy1fdLS_P4raz3lPUNq51uHytH2q3hMxuSVTQqTwM00Uc-syBG0ul-2JYdQEA)
+
+Do I have enough power for these badboys? Let's do some math. 
+
+P = power
+n = number of stepper motors
+I = motor rated current
+V = driving voltage (V = I x R)
+1.2 = meaning 20% of margin (some power loss to heat)
+
+For the (**Nema 23's**)[https://openbuildspartstore.com/nema-23-stepper-motor/]
+
+n = 3 (Y1, Y2, and Z axes)
+R = 1.1ohm (From datasheet)
+I = 2.8A (From datasheet)
+V = 3.08v (Calculated)
+
+For the (**Nema 17**)[https://openbuildspartstore.com/nema-17-stepper-motor/]
+
+n = 1 (X axis)
+R = 1.65ohm (From datasheet)
+I = 1.68A (From datasheet)
+V = 2.78v (Calculated)
+
+For the (**Nema 11**)[https://www.haydonkerkpittman.com/products/linear-actuators/hybrid-stepper/size-11]
+
+n = 1 (P axis)
+R = 2.1ohm (From datasheet)
+I = 1.0A (From datasheet)
+V = 2.1v (Calculated)
+
+P = n x I x V x 1.2
+P = (3 x 2.8A x 3.08v x 1.2) + (1 x 1.68A x 2.78v x 1.2) + (1 x 1.0A x 2.1v x 1.2)
+P = 31 + 5.60 + 2.52 = 39.12
+
+So, if I wanted to run these at full power, I would probably opt for a bigger power supply (48V). Because the application necessitates precision (and not necessarily torque), I won't be running these at full power. Instead, it's more likely I'll be running the X and Y and Z axes at ~1A and the P axis at ~500mA which puts me well within the limits of my 24V power supply. More power = more heat and more noise. 
+
+Wiring for these is a little tricky, but nothing like wiring mess of the external TMC2660BOBs. 
+
+
+
+
+To be continued...
+
 Eventually...? These are pipe dreams.
 * Robotic arm
 * Robotic centrifuge
 * Open real time thermal cycler
 * Microprocessor to control microcontrollers
-
-# To be continued... (May 28th, 2021)
