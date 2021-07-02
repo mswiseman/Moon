@@ -13,7 +13,7 @@ tag:
 - automation
 comments: true
 ---
-**Can you break down tasks or processes from your research into simple, step-wise parts? Do you have processes that sequentially build off of previous steps? Does your work involve gathering multiple types of environmental data at regular increments? If so, you might consider exploring DIY software and/or hardware for your laboratory.**
+**Can you break down tasks or processes from your research into simple, step-wise parts? Do you have processes that sequentially build from previous steps? Does your work involve gathering multiple types of environmental data at regular increments? If so, you might consider exploring DIY software and/or hardware for your laboratory.**
 
 ## Background
 
@@ -27,11 +27,11 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * Creating customization and/or automation for repetitive tasks
 * Improving intra- and inter-laboratory reproducibility
 * Learning critical troubleshooting, coding, and electrical skills
-* Getting paid to build the socially-acceptable version of adult legos (:smirk:)
+* Getting paid to build the socially-acceptable version of adult Legos (:smirk:)
 
 ## Resources
 
-**Interested in learning more? I hope so!** I encourage you to first review the selected publications below as I believe they have exceptional documentation and show the breadth of possible applications. While purusing the published, peer-examples, think about similarities and differences between your work processes and the published work: does your research have similiar tasks or processes? If so, a good place to start is by learning more about the hardware and software implemented in the paper of interest. If electronic wiring and microcontrollers are new to you, you should then consider exploring a DIY kit before starting on a larger project - this will greatly reduce frustration later on by building troubleshooting skills in low stakes situations (versatile kits [here](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/), [here](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A/)). 
+**Interested in learning more? I hope so!** I encourage you to first review the selected publications below as I believe they have exceptional documentation and show the breadth of possible applications. While pursuing the published, peer-examples, think about similarities and differences between your work processes and the published work: does your research have similar tasks or processes? If so, a good place to start is by learning more about the hardware and software implemented in the paper of interest. If electronic wiring and microcontrollers are new to you, you should then consider exploring a DIY kit before starting on a larger project - this will greatly reduce frustration later on by building troubleshooting skills in low stakes situations (versatile kits [here](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/), [here](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A/)). 
 
 * [Selected publications for inspiration](#selected-publications)
 * [Peer reviewed scientific resources](#peer-reviewed-scientific-resources)
@@ -103,7 +103,7 @@ Other greenhouse tools: [Plug-and-play Hyperspectral Imaging Sensor](https://www
 ## Free and open source software
 [Back to top](#resources)
 
-Free and open-source software (FOSS) enable unrestrained reuse and modifaction of a software's source code. Linux OS and Mozilla Firefox are classic examples of FOSS that enjoy widespread usage. There's a great list of open CAM/CNC software [here](https://www.reddit.com/r/hobbycnc/comments/aj0hu8/list_of_free_and_open_source_camcnc_software/).
+Free and open-source software (FOSS) enable unrestrained reuse and modification of a software's source code. Linux OS and Mozilla Firefox are classic examples of FOSS that enjoy widespread usage. There's a great list of open CAM/CNC software [here](https://www.reddit.com/r/hobbycnc/comments/aj0hu8/list_of_free_and_open_source_camcnc_software/).
 
 ---
 
@@ -120,7 +120,7 @@ I've included direct links to the documentation of hardware commonly used in DIY
 
 <img align="center" width="500" alt="Microcontrollers" src="https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/microcontrollers.png">
 
-Boards |A. [Ardunio Nano](https://store.arduino.cc/usa/arduino-nano) |B. [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) |C. [Arduino Due](https://store.arduino.cc/usa/due) |D. [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
+Boards |A. [Arduino Nano](https://store.arduino.cc/usa/arduino-nano) |B. [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) |C. [Arduino Due](https://store.arduino.cc/usa/due) |D. [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
 --- | --- | --- | --- | ---
 Price | $20 | $30 | $40 | $4 
 Processor | ATmega328 | ATmega328P | AT91SAM3X8E | Dual-core Arm Cortex-M0+
@@ -230,14 +230,14 @@ There are endless tutorials and informational videos on YouTube, but some are mo
 
 ## Purchasing recommendations
 
-Regardless of who you buy from, most of your hardware components will be manufactured in China; alas, it is tempting to get the best price and buy from alibaba. Unfortunately, when you buy an open-source chip from alibaba or another third party seller, you are likely not supporting the developers who put time and energy into developing open-source hardware. If you have the financial means to pay slightly more to support open source developers, please do. Not only will you help support the movement, but also exchanges are easier and you typically recieve much better technical support. Further, there have been reports of shortcuts in ripoff hardware that have lead to safety hazards not present in original genuine open source release.  Nonetheless, open source is open source, so if your lab is in the dire straights, aliexpress will almost always be the cheapest option. 
+Regardless of who you buy from, most of your hardware components will be manufactured in China; alas, it is tempting to get the best price and buy from Alibaba. Unfortunately, when you buy an open-source chip from Alibaba or another third-party seller, you are likely not supporting the developers who put time and energy into developing open-source hardware. If you have the financial means to pay slightly more to support open-source developers, please do. Not only will you help support the movement, but also exchanges are easier, and you typically receive much better technical support. Further, there have been reports of shortcuts in rip-off hardware that have led to safety hazards not present in original genuine open source release.  Nonetheless, open source is open source, so if your lab is in the dire straits, Aliexpress will almost always be the cheapest option. 
 
 * Microprocessors and microcontrollers direct from designers
     * [Adafruit](https://www.adafruit.com/)
     * [Arduino](https://www.arduino.cc/)
     * [Raspberry Pi](https://www.raspberrypi.org/)
     * [Smoothieboard](http://smoothieware.github.io/Webif-pack/documentation/web/html/smoothieboard.html)
-* Custom Prited Circuit Boards (PCBs)
+* Custom Printed Circuit Boards (PCBs)
     * [Fritzing](https://fritzing.org/) 
 * Authorized resellers
     * [DigiKey](https://www.digikey.com/en/products) 
@@ -310,7 +310,7 @@ Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Ha
 
 ## Acknowledgments
 
-I'd like to thank **David Florian** ([@DrDFlo](https://www.drdflo.com/)) for his help and feedback while navigating adaptation of [his Ottobot design](http://openliquidhandler.com/) for my application. Thank you to my fellow makers for all your feedback, my supportive labmates (Briana Claassen, Teddy Borland, Mary Block, Steve Massie, and Nanci Adair), and and my incredibly patient, kind, supportive, and brilliantly insightful adviser, **Dr. David Gent**. 
+I'd like to thank **David Florian** ([@DrDFlo](https://www.drdflo.com/)) for his help and feedback while navigating adaptation of [his Ottobot design](http://openliquidhandler.com/) for my application. Thank you to my fellow makers for all your feedback, my supportive lab mates (Briana Claassen, Teddy Borland, Mary Block, Steve Massie, and Nanci Adair), and my incredibly patient, kind, supportive, and brilliantly insightful adviser, **Dr. David Gent**. 
 
 To be clear, I collaborate with people that aren't named David too :sweat_smile:
 
