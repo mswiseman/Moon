@@ -17,7 +17,7 @@ comments: true
 
 ## Background
 
-This website is a resourse for anyone interested in DIY **f**ree and **o**pen **s**ource **h**ardware and **s**oftware (FOSH and FOSS) for their plant science research. <br><br>I am **not** an engineer and thus I have tried to tread lightly in areas for which my terminology and/or understanding may not be accurate or thorough. Sometimes exploring a new skill or field can be frustrating or intimidating, especially early in the process; to overcome this, I encourage you to seek help from people who have more experience and from the many other resources available (videos, documentation, forums, books, etc.). Keep in mind: nobody is all-knowing and everyone has to start somewhere; alas, let's foster a collaborative and supportive DIY movement together!
+This website is a resource for anyone interested in DIY **f**ree and **o**pen **s**ource **h**ardware and **s**oftware (FOSH and FOSS) for their plant science research. <br><br>I am **not** an engineer and thus I have tried to tread lightly in areas for which my terminology and/or understanding may not be accurate or thorough. Sometimes exploring a new skill or field can be frustrating or intimidating, especially early in the process; to overcome this, I encourage you to seek help from people who have more experience and from the many other resources available (videos, documentation, forums, books, etc.). Keep in mind: nobody is all-knowing and everyone has to start somewhere; alas, let's foster a collaborative and supportive DIY movement together!
 
 ## Why DIY FOSH and FOSS?
 
