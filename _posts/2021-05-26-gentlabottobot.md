@@ -15,7 +15,7 @@ comments: true
 
 ## I do a lot of repetitive things in the name of science...
 
-...and if you're here, I'm guessing you do too. One process I've probably done 10,000+ times is setting up a polymerase chain reaction (PCR). This winter, before my comparative genomics class, I was talking for my professor, Dr. Aaron Liston, about how many plates I needed to run just to get pre-liminary data for my *MLO* work(~50). He suggested I look into robotics. **Of course**! How had this maker not considered that? So, after my amazing adviser (Dr. David Gent) gave me his blessing (*to spend an inordinate amount of time on this what-I-thought-would-be-side-project*) I scoured the internet and found numerous examples of scientists all over the world building their own liquid handlers (each with varying levels of documentation). 
+...and if you're here, I'm guessing you do too. One process I've probably done 10,000+ times is setting up a polymerase chain reaction (PCR). This winter, before my comparative genomics class, I was talking for my professor, Dr. Aaron Liston, about how many plates I needed to run just to get pre-liminary data for my *MLO* work (~50). He suggested I investigate robotics. **Of course**! How had this maker not considered that? So, after my amazing adviser (Dr. David Gent) gave me his blessing (*to spend an inordinate amount of time on this what-I-thought-would-be-side-project*) I scoured the internet and found numerous examples of scientists all over the world building their own liquid handlers (each with varying levels of documentation). 
 
 ### Opentrons
 ![Opentrons](https://opentrons.com/static/OT1_app-6bf1e6dce7a7ab1597563f2737975d8a.jpg)
@@ -47,7 +47,7 @@ Impressive public build.
 
 ## Idea
 
-Alas, I was inspired by all of the available plans and by the "free and open-source hardware" (FOSH) movement. In theory, by building your own automatated liquid handler, you can save money, customize your equipment, have more reproducible data, and expand access to scientific equipment globalling (by reducing cost). 
+Alas, I was inspired by all of the available plans and by the "free and open-source hardware" (FOSH) movement. In theory, by building your own automated liquid handler, you can save money, customize your equipment, have more reproducible data, and expand access to scientific equipment globally (by reducing cost). 
 
 ![Thought Process](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/thoughtprocess.png)
 
@@ -55,7 +55,7 @@ So, I tracked down one of my favorite [YouTubers](https://www.youtube.com/channe
 
 ## Plan
 
-First I needed to acquire the necessary tools, and, quite frankly, learn a little more about electronics. I've been a maker my whole life, but mostly with wood. I've only dabbled in electronics with my van build, occassional repairs, and house projects. I'm definitely not proficient and often end up "jury-rigging" things. 
+First, I needed to acquire the necessary tools, and, quite frankly, learn a little more about electronics. I've been a maker my whole life, but mostly with wood. I've only dabbled in electronics with my van build, occassional repairs, and house projects. I'm definitely not proficient and often end up "jury-rigging" things. 
 
 ![Van](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_9623(1).JPG)
 
@@ -87,7 +87,7 @@ Potentially optional
 
 Once I had built a few trivial electronics projects, I felt confident to take on the project. This is a classic case of "the less you know, the easier you think it will be." It was also the middle of a global pandemic, so... I was longing for a project to help enable my research and get my mind off the death and despair of the world. 
 
-My plan was to follow David Florian's Ottobot design as I thought he had made several inivative improvements over the OT-1 (and let's face it, it's also because he offered to help me over zoom). After getting his design to work, I was then planning on simplifying wiring, building a UV light enclosure, and then trying my hand at building a multichannel syringe-pump to use as the floating head (with eventual plans of making a complete PCR system with thermalcycler, centrifuge, and robotic arm).
+My plan was to follow David Florian's Ottobot design as I thought he had made several innovative improvements over the OT-1 (and let's face it, it's also because he offered to help me over zoom). After getting his design to work, I was then planning on simplifying wiring, building a UV light enclosure, and then trying my hand at building a multichannel syringe-pump to use as the floating head (with eventual plans of making a complete PCR system with thermalcycler, centrifuge, and robotic arm).
 
 ## Build
 
@@ -111,7 +111,7 @@ Slipping in the T-nuts so I can secure the bed. You can see the Ottobot Fusion 3
 
 ![Assembly3](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/assembly3.png)
 
-I found tapping to be difficult. I suggest practicing on something if possible. If you have a vice, then wrap your aluminum extrusion in a wash cloth (to protect it) and tighten it down. This will make tapping so much easier. Once everything was tapped, I secured the T plates with 8mm M5 bolts and thus secured the liquid handler's bed. 
+I found tapping to be difficult. I suggest practicing on something if possible. If you have a vice, then wrap your aluminum extrusion in a washcloth (to protect it) and tighten it down. This will make tapping so much easier. Once everything was tapped, I secured the T plates with 8mm M5 bolts and thus secured the liquid handler's bed. 
 
 
 ![Tapping](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_4179(2).gif)
@@ -127,7 +127,7 @@ Still mismatching bolts 😆 , but I had assembled much of the floating head and
 
 Now I needed to commit to buying the pipette actuator. This was night a light decision as this was the most expensive part of the build (~$200). I looked on eBay for months... but no non-captive stepper motors that would produce the same force and microstepping we needed. Alas, I ordered it and then had to step away until it arrived. 
 
-Pardon the mess... it's a reality when you have a thousand small pieces and no real work space. 
+Pardon the mess... it's a reality when you have a thousand small pieces and no real workspace. 
 ![Assembly5](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_4295.jpg)
 
 In the meantime, I thought I'd try to get the motors moving, as per Dr. D Flo's (David Florian) suggestion. **This is when I really started realizing how little I knew.** I bought the TMC2660 breakout board stepper drivers (as per Ottobot BOM) and I didn't know the first thing about breakout boards or stepper driver... I literally had to google all of those words.  I tried putting jumper cables through the holes in the breakout board on a breadboard but wasn't able to get a good connection. Alas, I realized I need to [solder "headers" onto these boards](https://www.bakke.online/index.php/2017/05/18/soldering-headers-to-boards/). I also realized that these boards were too wide for a breadboard, so I literally hacked a breadboard to make them work (see [here](https://hackaday.com/2018/08/27/the-solution-to-oversized-dev-boards-a-literal-hack/). 
@@ -145,7 +145,7 @@ Alas, I made sure to not to wire high voltage directly through my next Arduino D
 
 But, no matter what I did, I couldn't get any of the example Arduino files to run the motors. I tried uploading different firmware, I tried the Arduino IDE, I tried pronterface, etc. I checked the power draw to the motors (with a multimeter) and it found it to be around 1.2V. This didn't make sense as these motors needed more power than 1.2V. Alas, it had to have been something in my wiring (perhaps an improper ground?). I wired and re-wired and tried not to lose my mind. **I decided that I needed to step away for a bit to regroup and then try to tackle the project with simpler wiring and software.**
 
-So, with David's help, I explored options to simplify the wiring and software. I was interested in finding a chip with integrated stepper drivers as this would remove ~30 wires; unfortuntely, not many chips have integrated stepper drivers that can run the very powerful Nema 23 stepper motors I had ordered for the project (they're max power intake is 3A). I was also interested in finding a chip that could run the Opentrons software (which runs on Smoothieware firmware). David's software is great, but at the time, it only worked on Windows and I didn't own a windows computer.
+So, with David's help, I explored options to simplify the wiring and software. I was interested in finding a chip with integrated stepper drivers as this would remove ~30 wires; unfortunately, not many chips have integrated stepper drivers that can run the very powerful Nema 23 stepper motors I had ordered for the project (they're max power intake is 3A). I was also interested in finding a chip that could run the Opentrons software (which runs on Smoothieware firmware). David's software is great, but at the time, it only worked on Windows and I didn't own a windows computer.
 
 That left me with very few options, especially for someone who doesn't know enough to circumvent the pitfalls of each option.
 * [Smoothieboard v 1.1](http://smoothieware.org/smoothieboard-v1)
@@ -157,11 +157,11 @@ This doesn't run on Smoothieware, though had the right stepper drivers.
 * [SKR 1.4](https://www.amazon.com/BIGTREETECH-Controller-Compatible-With12864LCD-5TMC2209/dp/B082QYYFVX/)
 This would work, but had poor documentation. 
 
-Alas, I ordered the SKR board and a Smoothieboard v 1.1. The Smoothieboard took eons to arrive, so I gave an A effort to get the liquid handler running with the SKR board and TMC5160 stepper drivers. Ultimately, I was overwhelmed by the amount of necessary firmware changes and the contradictory documentation of necessary physical modifications to use the TMC5160 stepper drivers. This would probably be a great setup for someone with more experience (shoot me a memo if you'd like to give it a shot... I have the chips). In the meantime: I tried to go for low hanging fruit to maintain my morale. I replaced all the mismatching screws, designed a fun new face-plate, printed cable management clips, and started designing an enclosure. Aesthetics. 
+Alas, I ordered the SKR board and a Smoothieboard v 1.1. The Smoothieboard took eons to arrive, so I gave an A effort to get the liquid handler running with the SKR board and TMC5160 stepper drivers. Ultimately, I was overwhelmed by the amount of necessary firmware changes and the contradictory documentation of necessary physical modifications to use the TMC5160 stepper drivers. This would probably be a great setup for someone with more experience (shoot me a memo if you'd like to give it a shot... I have the chips). In the meantime: I tried to go for low hanging fruit to maintain my morale. I replaced all the mismatching screws, designed a fun new faceplate, printed cable management clips, and started designing an enclosure. Aesthetics. 
 
 ![Faceplate Design](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/IMG_4195.jpg)
 
-Once the Smoothieboard arrived, I flashed the [OT-one firmware and config file to it.](https://github.com/Opentrons/smoothie-config/tree/master/v2.0.0/one_standard). I then went through the arduous process of changing all the motor connections. AGAIN. Why can't these boards just share a common connector? Fortunately, the smoothieboard ships with the necessary connectors, so it's just a matter of cutting the old wires, stripping, crimping, and inserting in the provided connector. 
+Once the Smoothieboard arrived, I flashed the [OT-one firmware and config file to it.](https://github.com/Opentrons/smoothie-config/tree/master/v2.0.0/one_standard). I then went through the arduous process of changing all the motor connections. AGAIN. Why can't these boards just share a common connector? Fortunately, the Smoothieboard ships with the necessary connectors, so it's just a matter of cutting the old wires, stripping, crimping, and inserting in the provided connector. 
 
 To get an idea of Smoothieboard setup, you can see this diagram from Arthur Wolf (co-creator). It's the original in the picture, but you get the idea: lots of setup is required. 
 ![Smoothieboard](https://live.staticflickr.com/7263/7832149516_76d367a105_b.jpg)
