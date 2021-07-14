@@ -251,7 +251,7 @@ So, if I wanted to run these at full power, I would probably opt for a bigger po
 
 Wiring for these is a little tricky, but nothing like wiring mess of the external TMC2660BOBs. Plus, I tried to make it as easy as possible with a super detailed diagram. 
 
-![Otto Wiring Diagram](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/wiringdiagram_otto.tiff)
+![Otto Wiring Diagram](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/wiringdiagram_otto.jpg)
 
 A few things for clarity: 
 * The +/- leaving the DM542s are directly connected to a either a + or - (terminal block)[https://www.amazon.com/URBEST5-Position-Covered-Screw-Terminal/dp/B01CG2HI0E/]. This terminal block is then directly connected to either the V+ or V- on the power supply. 
@@ -260,7 +260,7 @@ A few things for clarity:
 
 ### Electronics enclosure
 
-I decided to make a clear electronics box enclosure, so everything would be kept safe and I could add some cool LEDs... well... for fun. The basic principle for building my electronic enclosure can be found [here](https://makezine.com/projects/tape-hinge-acrylic-box-construction/).
+I decided to make a clear electronics box enclosure, so everything would be kept safe and because I like visually inspecting the wiring without unassembling everything. The basic principle for building my electronic enclosure can be found [here](https://makezine.com/projects/tape-hinge-acrylic-box-construction/).I used a CNC router cut out the acrylic case and mark the joints. I then routed some venting and dados so I could slide on the top. Finally, everything (except the sliding top) was glued with [CA glue](https://www.amazon.com/CA-glue/s?k=CA+glue).
 
 
 
