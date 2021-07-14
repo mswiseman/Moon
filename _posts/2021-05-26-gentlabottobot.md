@@ -245,7 +245,14 @@ P = (3 x 2.8A x 3.08v x 1.2) + (1 x 1.68A x 2.78v x 1.2) + (1 x 1.0A x 2.1v x 1.
 
 So, if I wanted to run these at full power, I would probably opt for a bigger power supply (48V). Because the application necessitates precision (and not necessarily torque), I won't be running these at full power. Instead, it's more likely I'll be running the X and Y and Z axes at ~1A and the P axis at ~500mA which puts me well within the limits of my 24V power supply. More power = more heat and more noise. 
 
-Wiring for these is a little tricky, but nothing like wiring mess of the external TMC2660BOBs. 
+Wiring for these is a little tricky, but nothing like wiring mess of the external TMC2660BOBs. Plus, I tried to make it as easy as possible with a super detailed diagram. 
+
+A few things for clarity: 
+* The +/- leaving the DM542s are directly connected to a either a + or - (terminal block)[https://www.amazon.com/URBEST5-Position-Covered-Screw-Terminal/dp/B01CG2HI0E/]. This terminal block is then directly connected to either the V+ or V- on the power supply. 
+* The switches on DM542s can be set a variety of ways; I currently have mine set to microstep at 1/32 (off, off, on, on) and deliver ~1 - 1.65A (I'm still fine tuning this).
+
+
+I decided to make a clear electronics box enclosure, so everything would be kept safe and I could add some cool LEDs... well... for fun. The basic principle for building my electronic enclosure can be found [here](https://makezine.com/projects/tape-hinge-acrylic-box-construction/).
 
 
 
