@@ -264,7 +264,7 @@ And for some *very rough* photos...
 First let's start with the original wiring schematic; granted, this is simplified because it doesn't include the limit switches, but you get the idea. It's **intense**. 
 ![Original Ottobot Wiring](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/OTTO_wiring.jpg)
 
-Now, the simplest wiring by far was just the smoothie board and limit switches; however, the integrated stepper drivers just aren't powerful enough to run the 2.8A Nema 23s, so I kept it as simple as possible by only including the necessary external stepper drivers. Two switches are missing, but that'd just be three more wires. All-in-all, much simpler. 
+Now, the simplest wiring by far was just the smoothieboard and limit switches; however, the integrated stepper drivers just aren't powerful enough to run the 2.8A Nema 23s, so I kept it as simple as possible by only including the necessary external stepper drivers. Two switches are missing, but that'd just be three more wires. All-in-all, much simpler. 
 
 ![New wiring](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/Gent_lab_remix.jpg)
 
@@ -272,6 +272,15 @@ Now, the simplest wiring by far was just the smoothie board and limit switches; 
 ### Electronics enclosure
 
 I decided to make a clear electronics box enclosure, so everything would be kept safe and because I like visually inspecting the wiring without unassembling everything. It's pretty maddening when wires come loose every time you move the machine, so enclosures are a good idea. The basic principle for building my electronic enclosure can be found [here](https://makezine.com/projects/tape-hinge-acrylic-box-construction/).I used a CNC router cut out the acrylic case and mark the joints. I then routed some venting and dados so I could slide on the top. Finally, everything (except the sliding top) was glued with [CA glue](https://www.amazon.com/CA-glue/s?k=CA+glue). *pictures coming soon*
+
+### Making the remix Opentrons compatbile
+
+Unfortunately I then discovered that my limit switches were wired in conflict with the Opentrons software, so I repositioned all of my limit switches to reflect the X/Y/Z min (with the pipette sensor seated at Xmax). Next, I compiled the [custom Linux OS](https://github.com/Opentrons/buildroot) for Opentrons and uploaded to a [Raspberry PI 3+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/). I then connected the Raspberry Pi to the Smoothieboard with a [crossover](https://en.wikipedia.org/wiki/Ethernet_crossover_cable) ethernet cable. I specified a [static IP in my Smoothieware firmware](http://smoothieware.org/network) and then [directed the Opentrons software to that static IP](https://support.opentrons.com/en/articles/2934336-manually-adding-a-robot-s-ip-address). 
+
+**Voila!!** I now have a Opentrons compatible liquid handler. 
+
+Check her out in action:
+
 
 
 To be continued...
