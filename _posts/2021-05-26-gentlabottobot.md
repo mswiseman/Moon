@@ -287,9 +287,8 @@ Check her out in action:
 {% include youtubePlayer.html id="WGqljCRHpKo" %}
 
 
-<iframe src="https://youtu.be/embed/WGqljCRHpKo" width="560" height="315" frameborder="0">
+<iframe src="https://www.youtube.com/watch?v=WGqljCRHpKo&feature=youtu.be" width="560" height="315" frameborder="0" allowfullscreen="">
 </iframe></div>
-
 
 To be continued...
 
