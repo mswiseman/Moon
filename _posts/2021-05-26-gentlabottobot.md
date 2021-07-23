@@ -257,12 +257,21 @@ A few things for clarity:
 * The +/- leaving the DM542s are directly connected to a either a + or - (terminal block)[https://www.amazon.com/URBEST5-Position-Covered-Screw-Terminal/dp/B01CG2HI0E/]. This terminal block is then directly connected to either the V+ or V- on the power supply. 
 * The switches on DM542s can be set a variety of ways; I currently have mine set to microstep at 1/32 (off, off, on, on) and deliver ~1 - 1.65A (I'm still fine tuning this).
 * I used the common cathode configuration, but there are [other configuration methods](https://smoothieware.org/general-appendixes#external-stepper-drivers) if your setup is different. 
+* The pipette tip detection switches aren't pictured, but, essentially those can go pretty much anywhere that there is an open signal pin (see [pin out](http://smoothieware.org/pinout). 
+
+And for some *very rough* photos...
+
+First let's start with the original wiring schematic; granted, this is simplified because it doesn't include the limit switches, but you get the idea. It's **intense**. 
+![Original Ottobot Wiring](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/OTTO_wiring.jpg)
+
+Now, the simplest wiring by far was just the smoothie board and limit switches; however, the integrated stepper drivers just aren't powerful enough to run the 2.8A Nema 23s, so I kept it as simple as possible by only including the necessary external stepper drivers. Two switches are missing, but that'd just be three more wires. All-in-all, much simpler. 
+
+![New wiring](https://raw.githubusercontent.com/mswiseman/mswiseman.github.io/master/assets/img/Gent_lab_remix.jpg)
+
 
 ### Electronics enclosure
 
-I decided to make a clear electronics box enclosure, so everything would be kept safe and because I like visually inspecting the wiring without unassembling everything. The basic principle for building my electronic enclosure can be found [here](https://makezine.com/projects/tape-hinge-acrylic-box-construction/).I used a CNC router cut out the acrylic case and mark the joints. I then routed some venting and dados so I could slide on the top. Finally, everything (except the sliding top) was glued with [CA glue](https://www.amazon.com/CA-glue/s?k=CA+glue).
-
-
+I decided to make a clear electronics box enclosure, so everything would be kept safe and because I like visually inspecting the wiring without unassembling everything. The basic principle for building my electronic enclosure can be found [here](https://makezine.com/projects/tape-hinge-acrylic-box-construction/).I used a CNC router cut out the acrylic case and mark the joints. I then routed some venting and dados so I could slide on the top. Finally, everything (except the sliding top) was glued with [CA glue](https://www.amazon.com/CA-glue/s?k=CA+glue). *pictures coming soon*
 
 
 To be continued...
