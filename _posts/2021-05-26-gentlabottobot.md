@@ -271,7 +271,7 @@ Now, the simplest wiring by far was just the smoothie board and limit switches; 
 
 ### Electronics enclosure
 
-I decided to make a clear electronics box enclosure, so everything would be kept safe and because I like visually inspecting the wiring without unassembling everything. The basic principle for building my electronic enclosure can be found [here](https://makezine.com/projects/tape-hinge-acrylic-box-construction/).I used a CNC router cut out the acrylic case and mark the joints. I then routed some venting and dados so I could slide on the top. Finally, everything (except the sliding top) was glued with [CA glue](https://www.amazon.com/CA-glue/s?k=CA+glue). *pictures coming soon*
+I decided to make a clear electronics box enclosure, so everything would be kept safe and because I like visually inspecting the wiring without unassembling everything. It's pretty maddening when wires come loose every time you move the machine, so enclosures are a good idea. The basic principle for building my electronic enclosure can be found [here](https://makezine.com/projects/tape-hinge-acrylic-box-construction/).I used a CNC router cut out the acrylic case and mark the joints. I then routed some venting and dados so I could slide on the top. Finally, everything (except the sliding top) was glued with [CA glue](https://www.amazon.com/CA-glue/s?k=CA+glue). *pictures coming soon*
 
 
 To be continued...
