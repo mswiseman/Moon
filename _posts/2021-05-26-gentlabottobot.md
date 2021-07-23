@@ -282,6 +282,10 @@ Unfortunately I then discovered that my limit switches were wired in conflict wi
 Check her out in action:
 
 
+<iframe src="https://youtu.be/embed/WGqljCRHpKo" width="560" height="315" frameborder="0">
+</iframe>
+
+
 
 To be continued...
 
