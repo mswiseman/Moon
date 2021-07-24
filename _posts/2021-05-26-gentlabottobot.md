@@ -280,8 +280,7 @@ Unfortunately I then discovered that my limit switches were wired in conflict wi
 **Voila!!** I now have a Opentrons compatible liquid handler. 
 
 
-
-<iframe width="560" height="315" src="https://youtu.be/embed/WGqljCRHpKo" frameborder="0"> </iframe><br>
+<iframe width="560" height="315" src="//www.youtube.com/embed/WGqljCRHpKo" frameborder="0"> </iframe>
 
 
 *To be continued...*
