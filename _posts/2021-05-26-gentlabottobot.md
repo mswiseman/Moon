@@ -281,14 +281,7 @@ Unfortunately I then discovered that my limit switches were wired in conflict wi
 
 Check her out in action:
 
-<div class= "embed-youtube">
-
-
-{% include youtubePlayer.html id="WGqljCRHpKo" %}
-
-
-<iframe src="https://www.youtube.com/watch?v=WGqljCRHpKo&feature=youtu.be" width="560" height="315" frameborder="0" allowfullscreen="">
-</iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WGqljCRHpKo&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 To be continued...
 
