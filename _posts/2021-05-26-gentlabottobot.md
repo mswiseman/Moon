@@ -281,7 +281,7 @@ Unfortunately I then discovered that my limit switches were wired in conflict wi
 
 
 
-<iframe width="560" height="315" src="//youtu.be/embed/WGqljCRHpKo" frameborder="0"> </iframe><br>
+<iframe width="560" height="315" src="https://youtu.be/embed/WGqljCRHpKo" frameborder="0"> </iframe><br>
 
 
 *To be continued...*
