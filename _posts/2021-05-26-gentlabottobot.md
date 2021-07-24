@@ -279,15 +279,22 @@ Unfortunately I then discovered that my limit switches were wired in conflict wi
 
 **Voila!!** I now have a Opentrons compatible liquid handler. 
 
-Check her out in action:
-<br>
+<div class="container-fluid overflow-hidden">
+		<div class="row justify-content-center">
+			<!-- MUSIC VIDEOS -->
+			<div class="col-12 p-4 box-shadow gt5bg">
+				<div class="h1 white text-center pt-0 pb-2 drop-shadow-light">Check her out in action!</div>
+				<div class="embed-responsive embed-responsive-16by9 box-shadow mw-watch m-auto vid-watch">
+					<iframe class="embed-responsive-item" src="https://youtu.be/embed/WGqljCRHpKo"
+						frameborder="0" allowfullscreen></iframe>
+				</div>
+			</div>
 
-<iframe class="embed-responsive-item" src="https://youtu.be/embed/WGqljCRHpKo" frameborder="0" allowfullscreen></iframe>
 
-To be continued...
+
+*To be continued...*
 
 Eventually...? These are pipe dreams.
 * Robotic arm
 * Robotic centrifuge
 * Open real time thermal cycler
-* Microprocessor to control microcontrollers
