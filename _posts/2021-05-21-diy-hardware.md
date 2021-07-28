@@ -266,6 +266,7 @@ Available help for your environmental sensing projects as well as access to 3d p
 ## Insightful Reviews and Commentary 
 [Back to top](#resources)
 
+* [Harnessing the Benefits of Open Electronics in Science](https://arxiv.org/abs/2106.15852)
 * [A Review of Raspberry Pi Usage in Scientific Research](https://www.raspberrypi.org/blog/raspberry-pi-a-versatile-tool-for-biological-sciences/)
 * [Smoothieware vs. Marlin: Which Firmware is Better](https://www.3dprintingspot.com/post/smoothieware-vs-marlin-which-firmware-is-better)
 * [A DIY approach to automating your lab](https://www.nature.com/articles/d41586-019-01590-z)
@@ -286,6 +287,8 @@ Available help for your environmental sensing projects as well as access to 3d p
     * [Open-Source Lab](https://www.thingiverse.com/thing:182640)
     * [Plant Science DIY](https://www.thingiverse.com/mswiseman/collections/diy-hardware-for-the-plant-sciences)
 * [GaudiLabs Open Hardware Projects](http://www.gaudi.ch/GaudiLabs/?page_id=19)
+* [Open-Source Lab](https://www.appropedia.org/Open-source_Lab)
+* [PLOS Open-Source Toolkit](https://collections.plos.org/collection/open-source-toolkit-hardware/)
 
 ---
 
