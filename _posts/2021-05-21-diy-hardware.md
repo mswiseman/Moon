@@ -309,7 +309,6 @@ Available help for your environmental sensing projects as well as access to 3d p
 [Back to top](#other)
 * [OpenPlant](https://www.openplant.org/)
 * [Protocol IO](https://www.protocols.io/)
-*
 
 ---
 
@@ -324,6 +323,6 @@ Feel free to [email me](mailto:michele.wiseman@oregonstate.edu?subject=Open%20Ha
 
 I'd like to thank **David Florian** ([@DrDFlo](https://www.drdflo.com/)) for his help and feedback while navigating adaptation of [his Ottobot design](http://openliquidhandler.com/) for my application. Thank you to my fellow makers for all your feedback, my supportive lab mates (Briana Claassen, Teddy Borland, Mary Block, Steve Massie, and Nanci Adair), and my incredibly patient, kind, supportive, and brilliantly insightful adviser, **Dr. David Gent**. 
 
-To be clear, I collaborate with people that aren't named David too :sweat_smile:
+To be clear, I collaborate with people that aren't named David too :sweat_smile:. Updated March 15th, 2022. 
 
 
