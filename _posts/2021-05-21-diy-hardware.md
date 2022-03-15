@@ -4,7 +4,7 @@ title:  "DIY Laboratory Hardware"
 excerpt: "Resources to inspire creative problem solving"
 project: true
 feature: https://hackster.imgix.net/uploads/attachments/930989/pmp-ph-wiring-diagram_kIYhbdsmNg.png
-date: 2021-05-28
+date: 2022-03-15
 tag:
 - DIY 
 - maker
@@ -47,6 +47,7 @@ If your lab is fortunate enough to be flush with funding, you may be asking: why
 * [Links to insightful reviews and commentary](#insightful-reviews-and-commentary)
 * [Useful CAD Libraries and Open Hardware Repositories](#useful-cad-libraries-and-open-hardware-repositories)
 * [Books](#books)
+* [Other](#other)
 * [Contact](#contact)
 
 <sub>*Disclosure statement: I do not benefit financially from any of the links on this page.*</sub>
@@ -301,6 +302,14 @@ Available help for your environmental sensing projects as well as access to 3d p
 * [Make: Electronics: Learning Through Discovery](https://www.amazon.com/Make-Electronics-Learning-Through-Discovery/dp/1680450263/ref=pd_sbs_3/134-5390653-5442422?pd_rd_w=MPp99&pf_rd_p=f8e24c42-8be0-4374-84aa-bb08fd897453&pf_rd_r=50ZDS4X0ENSBGA950ZMJ&pd_rd_r=c8ae5535-5a71-468f-947b-a63c9233195e&pd_rd_wg=J58Dv&pd_rd_i=1680450263&psc=1)
 * [Programming Arduino: Getting Started with Sketches](https://www.amazon.com/Programming-Arduino-Getting-Started-Sketches-ebook/dp/B01FJ24SZG/ref=zg_bs_157705011_3?_encoding=UTF8&psc=1&refRID=Q3EHVD9HG6EHVDP7VG9C)
 * [Raspberry Pi Cookbook](https://www.amazon.com/Raspberry-Pi-Cookbook-Software-Solutions-ebook/dp/B07Z78XCTH/ref=zg_bs_157705011_2?_encoding=UTF8&psc=1&refRID=Q3EHVD9HG6EHVDP7VG9C)
+
+---
+
+## Other
+[Back to top](#other)
+* [OpenPlant](https://www.openplant.org/)
+* [Protocol IO](https://www.protocols.io/)
+*
 
 ---
 
